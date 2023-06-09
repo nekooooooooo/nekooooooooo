@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="508" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="492" class="">
     <defs>
         <style/>
     </defs>
@@ -143,7 +143,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        79 hours played
+                                        80 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -160,32 +160,32 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            92 / 120 achievements unlocked
+                                            95 / 120 achievements unlocked
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABAcBBggF/8QALRAAAQQBAgQEBQUAAAAAAAAAAQIDBBEFABIGITFBBxMiURQVMkJxI1JykcH/xAAYAQACAwAAAAAAAAAAAAAAAAAAAgEEBf/EAB0RAAICAwADAAAAAAAAAAAAAAECAAMEERITIaH/2gAMAwEAAhEDEQA/AFVJx2UyC58uJJddSmatgMIeUpzqTYQDe0VV6EXgs9sKlR8hsSNxJS5Qrufb86sHhvJzSOL5LvDzKHJivOOx2qCSr1XZAsfnTuYz+eVwrmI+fbYjb4q0NBhI9YKFXdE3256yrspqG59a+yytfY3M5fIs/V/D5Hpf0uaDaE2LlIzUlyShfnNgpWtQP1DqDrQmd4mnDJ4mClZRGkpSFg9TVd70ofEUhfHKFJJO51n1d/t0Y2Y1zcsoA1B6gg2DDvCVwN8WyzYspe6mvu1csrAyxTIeVmbY2LUWtxNp5nb/AFy0k3viGpshTaHR+qvog/uOpMqbXPzq/idNdhG2zyBoJbyNER7TceudkIEre2lMcD0k9RpceI8Z9ni2M95Sy2442WiBe/aUg178xWqkh/IK5ITIJ9g2o/5rrxn83kZeHZmszFx4jqAje2qkJ3A9x00tWK2O3RYEaktaHGtT/9k=" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAABAAMBAAAAAAAAAAAAAAAABwMFBgL/xAAwEAACAgAFAgMFCQEAAAAAAAABAgMEAAUREiEGMRNBYRQiMlGBBxUjJEJSkaHB8P/EABkBAAIDAQAAAAAAAAAAAAAAAAIDAAEEBf/EAB8RAAICAQQDAAAAAAAAAAAAAAECAAMhBBESEyIxUf/aAAwDAQACEQMRAD8AKnNi/nOawLftJKrymvGJG2yFW+DvwdoOnqAPPFIZLsjhVsWH5BH4rHny0574sqtR7maXLCyQxgWHJWWwkTfETwCdfqOxwp9LZbkOW3HzTqA27UckUa12rIdU3KVLS7T8QUDseddw9ObZetGPeJoCF4MzzX4GKyWLSsDoQZXBB/nEmWXLTZnTDWrBBnjBBlYg+8PXCN9okWXZ6ntuV+NJZWbwHZhtVl2kqdT27ac6E/TB7Woy1szpeKu38xGNQyn9Q+ROG03rdXuRsfkFkKmdReC2aXfaJHRRJKVCLqXbcdF17Aevp2OETIumM5OUSx3iUr29sjV5H2yEryj6EaA6EjnQ7T5ag4NbMNhMzssIJiPGfkRt+4+mN5V6+vQwxK+Xsdkax75PFckDty3/AHPoMI1iWMo6sw6ioPlJ8/6avR5Mlaq2sQYzNAzgu76AakD3eANANT3ODmqJIc2rLsJdZ090DkkMONPnjez9aXZ33fdjyMPLbJ/nbGWy6jfm6gpztRtJH7QrszRNoo3a6kkf3iaU2IrC2XbxJHCf/9k=" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Spiritual Jade</div>
-                                                <div class="unlocked">8 Jun 2023</div>
+                                                <div>Professional Athlete</div>
+                                                <div class="unlocked">9 Jun 2023</div>
                                             </div>
-                                            <div class="description">Unlock 20 Spiritual Jade in [Spiritual Assault].</div>
+                                            <div class="description">Complete Normal difficulty in 30 minutes.</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQABAAIDAAAAAAAAAAAAAAAABwMFAgQI/8QALRAAAgEDAgQFAgcAAAAAAAAAAQIDBAURACEGEhMxIjJBUWEUUjNCcYGTodH/xAAXAQEBAQEAAAAAAAAAAAAAAAACAwQF/8QAHxEAAgIBBAMAAAAAAAAAAAAAAQIAAwQREiExEyJB/9oADAMBAAIRAxEAPwAZvFbWvea6NKup5RO4CiVgAOY7YzrYez30W562Va4UqcpMjuwXcjBGTv5l7dsj31c8E2NuIOLJgYS0f1DM6NtnLnCn2z6/Ab20qXO5TV1fb7VScP0Md6oo5ATVKJiyFgeYjynzNIQRgbbHA1zLcpaiEHzuaFrLczn16itQ+Kpqv5W/3U1srKo3OjDVVQQZ4wQZWIPiHzpb4isdrvFpgpDb1tvFEMRZjBGogrRnAIKnl5iCCCoAzkH4LZbZJbb7RwyshJmiYNG4cEFh2I21WrJruBA7hZGXmWNiv7WS6XQp1A03UjVkk5Cp6gIOcHbw4I9QSNIMIN4le90hgq6bqLUzUz5MrSBAJAce+5x2O36aIK+mnNfVEQTY6z4Ijb7j8akpJ66kYPHHUIR+YIw/vQvxBZ7IdDElpXg9RmaWRxA9LSvFDTyOESpfDeM5d/j7QPTJ0Z8SXJK/iiGWnTmVZ4woRd3ww3x7n0/bWc3EV3nohTR09T+H03YRuxcb98jY4JG3f11XWa3XBr3QyyUVUqCdGZmiYAAMNzkalj4/h1d47LNwCrP/2Q==" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGgABAAIDAQAAAAAAAAAAAAAABwYIAQIEBf/EAC8QAAEDAgMFBgcBAAAAAAAAAAECAwQFEQASIQYTMUFxIiMyQlJhBxQVM1FygdH/xAAYAQACAwAAAAAAAAAAAAAAAAADBAABBf/EABwRAAMAAgMBAAAAAAAAAAAAAAECAwAEERIhMf/aAAwDAQACEQMRAD8AGqi/MfrM1CJMkp+YcASHVWtnNgBfEmpGwG1VUjh5mHOSxbMHZDhaR1BWRf8AmMfD+nxqrtnlnMyXI29dfdQxosJSSo87gcL21/GuHeTV3Xm20F0SF50oS6tdg4kkhKybHXynTxfi+MXb3GiQiD3G5y7+nK2rpNV3Mt1JmFuIAp851d0CrKM2una0x5sN+SmpxEqkPkb5sEF1XqHvhe2ylz4H1NNMW6y1U27TGBqULTxVpyUnzcCCr+D7SSKtFBuO/b4fsMNatjZSSMHROh4zuptTkU6rSHIr7jLm8cTmQopJGY6XHLCS9tK0h6CiJPVLaeZRv1PoAUFK8SrjgedtbZRqcEstp4TZBDTv3V+Q+o+2No7khtYJadt+hxd9Ra8NkSpXzLESnMynF5QpdlJ6g8untgLq8VcSvNN5LuJfQQlIvftAi3XElibZ1FFOSwiI44+kZQ8pClHnytx/zEcisVGXXobzsSWQZKFrcU0r1AkkkYU04PAsW+Ya1FcALn//2Q==" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Eyes on Weakness</div>
-                                                <div class="unlocked">7 Jun 2023</div>
+                                                <div>Destiny's Choice</div>
+                                                <div class="unlocked">9 Jun 2023</div>
                                             </div>
-                                            <div class="description">Kill 50 Rogue Arsonists by breaking the oil barrels on their backs.</div>
+                                            <div class="description">Using 200 times of [Falling Star] of [Legendary Astrohouses].</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
                                         <div>
-                                            <div class="description ellipsis">+90 others...</div>
+                                            <div class="description ellipsis">+93 others...</div>
                                         </div>
                                     </div>
                                 </div>
