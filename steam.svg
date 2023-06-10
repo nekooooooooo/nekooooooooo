@@ -143,7 +143,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        84 hours played
+                                        86 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -160,7 +160,17 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            96 / 120 achievements unlocked
+                                            97 / 120 achievements unlocked
+                                        </div>
+                                    </div>
+                                    <div class="achievement">
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAABAYHAgMF/8QAKRAAAgEDAwQABgMAAAAAAAAAAQIDBAURABIhBjFBYRMUMjNRUhUjQv/EABcBAAMBAAAAAAAAAAAAAAAAAAIDBAX/xAAcEQACAwEBAQEAAAAAAAAAAAABAgADBBESITH/2gAMAwEAAhEDEQA/AI1dJ6yW71wFVUbBPIAPitgDcfei7T09fLxUxw0QqHDMoMjylUTJ4Ykn0Txk8HGu90C0B6nqaqb4YeN5JIxNGHXcX43Agr5Pfz71Wr0lL1FTwFY0p73TZemkdVKxEect/nzj6gRkZxnWRftNLBAJWlPsepAL7Z79ZJnS4R1iIJDEsySM8bsPAYE8nvg4PrQFvqaj+RpAaif70YIMjfsPeni+WytpLlPlWFaJPmYayhBhWuKHd4GGY8lXA3BvznSpc7W9q6pWlIlEYqUaNpBhihYEE++cH2Dqum4WLw87yKZCv2bLHd3tHUjTB5RC00kcyx92RiQRjsSM5APkDTv09f2AioqpC0uRA8UxMch2tgmMNwc+UzkNnU0rIZvnagiKb7rkEIf2OjbTd7ta5EMDTGJZPiGKWMuhbPJ5HBP5GDodGVbl6P2FVaUMvtdeqZrO8twVKynPbdjDHn6s9iMHJxkY7Z4Mb6sLHqWEje7B4SkZZmKZ2nYAxLDGcYPOe/OsR1RepjPhJP7W37Up/oYZwy8cNg43d9AW6luE96oZHoqsIKhGZjCwAG4EkkjUmXK2ckuY220P8UT/2Q==" alt="" />
+                                        <div>
+                                            <div class="name">
+                                                <div>Unwavering Preference</div>
+                                                <div class="unlocked">10 Jun 2023</div>
+                                            </div>
+                                            <div class="description">Obtain Zi Xiao's exclusive level frame.</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
@@ -174,18 +184,8 @@
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAABAAMBAAAAAAAAAAAAAAAABwMFBgL/xAAwEAACAgAFAgMFCQEAAAAAAAABAgMEAAUREiEGMRNBYRQiMlGBBxUjJEJSkaHB8P/EABkBAAIDAQAAAAAAAAAAAAAAAAIDAAEEBf/EAB8RAAICAQQDAAAAAAAAAAAAAAECAAMhBBESEyIxUf/aAAwDAQACEQMRAD8AKnNi/nOawLftJKrymvGJG2yFW+DvwdoOnqAPPFIZLsjhVsWH5BH4rHny0574sqtR7maXLCyQxgWHJWWwkTfETwCdfqOxwp9LZbkOW3HzTqA27UckUa12rIdU3KVLS7T8QUDseddw9ObZetGPeJoCF4MzzX4GKyWLSsDoQZXBB/nEmWXLTZnTDWrBBnjBBlYg+8PXCN9okWXZ6ntuV+NJZWbwHZhtVl2kqdT27ac6E/TB7Woy1szpeKu38xGNQyn9Q+ROG03rdXuRsfkFkKmdReC2aXfaJHRRJKVCLqXbcdF17Aevp2OETIumM5OUSx3iUr29sjV5H2yEryj6EaA6EjnQ7T5ag4NbMNhMzssIJiPGfkRt+4+mN5V6+vQwxK+Xsdkax75PFckDty3/AHPoMI1iWMo6sw6ioPlJ8/6avR5Mlaq2sQYzNAzgu76AakD3eANANT3ODmqJIc2rLsJdZ090DkkMONPnjez9aXZ33fdjyMPLbJ/nbGWy6jfm6gpztRtJH7QrszRNoo3a6kkf3iaU2IrC2XbxJHCf/9k=" alt="" />
                                         <div>
-                                            <div class="name">
-                                                <div>Professional Athlete</div>
-                                                <div class="unlocked">9 Jun 2023</div>
-                                            </div>
-                                            <div class="description">Complete Normal difficulty in 30 minutes.</div>
-                                        </div>
-                                    </div>
-                                    <div class="achievement">
-                                        <div>
-                                            <div class="description ellipsis">+94 others...</div>
+                                            <div class="description ellipsis">+95 others...</div>
                                         </div>
                                     </div>
                                 </div>
