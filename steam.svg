@@ -39,7 +39,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="m.427 1.927 1.215 1.215a8.002 8.002 0 1 1-1.6 5.685.75.75 0 1 1 1.493-.154 6.5 6.5 0 1 0 1.18-4.458l1.358 1.358A.25.25 0 0 1 3.896 6H.25A.25.25 0 0 1 0 5.75V2.104a.25.25 0 0 1 .427-.177ZM7.75 4a.75.75 0 0 1 .75.75v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5A.75.75 0 0 1 7.75 4Z"/>
                             </svg>
-                            2.70k hours played
+                            2.71k hours played
                         </div>
                     </section>
                 </div>
@@ -143,7 +143,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        9 hours played
+                                        11 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -151,7 +151,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M4.75 0a.75.75 0 0 1 .75.75V2h5V.75a.75.75 0 0 1 1.5 0V2h1.25c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0 1 13.25 16H2.75A1.75 1.75 0 0 1 1 14.25V3.75C1 2.784 1.784 2 2.75 2H4V.75A.75.75 0 0 1 4.75 0ZM2.5 7.5v6.75c0 .138.112.25.25.25h10.5a.25.25 0 0 0 .25-.25V7.5Zm10.75-4H2.75a.25.25 0 0 0-.25.25V6h11V3.75a.25.25 0 0 0-.25-.25Z"/>
                                         </svg>
-                                        Last played on 16 Jun 2023
+                                        Last played on 17 Jun 2023
                                     </div>
                                 </div>
                                 <div class="achievements">
@@ -160,32 +160,32 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            102 / 241 achievements unlocked
+                                            131 / 241 achievements unlocked
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABwYFAv/EADAQAAEEAQMCBAILAQAAAAAAAAECAwQFEQAGMQcSEyFBURUyFBYiI0JSYXGBkZLw/8QAFwEBAQEBAAAAAAAAAAAAAAAABAMBAv/EACQRAAEDAwQCAwEAAAAAAAAAAAECAwQAESESMUFRFGEFcZGh/9oADAMBAAIRAxEAPwA73/vCzdvHK6E7JhmvdcjrcQ+r77BABI9OD/esmFY7nmIeVGm2j6WUd7pbUtXYnOMnHAz66dqTZ207OZdWCoTdjYfTpUee0pzuLeXDgpT+BYHaQfXz1ztHZczZ26ZdtVWERG25EYtuvOqIWgdwIAH5gRjz99CjGJEjBBbGoAb8nnOTfoflUk+W+9r1kAnjjrGKn9o1I3B0rlSmbOy+sCUKfD6ZK1YwVdqAkHg47SMZyQdQOwN4WjV43XTXJMtVg63HStx9Q8HJIJx68j2403zbODs+u+IVtSwismySJEhptaVHxD5KAOe0DlSjgZ450OTYbbHXWMhrt8Jdwy6kp4IWUqyP9azxmpcd5JQNiRwf5nfjrFd+Q9HdbUFHo3zWRe3djQ9UtwWVJLVGlCweCvVDqe/5Vp4UP+GNIcbqxU3MJdfuSqkwETkliW/Gc72gkjHcR83P6EjnJ1D9Q9rOC5VZUj71p8QdXIeQ22B4BVghOQo55PtxqebprsDBq5f+NLhyYUuMha1gGw9ZHo+6NIamxnlJSkkX6vSvQdQKuHHt9t7vmLtqZSy3EfwtSpSSskBxYUAE4CQBgDn9tHm2mlQepdCytrwQiyZKUZJAT3+WD7Y1kyaO5ebKDVSyCMfJq92FUofYhSdzFyLPrFBxhx1BSrCV5Cc92F/ZH8Z99Glvxfj0OuMrBCxsDextuAOzvVozD8zSl1BCknGNx0friv/Z" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAABAYBBwIDBf/EAC0QAAEDAwMDAgQHAAAAAAAAAAECAwQFBhEAEiETMUEiURUWMnIjYWNzgZGy/8QAFwEAAwEAAAAAAAAAAAAAAAAAAAQFA//EACIRAAEEAgIBBQAAAAAAAAAAAAECAwQRADESIbFBYXGB8P/aAAwDAQACEQMRAD8AQr1uipP1pyBFdkRfh7jkdS0Pq/F2kAEjx2P96OtC3b1uja5AkTG4fmVIfWhr+D3UftB1w7paAvuveyai7/vVz06feUa6i9vE+hy3uk30ylxlhrJ2KSUfSQMZB4Ol4kNptlKeI1+3m78lxSybyp6tGuCnyVMu1WW2pslL3WeUjpEe/PbW61bjlxK3HgGoOVMVJaGA4HlAMZJGcc5zke3bTJVLVuB2uSJKFKajRn1Zly1hCHgDkrUVYznwEjj89I1oJSu9Lf7HdUWcn39ffSjsBS0KS5VUaoD6sgDsdarKjk6PxCo6SFdXZPWtCz0e92R7dZN1Pj55uA+jBqD3KvuOmuw7tYtnqMiO2piQ+hUhxBx00hJHpSO6snOPbWE6GzRbok1iA/OqYqDUhSkRWUEMOOAbd4KvWkZJwcZKRnRrF1ONstt/K9QIS6l4bkN8IShKTE/YVtKie+T207EmNOMJUVDXqa85JfjuIcKeJwe+7tjXMlDSoyBFjvqUw4pX1pKQPUk8hWeceBpUtZxsXvb5b2bRUGeU+PWNOpu1wKBNqznQl9cgoWhva6hQWBDV+gncMeeO3bQkRlqu3HEqlQVLpQpZDzapTSCuUeqtzZkKAAQClAPPA8cDRLmNNMKIUNfPjBiO4twJ4nP/2Q==" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>The Blacksmith - Barbarian II</div>
-                                                <div class="unlocked">16 Jun 2023</div>
+                                                <div>Massacre IV</div>
+                                                <div class="unlocked">17 Jun 2023</div>
                                             </div>
-                                            <div class="description">Craft the rare Barbarian weapon.</div>
+                                            <div class="description">Eliminate a total of 200000 enemies.</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAQQGBQL/xAApEAABAwMEAAUFAQAAAAAAAAABAgMEBQYRABIhMRMiQVFxFBYjYZFC/8QAFwEAAwEAAAAAAAAAAAAAAAAAAQIFA//EACERAAICAQMFAQAAAAAAAAAAAAEDAhEABDFRFCFhcYHR/9oADAMBAAIRAxEAPwCEvK5alIrTsCK7IimA45HUpD6vzbSACR6dH+64oLFzVl9lMeXURHUsByQVr2IHqSc8/A0vc8fde1wBPBE98D9eY6tZV+0+HTBGeamQ1piNJDjTCnUMlSeMnr041JmvpUQgpYJI91lRB6lspNnQHzJStsXJS5LiXZlQMVKiESQtexY7znPHxo2Zc9SZrTcGS5IlCe4iOla31fi3EgkD17H81SQr4gSqeYjQlSnjDcKlPMKaS8MAHBPBBzzqXt1hDV5280nGfr2AT2T5hrQpGoRODIAED1itkdO2MlTsH7guGQr73uDYls5nvnKhn/R0lejNZbMZmkqnKi1OE1HksRgpSXi3yEqSO/cfB1q3tQ1t1Zc6jPu1IT3HH3g20B4JUQQnIUc9n2603b1cuGAWWXojwQnO2QqGl1SBsUnapHAWCDjPY/eivUxbBTISHmzR4O+FawoNWwGzt2sWPXOTdrN1qfUJLtfcnlFNpyobQlBQ8JOPK2kHoAZONa1AcR952+tAax9ewSUjkeYaduKq1GbJfYpNDkwqas8jwhuXlICtqcnYCrccZOAcDGlrMoJXWhPqsh6mpguIkMpcaB8cpJJTkqGOh796Z2qipbWTkPFG/A25wSUGBS1A2N7Fdz+Z/9k=" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAABAAMBAAAAAAAAAAAAAAAABgAEBQP/xAAqEAABBAEDAgUEAwAAAAAAAAABAgMEEQUABiESMSJBUWGRExUygRZxwf/EABcBAAMBAAAAAAAAAAAAAAAAAAEDBAD/xAAiEQABAwQCAgMAAAAAAAAAAAABAgMEABEhMUFRIvASscH/2gAMAwEAAhEDEQA/ADObyeSy2XkwokxMFzHOLj26+5TwSQLPT2PHHfvqY2JOdmqZyW4WoyUEdX0XXn1qHsAQPkjVLI4j7hvnPhx1UeMie+FPJT1Gwr8QLFnn1rRbL5FrbmfUMY+BFKVhS5SfE4pIBodIIBN8X+zosx4zENKAjysM73vYNZTsh2QVqV49a+j+Uv3YmXgHGlJ3EiQw6ohKll9paaHmLI+DrntnckuNl2Ii5K5YyLzcVCvrOJ6LsFQCuSORzx5aPDMN72yzcWW+iPACErbWw0XFtLNil3Vmu4HHPBOt2BtteA3xtlJcZlRZE5lLUlkKo0oeFQULSqvL40ZkOO8wtKUjR4tkazYc0WpDzbiVXO+71U3Tlj/NM2wlRAE6QCK4A6yb4/ehWSgnKSXiEOOJ6iodA5QaHzp1vPbymM87lMNIdyZyCnHXkIaSAwV0avqN9z6dtVYUTJMkLjxpcVak9LgLVj+x76REmMvNIuoAG1+DfRwac4w42pQKbn3qju3YKMW8qutJBCqXwo0O/sNPsLuNTmf27Hk9dy5zBQkggeFwG68q/wB1kSMat+M+h+HNfcKPyW2fEfTW3gILeRk45/LFzGfZ3Uyo63WwVPEXbfKhQ4HPOrpcyPGiOKS4MjA2etD3up24zzzyB8Dg1//Z" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Prestigious Pyromancer I</div>
-                                                <div class="unlocked">16 Jun 2023</div>
+                                                <div>The Death Knight</div>
+                                                <div class="unlocked">17 Jun 2023</div>
                                             </div>
-                                            <div class="description">Reach prestige level 5 with the Pyromancer.</div>
+                                            <div class="description">Unlock the Death Knight.</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
                                         <div>
-                                            <div class="description ellipsis">+100 others...</div>
+                                            <div class="description ellipsis">+129 others...</div>
                                         </div>
                                     </div>
                                 </div>
