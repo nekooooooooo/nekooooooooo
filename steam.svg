@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="579" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="563" class="">
     <defs>
         <style/>
     </defs>
@@ -39,7 +39,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="m.427 1.927 1.215 1.215a8.002 8.002 0 1 1-1.6 5.685.75.75 0 1 1 1.493-.154 6.5 6.5 0 1 0 1.18-4.458l1.358 1.358A.25.25 0 0 1 3.896 6H.25A.25.25 0 0 1 0 5.75V2.104a.25.25 0 0 1 .427-.177ZM7.75 4a.75.75 0 0 1 .75.75v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5A.75.75 0 0 1 7.75 4Z"/>
                             </svg>
-                            3.33k hours played
+                            3.34k hours played
                         </div>
                     </section>
                 </div>
@@ -68,7 +68,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        3 hours played
+                                        6 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -85,32 +85,32 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            17 / 155 achievements unlocked
+                                            36 / 155 achievements unlocked
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABAUAAwYH/8QAKBAAAgIBAwQBBQADAAAAAAAAAQIDBBEABRITITFBUQYUMnGBFWGx/8QAFwEBAAMAAAAAAAAAAAAAAAAAAgEDBP/EAB0RAAIDAAMBAQAAAAAAAAAAAAECAAMREjFRQXH/2gAMAwEAAhEDEQA/AOeRRMakUjbk9RAgAREDZwPOPWrNqij3SQxVd8udYHuGgTBHsggnS6z9sRUFhQzGIceYJXyf5nRL1YNtuRi47s7cWkghQnpxt7Yr4/Q1tY4NiqpWwhSc335NFa2CJa8j1vqGzIydu6JgsPWPI0misWYjJFLdkmRonBjfjjx4IB7+feptFyi+9PVp8+jN+MgjbDuM9hnycf8ANMPqCj9jwC140jmZ5A4bk2eAyv6940VbkAck30CpynIHPOj+RBJMIpNvQxM/XAjyr8D2BOM/GiZ4n5KVic/kimWUsFIUkD9/3QEstaYUZY71bhHGCFZsMr/I7H12x/rTL/Iba9PoT2VZRyK8JFXDMuMk986BUltEqBwTOS3Yam4VLEytG8TOrrETyU47Nk506O5z7lLE5sSS01ifp9Tsc+9CRV9m6gaxOJF9gTKM/wBxoi3b2evGpoLDXjjjbkqS8uZI+PnTQEdxM2z/2Q==" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGwAAAgEFAAAAAAAAAAAAAAAABAUDAAECBgf/xAArEAACAgEDAgQFBQAAAAAAAAABAgMEEQAFIRIxE0FhkRQiMlGBQnFyodH/xAAYAQACAwAAAAAAAAAAAAAAAAABAwACBP/EAB0RAAICAgMBAAAAAAAAAAAAAAECABEDIRIiMUH/2gAMAwEAAhEDEQA/AObRiZkjCW5IEEa4VSmDx6n01K8FlFRpN0mTr+gMY8t+wzqoKckleS2GREr1l8PxBlXkJOAR5gDJP41rm1TWH3AkK9qxK+S/IYjHsNa2evIsLZ35HEVkyyFI91s5ClvmVFBx5DJ5Pp56PrWrCq6teknhkhf5G6cdvMA+vY6RV8bvdWuJEhlVHYCWTPXyWwD2/wB0dW27cqK15NwqvDFPXZ4mJyDx29CPMaXjyFjTS+RAp6GxLbju8dajVpTwGWFk62AJ7E4PA/j/AHoKpvAO4Rrt0JrIjKyg4Xn789+M6y3ER3asHwu6wxRtCFaMyFSWyeTjuOcY1DtUI2+y86X6Hi9OFIOce/599FlJNiLK3uM7FytVE0cG30usuGeyEYyBySQqkngemPfTfcLTW6VJzdktKEdcs+QD0DPHl2+2k25XVveGXsbchX6grnDc8nH38tDIdvovNNDaXw2RiY/EDDqx+ngHQVOLAydvpn//2Q==" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Chasing Shadows</div>
+                                                <div>Seasoned Wanderer</div>
                                                 <div class="unlocked">9 Nov 2023</div>
                                             </div>
-                                            <div class="description">Complete the Providence Trial "Inner Demons".</div>
+                                            <div class="description">Collect 15 Monster Logs.</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAABQYHBP/EAC0QAAIBAwMCAwcFAAAAAAAAAAECAwQFEQAGIRJBEyIxBxQyQlFhYhUzkaGy/8QAFgEBAQEAAAAAAAAAAAAAAAAAAwEC/8QAHxEAAgICAgMBAAAAAAAAAAAAAQIAERIhMVEiQWHw/9oADAMBAAIRAxEAPwCU1M108WnhtomcGJMJEnVyT0jj7nAH30xWbam57jKkUtTVUUjlFXx7fP05Yc5YJgYPBJ40GiFH+pW41zhUaNVA9fmJ5H0z31RdoXWht9wq5pq2opLM2RLJb1LIspHlJC5wQeAPppmD2Wy1+9fYAUm976gSp9nW+YutYyspVyodZUCuufiAJz6dvXS/S1NwglqKW4VDmRYpFkhcYwRxgr/WDqxT7quItcVXbahJ6aedzStLFhmgJ8nVnnPTjJ7nUu3wax9+XGW4+GJmiyAmB5CMocD8camLqykk0e4dkMNxJ3K5QUrD18Af6OtE90qaGCKSgkjlEqeK/hkq0S5+BwOP40UirKYLRTwVluwiAlKiBJTnBHzA8c+h7jOtkV+aGrilWXbksS/uQyW2FRIM/CSq5A1PIOSBzNCweI92yVZdl7bRAxYU8ZIx+IGlPe0cse9q/wB6VknMOVXrLgx48pyftjjt6aLW72jQ25hLQ2rbFLUYKl4IyhC/QY0nXa9S11zqLjdLqlWTEyqC+SuTnAHYZ7DSu5fAVVTAU5Az/9k=" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABAMCBQf/xAAqEAABAwMEAQMDBQAAAAAAAAABAgMEERIhAAUTMVEiQWEUcYEVgpGx0f/EABcBAQEBAQAAAAAAAAAAAAAAAAECAAT/xAAeEQEAAgIBBQAAAAAAAAAAAAABAAIRMRIhQVHh8P/aAAwDAQACEQMRAD8A8xKpynIrEN1xNzabUpH41SMzuciUmO1NcU+V8amwMg+Milf60qJNVtqY8tlQS8mOopUTlKsgEfIrUfOoObkoTi7uFjzqkBKw16R7n1HBUc0zX7n27+kCr4I+FCcdiSPqdzkMSbORhLrVOQfBGM5p3WhOAK6DAnTeWUxJkrWgNLSUKFAcU69x8HVdlkRZb4YluLjM3A+klRDY7Sk9gkVSD7XeNb4muB1xtBUlXIWnaillqSE07xUj+OtKDqSCZH1FtSNt/R2WJcSS6uwuVZsSlQsAAUoi4AEE+kg5OubuEB1G2s7pPZWIkgnhevSC4QSFA0HYI6pXOiOPRXo8RxjcWUWoFUqVmvmn5prSH460cb24REoHViRQftwPz3ozmapxc1d7+7QbrSFMh5kKCMEpX2Aej9sU60ra5LqUPMhZ4ygqp4ND/usvqjKvCNyYXfS5SsVANQAB0NRbeiww64qYwsWEUSrPXjRpl2Sf/9k=" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>A Sweet Smell</div>
+                                                <div>Beneath the Temple</div>
                                                 <div class="unlocked">9 Nov 2023</div>
                                             </div>
-                                            <div class="description">Complete the Providence Trial "Specimen Sampling". Alternatively: Complete 25 stages as Enforcer.</div>
+                                            <div class="description">Find the Artifact of Spirit.</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
                                         <div>
-                                            <div class="description ellipsis">+15 others...</div>
+                                            <div class="description ellipsis">+34 others...</div>
                                         </div>
                                     </div>
                                 </div>
