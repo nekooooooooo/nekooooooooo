@@ -39,7 +39,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="m.427 1.927 1.215 1.215a8.002 8.002 0 1 1-1.6 5.685.75.75 0 1 1 1.493-.154 6.5 6.5 0 1 0 1.18-4.458l1.358 1.358A.25.25 0 0 1 3.896 6H.25A.25.25 0 0 1 0 5.75V2.104a.25.25 0 0 1 .427-.177ZM7.75 4a.75.75 0 0 1 .75.75v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5A.75.75 0 0 1 7.75 4Z"/>
                             </svg>
-                            3.35k hours played
+                            3.36k hours played
                         </div>
                     </section>
                 </div>
@@ -68,7 +68,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        23 hours played
+                                        27 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -85,32 +85,32 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            104 / 155 achievements unlocked
+                                            109 / 155 achievements unlocked
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABwQGBf/EACsQAAICAQQABAYCAwAAAAAAAAECAwQRAAUSIQYTMWEUIkFRgZEHcUKx8P/EABcBAQADAAAAAAAAAAAAAAAAAAEAAgT/xAAdEQACAgIDAQAAAAAAAAAAAAABAgAhAxESMkFh/9oADAMBAAIRAxEAPwAss2LMKwLDO8aGIYC4xqyvFefbhae5LwZ1TkCMRls8Swx2CVI9tR242lamkYyxiHX5Okbw/wCD7c2xkSxzBvlHw5JTkR6EkjrtnPYzjWnI1hQdShFVMcNt3UbQtx7UmHl8kEMp4vjoEY7BPy5z0fzqXa9xuS+ek9p3iMLDg2MHr6j6/wBaTpfBO5mFKguQQ1YZFcIq+ZyVCW6C959euvX10ZWK8VbdLEddXWIRnjzGPv8A97HOhSQ/EncBJbMiotdZF5xSQBXUHBxnPR+/WkWv4o3fctoEOyiwIKiMz+SOPCFQMZY/MWBBycjIPto5nalZr1ZI79dcRhSrN3n1119j3yDa9rvVEt1WNlBGW5f48w3+x+tGVT2WQ1cRf4ls2mpbod6thzWkWb4h3DHgc5ViOsAqffOfbR74k3FNz8TX7ERco3mMOTZIyT1+sD8Y+mqaHitKXhi1tUNyqGssDJJy7IC4x/R6J/WsutitWM00lyCTKNni3ZJ9tGNW3tvID7P/2Q==" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAABgcCBAMFCP/EACwQAAEEAQMDAgQHAAAAAAAAAAECAwQFEQAGIRITMSJBBxRRcSUzYZGhsdH/xAAXAQADAQAAAAAAAAAAAAAAAAACAwQB/8QAKhEAAgEDAQUIAwAAAAAAAAAAAQIRAAMhMQQSE2GBIiMyQVGRofBx4fH/2gAMAwEAAhEDEQA/AFk21ZyZUGNBf7CHghltSh6FOK8Iz4BOPGo2sPcVZKejvvqUtlXQvtgK5+mjbYdHUWjlc5c9p5BfbY+V6ylxYWQApOOeM50cxI+5L1CZ0BLyqhK1MsRWl9lpHT6QkY5/3VnDuFpYMqnzgkfFND2FQwVZgNCwUz11xy6ziudnLi0bWUuSVoUPIUANbagup0pySzJklbXYV6DjB9sEDzp213w3evrRs3G3kM1zy+kqjPfkk+Vg+/20Eb6+GEzYUz5lbwegSettpQJyCASM/rgZ1r2nttuuwnkZpYv7PeWbIOROY9tTn6Kr7Suq6tXXJs89LakvIKACoHI5I8kce3OjByVY17z4SbB2oQnrjvRHR09HkE54HHtpV11omusIFtVz4aZTLBbT3uSknOTj7EjnVSXMfkFX4nDbSrnCFkfz50AgHtLvCZ1IHx+vzVAYMshwpiPCGOp9YgjyMmZyMU0mt9xttXbcl+xsJ7bJDiWe8OV/QkcFIP086DNwb+tt7Wbhs3VdhpK1NNY4RnPj98aC3ICHFFTlnEWo+SpWT/Ws8BEetW885MjOJ7ZGEEZzo2u3LjTcj2A+/wApPC2e0vdDMRqT19JPLnX/2Q==" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Sixth Sense</div>
+                                                <div>The Hunt</div>
                                                 <div class="unlocked">11 Nov 2023</div>
                                             </div>
-                                            <div class="description">Huntress: Defeat the Ancient Wisp without taking damage.</div>
+                                            <div class="description">Huntress: Defeat 3 unique event bosses in one run.</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAwcABAUG/8QAKxAAAQMDAgUEAQUAAAAAAAAAAQIDBAAFERIhBgcxQXEUIlGhEzdUVWHB/8QAFwEAAwEAAAAAAAAAAAAAAAAAAQIDBP/EACIRAAICAQMEAwAAAAAAAAAAAAECAAMRBCGBMUFRcbHh8P/aAAwDAQACEQMRAD8AVsmRKaTHSw+ttBaBCU4xQfVz/wB079Vt2a8Isc+JNNuiz1oYwluSjWnJOAcZwT16/PimGzzcsOn9P4al9VaW2zk47e2tDuwOBKrWgQFu/wC8RRern95ih5UkVftlwmLMht+UpxosqGk4KTt/Wx8V1D/Flkk3JMtqyTYEZxQJaZfaUjr7sAjO++wPjFX+Y1/4e4kEKbZYSIc1LZbfQhgtAo0HGe2QcDbt80i3EkAytmmULlQeZh2PhNXEtoddj3O3xZUYtoTHlvBr8iVJyVhRPbJGPut6By2nhlQTxRYYCwromYFhQO5xjpS9echyI0VbU+OnDYSUrO+f8oGlj+QifVFq2JyDAmoUKBnHH3GseXyHrWiLdeNLS7Ht6CiO3GwspKjqIUcpwO+d/FK6GgNyXkghQCFDIoWmP19fDz87ZqNvRYgdcVMYWNBGEq3J8U1SFDuYl9y2Dbr6A+J//9k=" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQABAQEAAwAAAAAAAAAAAAAABAMCAAUH/8QAKxAAAgEDAwEHBAMAAAAAAAAAAQIRAwQhABIxBRMUIkFRYXEGgZGxY5LB/8QAGAEAAgMAAAAAAAAAAAAAAAAAAQIAAwT/xAAgEQACAgEEAwEAAAAAAAAAAAABAgARIQMSMfAyQUJx/9oADAMBAAIRAxEAPwDy+rVvF7BLas1NOyBgEAAeueNZW5rbtjdQunf+KmpX7EkT+NKrR3S0EJlSDu88SPmIP5Gp1ApRz2YRAqsdyyw4/GDzrazbTUdNOxdSa17gqzC/u2AyYogR7GSM/E6Z07qFat3lO/Va1NaLb6dRQOccAkEeWdEuRS7CoyRsC4JXzjEnmZ0X6eIL3mPELY7jMydw0Qd0BUcVO0dmW0sGUgEK+SJgQsnUam/Y6DxbT4ghlXXnE/r51Sje2T21oy9QoUwqefiMmJkSPQfEawtTp9NdtPqdEKZ4TieTljP2jSOpY2OJZpOirnnuJyolOpb1GVi7BCYIyARGfc6J0JWAvCyBdtAJiPMzn3xpVR7GpbVKDdWt9jGQeyyD/b/dFWvZ2VOpsu6LUVQwFaWYxyfU/rUQFfKDUZfk3jP733P/2Q==" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Thread the Needle</div>
+                                                <div>Near the Core</div>
                                                 <div class="unlocked">11 Nov 2023</div>
                                             </div>
-                                            <div class="description">Complete the Providence Trial "A Rung Above".</div>
+                                            <div class="description">Find the Artifact of Sacrifice.</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
                                         <div>
-                                            <div class="description ellipsis">+102 others...</div>
+                                            <div class="description ellipsis">+107 others...</div>
                                         </div>
                                     </div>
                                 </div>
