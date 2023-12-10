@@ -68,7 +68,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        19 hours played
+                                        23 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -85,32 +85,32 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            12 / 127 achievements unlocked
+                                            23 / 127 achievements unlocked
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGgAAAgMBAQAAAAAAAAAAAAAAAgcDBAUGCP/EACoQAAEEAQMEAQIHAAAAAAAAAAECAwQRBQASIQYTMUEiMmEUFSNCUXHw/8QAFgEBAQEAAAAAAAAAAAAAAAAAAgME/8QAHBEAAgICAwAAAAAAAAAAAAAAAQIAAwQSEzFB/9oADAMBAAIRAxEAPwDzyluIYkFb8JsJLaRSAUlyjyd38nnnwPGgV07PXhjlU414QAraZAQrt3def74vxfHnVSG3+LciMlez6RuWo0kX5+w96ZfXuQY6Xx7GIjpTJmLxxhOSlKKdrRdUdvaBI5ABCibKVA0CdZrLCrBV7M1U0q6l26EVkdLAJLjYV9rOtliJBLEouMNghorBJPx4vg2Bfih71D0jhjns6xCU72O8VUspKjwCaSn9yjVAeyQNW+qce7gpmQxaZvfaZWU/pqIQoiuavzzX2NjVC4La+yXGQu/kPo2TCxuXgyso3vjBB8the0lKgle08L2qo7fdVra6v6jwc2eyt2MclIS2EvzbMXvrs/LtgccbRZonbZGuWbMVcOP3X2t9JSfZSn3Q/wB41krQ0eQ4OfRPI0WpDNsY0yGRNBHP01+SZPHR58LBoaagWt1wuAKtDW8pTzbyviV/KqHHjS06kdamS5r8VotNKWopbvdtBPi9QYjLy4MZ+JGnLZjSAEvtIcKUuJHogedGpxt2E8e+GkNpKggLJLq7+ojwDWhVTo5aUuyeVAoE/9k=" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAggFBgMEB//EACoQAAICAQMEAgEDBQAAAAAAAAECAwQRBQYSACExQRNhByJCURYjcbHw/8QAFwEAAwEAAAAAAAAAAAAAAAAAAAEEAv/EABwRAAICAwEBAAAAAAAAAAAAAAECAAMEEZEhgf/aAAwDAQACEQMRAD8AXdUqCnTknqRhSgGFyC+PJ5fye/0Oj2ft2Xdm5aGj0I+MtqUI0gVmWNc/qcgelHfods60NE1bT70lWC7FAR8laygkjlj/AHKQcjv/ACPB6Z3aln8ZabX0m0m7a3zU5ZrVUNbEDQrMQzQsiYBUeMH79duo8i9qvAN7lVNSP6x+RYtxaC+2tw39J1OI/NUlMZJBUOM9mGfRHcf56KCpRavaZ4UyIy4OT+nt6OQM/Xvpl91Wfxlaq6lc/qqtJJPaj1C1EtoWGt/CCVgCvnCnOAB/rpadxazPq9m/bKRVIZ2LpUrqI4oh+1Qo7dh2z56Me97RojWoXVInqn5JvaWpbY07Ro4tf02a3NLPHY+URK3FUYf2wCRlWBfP3x89blncGyWuxzV9HMdUiUzVWqKS7Mp4FZOWVCnAwBjtnHfAqMZqtTr/ACTx88Kp9lV94H/eOop0iJyJBknwT1s46sxYk9guUyqFAHJ0GxuXZnxuK23VYlGZOUSjhIFj4ZOe65EnIe8jrFvDU9tXtHurommGtO1hHhZa4TjHxwyt3PsZGPvOe2KPWEXNeTp59nqSMkUlGXEwiSNchA5JkbPkj0ekuOqkEE9jbLZwQQOT/9k=" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Ascendancy</div>
+                                                <div>Full Clear: Archives</div>
                                                 <div class="unlocked">10 Dec 2023</div>
                                             </div>
-                                            <div class="description">Choose an Ascendancy class.</div>
+                                            <div class="description">Fully clear the Archives.</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAABAQADAAAAAAAAAAAAAAAABgUCBwj/xAAoEAABBAAGAgEEAwAAAAAAAAABAgMEEQAFEiExQQZRBxMUImFxgfD/xAAXAQEBAQEAAAAAAAAAAAAAAAAAAwEC/8QAGxEAAgMBAQEAAAAAAAAAAAAAAQMAAhGRElH/2gAMAwEAAhEDEQA/AOedEb7aK49FSAUiwmwV0dzfs7/oYjLW2oWBR73OM3lamUC1WkeycP8AxDIstf8AiTy3PFwxNziO43Hb1biM2qiXAn3yL6xFjAsafuSq1lhwQDHLXLiSR61HFmNFhlqQXGk2GysEqV+O17GwL/XeE/yBkeWQvAPCs4jwxBzacwtElpJoOpRVOlPRO383gMl51MJbYdWGzR0ajV367wWwNr6EMWV28mUPHpGX5dmUeXnMH7+EGl3HNgOEpUE2fWqtxxzhdH8m+PW3wpfjM5TJACmi6ATQ2JKSAQRsRXP5frAxIjrjM/UdRr2SdrKU90P9xiSptB3CuejzjLpqw6Sezpb7UGADk2GvOfjlwN6sizlZRsSZOygQpOwJOmtQVXZSOrwc8nVlUiY474/HfYhFDYDTo3CgAFdnkgn+8RIzaNY1KTz3eKaS25DXTv0kNiwgKJLir5I6OFFCh0E9i7jcYQOT/9k=" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAABAYIB//EACsQAAEDAgUEAQMFAAAAAAAAAAECAwQFEQAGEiExBxNBURQVIvAyQnGBof/EABcBAAMBAAAAAAAAAAAAAAAAAAABAwT/xAAbEQACAwEBAQAAAAAAAAAAAAABAgADEQQxYf/aAAwDAQACEQMRAD8AnvTE+JBckQWggtpFkApLluVavZsd+BwMCUSjTcw1FiBRqeuVMdOlLbYP3HnGhdEMq0HMFQcqOcZbTFEpwbbLbrpSH3XCQhAN9he5NvX8nFFUzMXTQ5qptGo8+BEqdPfUGG4yO0245pKCgrtZfPvc+cYLuo1kqg0zXVzhgGfc+SNKjR5NCqL8KtQHI8phWhxtdxpODI0WApiWXGGtmi4FEn7dr7G4F+LDzvivJOZ+maszVKhVCfCm1CoySXxJb7raXSAjQly1k8eDsfOJ8635fo1Efbm5NqKXsv1AuBMZp1RSy82QlabE78ggnwcFPUbCFYYTHbzhQWXyZe8hSIjVyrSpAUBwDzvjR+kuRfmuUXM0uTRn4H1VERdPmSO2pe36lbGyfy2ElAiLiRu7Ia12Sk+SlIG9gPzbDLlLqTJyzQItLjUykSm2KgJ4cks6nCR+wn1i94cplfsnzsivtnkL6p5HNONTzLGk0dmC7VXYjdPhyO4pqxO49p2/0YQloV8FYGogDjewJw55m6jSMz0JVJl02jxWlz1zy5Ha0Luq90A+t9v6wta2nYDtnwy20kqCAskurvbURwDbBQHCZZ7H0FGfa/J//9k=" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Challenger</div>
+                                                <div>End of the Nightmare</div>
                                                 <div class="unlocked">10 Dec 2023</div>
                                             </div>
-                                            <div class="description">Complete the Labyrinth in a non-Hardcore league.</div>
+                                            <div class="description">Kill Malachai, The Nightmare.</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
                                         <div>
-                                            <div class="description ellipsis">+10 others...</div>
+                                            <div class="description ellipsis">+21 others...</div>
                                         </div>
                                     </div>
                                 </div>
