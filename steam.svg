@@ -68,7 +68,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        60 hours played
+                                        63 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -85,32 +85,32 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            39 / 127 achievements unlocked
+                                            45 / 127 achievements unlocked
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQABAQADAQAAAAAAAAAAAAAABgUCBAcI/8QAKRAAAgECBgEDBAMAAAAAAAAAAQIDBBEABQYSITFBB1FhExQicYHw8f/EABcBAAMBAAAAAAAAAAAAAAAAAAACAwH/xAAcEQACAgMBAQAAAAAAAAAAAAABAgADBBGRElH/2gAMAwEAAhEDEQA/APPOym+2pZJqVQCouFuC9jyb+55+BiM7xsLgWPnk4znbdCgu11HuTh/pHIstn9JNW549GKzOKeSOnj3c/bRtYmQL79i/jEbLBWNn7qVrrNh0IBpzF3IpI9txxZpqWjMVQZIluIy4JZvx4vwbgX+POE/qBkWW0WgNFZxT0Yoc2roHSpiU2Eqp1KV8E8fu+AyzSrRPGJXEZsdm47b39vOCuwWr6ELKzW3kxTpbMdLZflDJqLJqiuqZHLxzRsF2KUKWse7Elv2q/IxUOovTwQzIun62N2YlHRuANgUBl3fkA12t5/nA1RTvTQ/UlTfwp4uVXzx/esSWiQ8huz0e8I2Ortsk9jrkMo1ocnQVz3QciwGbJKwyxoytc3VmMRANi3AD2a3+Y0tT1umKvIwmRZRPSVgkjJcm67dtmXsnsXHnk38YIU0ab13Mvfm+KamOSje0v0kjFwgYkyNfsjwcC0KpBBPZrZBYEEDk/9k=" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABQcIBP/EACsQAAIBAgUCBQQDAAAAAAAAAAECAwQRAAUSITFBUQYHCBMUIjJicYGR8P/EABYBAQEBAAAAAAAAAAAAAAAAAAABBP/EABwRAAICAwEBAAAAAAAAAAAAAAIDAAEREjFBE//aAAwDAQACEQMRAD8AzysdL8SieeijCmNRZAQZLHdtXc778DjA5WOTZYgG/nfCWT5dJnNRSUUEkazPZE96UIpJ4F2Nhv8AoY0T5feS8UsOV1WaUUgzCjmvUxBwqNZ0dVe/D2DqwH4Hg3OZr6V2aFo3ra7xUzPBHCpJlivbpc4YgpKEwVRkgjBERcEk/TtfY3Av2HXfFx8deSzUOX1ByijmmzOd1dE1AqqD7whGxOo3OqwVFF7k4g+Zw1GXx1NE9QWVCQyRy6k1DbobN+8FupvIYn51mrzU6vDOYUuS1VLW1tGaxUVXSMyaASD12NxtxwcWTL/UvW5fRx00WQUDKl9zK4vc34G39YiMfxXpKf3Z4tdlU33Kr1sP9xglkiO4kXc8E7jFNAMvJVILyEdfJoHNPUhU5rSfGq/DtAYiwY2lc9+4I4J5GIxnk8NZ789NC0Stc6C2u1zxewwVTLFrXU6c9TzhLXFJQS2nEKRKWCByTI9+SOAbYAgF3kYJxEOvk//Z" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Lord</div>
-                                                <div class="unlocked">12 Dec 2023</div>
+                                                <div>All in a Day's Work</div>
+                                                <div class="unlocked">13 Dec 2023</div>
                                             </div>
-                                            <div class="description">Complete the Merciless Labyrinth in a non-Hardcore league.</div>
+                                            <div class="description">Complete a Master's Atlas Objective.</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQABAAMBAQAAAAAAAAAAAAAACAIFBwQG/8QALBAAAQMCBQMDAwUAAAAAAAAAAQIDBAYRAAUSITETFEEHUWEIIkJScZHR8P/EABgBAAMBAQAAAAAAAAAAAAAAAAACBAED/8QAHREAAgICAwEAAAAAAAAAAAAAAgMAAQQREhMxIf/aAAwDAQACEQMRAD8APCW4vaQnH4bYSUAWQCCu3J1e5sfgYjkFOz6jmoiZNl7sqSrhtlKlE/0PnjHCwkPiO2oq2AHN/wCPbDb9CaMepGnXCJcWRDzAJksKRGLbykqAILiifb8OBcm5xJkP6q+eyhS6KuReQnVd6d5xRTMV2pIKY/c6ukjrJUo2tc2STYC4xUMQ4JYlFxlFw0Vgkkadr7G4F+LDzjT/AKnqim5vXDuXmO41Fy27DSXEaVHypfylR3HxjIC88nL3W+ssNEX6es6b/t5wyDIw2VwcFAWqqShtlKoq7EkpBA98Myipsukskqedn70iVKbejJcbcBQFyVNpBS3tbTdSEC36CcDyOuP2sZS32+oAlJ8lKfNh/uMetyv1hrLLIbcaLUMksNjSht7S7pA4H3g8Y55KSZdcY6GiI2JRLVtUuS1TR9Zst5SzKkZOe3UJqUA6tRT1EkHUEpIVY3F8DSa1Zp7SDttxi8YrXNzBmQTmJTFmudSSjYF431XUq1zvvzzisU629CePXDSW0lQQFklxd+SPBtjcZJK3uD2AVaCf/9k=" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGwABAAICAwAAAAAAAAAAAAAABgQFAAEDBwj/xAApEAACAgIBAgYCAgMAAAAAAAABAgMEBREAEiEGExQxQWEiUTKBkdHw/8QAFgEBAQEAAAAAAAAAAAAAAAAAAAQB/8QAIBEAAgICAgIDAAAAAAAAAAAAAQIDEQBBwdEEEiEx8f/aAAwDAQACEQMRAD8A88qlQ06Mk9KMIUA0gIMmj3bq/Z0foczEeH3ytOa88tPH4+F/Le1bkZULnv0KBss2vgA6HvypkbqqxDbfivbZJ/x+udg4apBbq+DPXoGxOPqWcpdQ+zqkzbB+36UT+xyeVyg+N/uUQRhySdd1hfJ+HTi6sN7zKmQxsreWtqpIWQPrfSwOmVtd9Edx7b5utUoNFaMsEexEZAST+PbfY7A3+h88TZelFRqeNFoqBirterkqSj+Ko8oK6+1Dsn9HgcTzLj5YxNIIiN+X1np39j2J4icuDeugcToqEED77rOGWIrViYg/kgI+/f8A1x7QsVF8OYvG37SU0ymFmrJZkB6I5FuGRevXcKSnSTrtvfxwnF6V6VbzZ4uvSqd9yi/PYf8AduS63icw4ypSmx+Hux1QyQtbgLOqsxbRIYb7k8TIWqtHN8eRU9vY1Y5xFkLNOTw5l6FCytuLGYirUaygPRK/qutiu9EqC5UEgb1vgZoz6JyASde2uXUnic2MfZoRY/DUYbXSJmrQlGZVbqA2SfkDkIPFJRl1OIY4lLBA5JlffYkewOuIVKXezwMTur0FN0Oc/9k=" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Loyal to the End</div>
-                                                <div class="unlocked">12 Dec 2023</div>
+                                                <div>Dream Enrichment</div>
+                                                <div class="unlocked">13 Dec 2023</div>
                                             </div>
-                                            <div class="description">Kill Argus.</div>
+                                            <div class="description">Enhance a map with a Vaal fragment.</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
                                         <div>
-                                            <div class="description ellipsis">+37 others...</div>
+                                            <div class="description ellipsis">+43 others...</div>
                                         </div>
                                     </div>
                                 </div>
