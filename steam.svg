@@ -76,7 +76,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M4.75 0a.75.75 0 0 1 .75.75V2h5V.75a.75.75 0 0 1 1.5 0V2h1.25c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0 1 13.25 16H2.75A1.75 1.75 0 0 1 1 14.25V3.75C1 2.784 1.784 2 2.75 2H4V.75A.75.75 0 0 1 4.75 0ZM2.5 7.5v6.75c0 .138.112.25.25.25h10.5a.25.25 0 0 0 .25-.25V7.5Zm10.75-4H2.75a.25.25 0 0 0-.25.25V6h11V3.75a.25.25 0 0 0-.25-.25Z"/>
                                         </svg>
-                                        Last played on 17 Dec 2023
+                                        Last played on 18 Dec 2023
                                     </div>
                                 </div>
                                 <div class="achievements">
@@ -85,32 +85,32 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            53 / 127 achievements unlocked
+                                            56 / 127 achievements unlocked
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABQYHAgj/xAAsEAACAQIFAwIFBQAAAAAAAAABAgMEEQAFEiFBBjFRBxMIFCIyYRVCcXLw/8QAFwEAAwEAAAAAAAAAAAAAAAAAAAEDAv/EAB8RAAEEAgIDAAAAAAAAAAAAAAEAAgMREhMhkUFRYf/aAAwDAQACEQMRAD8A550U3y1LJNSqAVFwtwXsdzfyd/wMBneNhsLH+x3xuZtUKC7fSPJOKplOXUcHw9ZrmtBRRz5pUVgp6upsC8EQYGw8Ai17W+7fYYhJJronyaVY49l/BaldOYr3kUsPGo4NU1LRmKoMkS3EZcEs307X2NwL/jnD31tl1G3oj0jm9XQx0udmQ0ySgBXngGqxa3fYLYnfEyWaVaJ4xK4jNjo1G17+OcEcu0Ej3XSJI9ZooxkEeU/puZpm7wxSyQRGkeVHNmEoL2Kg2JQMMNCVXp9HmskKioTL2q3SySziN6crdXbnUCNNrbhr8YSlFO9ND7kqa9lO1yq82H+7YEtGh3Dd+DhOhzJNlaZPgKxHSdo6zpqnz7KppSldlnygSeGRpXEM37mAYb9rADb+MZ66l6dqIKRul6b2EAYyKFYFVOjSrk/c4IkuR3BGFCmjTWupl783wTUpJRvaX2kjFwgYkyNfuRwcAhDXB1nhN0+TS3Ecr//Z" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAACAUEA//EADIQAAIBAQcBBQUJAAAAAAAAAAECAwQABQYREiExEyRBYXHUByIjVJQUFRYyM4GhscH/xAAXAQEBAQEAAAAAAAAAAAAAAAAAAQQF/8QAGREBAAMBAQAAAAAAAAAAAAAAAQIEEQAD/9oADAMBAAIRAxEAPwA9xx0zUt3tLd6EMiqEiVg0uR3OfeTkfAcWmPRTsMxd04bv+G9rns/kb8aYb0NKHWpTSVdgRv3ZMpH7EWTzVdZq/WvH6mf1VufatteREN3t9Woe8WS5xHp6CUHOW7qlvDpvapT0dD0qwTUyK6xM/vFho2zyBzABz4B53spYqut6i/FvHn5mf1Vi9jCoqPv7EKNUTdNqyVjG0jEFtfJzY5nxJPnZVtthTMzpZqngCO73TAELnGeGiiyMz1EekIpJO54AVieO5T5WTbUlXqPZrx+mn9LYqwGnNLSO1UizLpGoN70ajnLI8/ztbE9dVHdbyqdzwZmz/uy1UfeQjmcq2zwixTeXMVLV9RezXlz8tP6WxbxlEwxFiDNXDislBDKQQdZ5zA38wPIWm01bUl113lPzv2hh/ttZdJ6GdvtPSSNS+kyFmmkz/MwPBytatRryVd3lq0e8QDM7/9k=" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Diminishing Returns</div>
-                                                <div class="unlocked">16 Dec 2023</div>
+                                                <div>Hostile Territory</div>
+                                                <div class="unlocked">18 Dec 2023</div>
                                             </div>
-                                            <div class="description">Reach level 90 as a non-Hardcore character.</div>
+                                            <div class="description">Corrupt a map to have eight mods.</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABwgCAwUG/8QALBAAAQMDAgQFBAMAAAAAAAAAAQIDBAUREgAhBhMiMQgUQVFhByQycUKB8P/EABcBAAMBAAAAAAAAAAAAAAAAAAABAwL/xAAdEQADAQACAwEAAAAAAAAAAAABAgMABBIhMUFR/9oADAMBAAIRAxEAPwBd224hhQlvQ0BOABwuFOb7nL3O/wADWbHiqnyEsQoq3pCicW2wVFX6A1BxeUVpJUrpTYXJNv17aM30MqNMRxzTJ9H8vCqbjJiy4bzS1MpQEjOShwHpJA/E/wAlbGxsI0czUtrSmKN1wujcOzQw7IkQHG4zSXFLcdJQkcsgKF/cFSRb1KgBqyPDgqZk8xlAUGi4CVEY7X2NwL/B7799FLxNOTIlcbhgNKivPrkSJDXSHJOKAW1Iv04oDZ9blRVfewDvPeTT3Wg84GSMuXkcb+5HqdKTtRA37nZFm3UahxspiNKINii42+TpmfD5wpBprFJnxX6fUKo87zpi2DmqG2phZS2VdgTtdPurf8RpdmfLLhR+a81nZKTfcpT67D/ba3uC/qHV+CadMj8Nux4zsuQ286+tOa1JQCA2QenE5Ena/wA6zyJtROq58eizYlsXfEXOptPfrEGpMKkv1J5l2OEuYlgpjpAdA7HqGJv3SSPQWXlaPs12BvbtbXR8a8ZTON5lMmVssqnxY/lnHk2SHgFqUk2HYgKt/Q1k5tOQXbPhltpJUEZkl1d7ZEdgbaOPMyQKfeL0FG8fN//Z" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQABAAIDAAAAAAAAAAAAAAAACAQFAgMH/8QALBAAAgIBAwIFAgcBAAAAAAAAAQIDBBEABSEGEgcTMUFRI4EUIjJCYXHR8P/EABcBAQADAAAAAAAAAAAAAAAAAAEAAwT/xAAbEQEAAwEBAQEAAAAAAAAAAAABAAMRAhIxE//aAAwDAQACEQMRAD8APSJUNKjJPRjCFACEyGkwfzN3fJwf4GqRjC5wkQ78+gJ5/rWcr91WIZbKrgZJP2HxpFTz7R4IdLbd27etzqO6v1JQQru4VWk+oQSkaF1QKuCxDEnjWe2388A1fhLq6/eq4EO0CwI5E8XI/aSQRq6rU6DRWjLBHkRGQEsR28Z4OQM+mAfXXfOnN32Txy2m7tm77ctTd4lCxWCweSBmyI5EkwGZO4BWRs/qBB+DrYFqnXuUppZF8p2SSIOe3vU4PHv76KrmxeUxJLKzjEdGRJYitSF+eUBX29z/AJpK3dq2zx16R22zQvrX36kuZ4QA7xSFVWQNHkFo3KKysuSCSCDng+RfhXpVvNni7wFU55KL78f96arI38iYTVrLQyA8MrFWH3Gm2psx5cT4wrs8aJoxRdJ9M7T4G7Je33qPcFmvSAGOIgRvOy5KRRpktjuwzMceg4ABJNN2SW4Ldubmad2lfA47mbJ1oMxtWRLctGaT3aWQsSPjJ1PDxS0JsTiGOJSwQOSZXzwxHoDjRTS1r106sbLPeAYE/9k=" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>The Star-Strewn Abyss</div>
-                                                <div class="unlocked">16 Dec 2023</div>
+                                                <div>Full Spectrum</div>
+                                                <div class="unlocked">18 Dec 2023</div>
                                             </div>
-                                            <div class="description">Defeat The Black Star</div>
+                                            <div class="description">Corrupt an item to have a white socket.</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
                                         <div>
-                                            <div class="description ellipsis">+51 others...</div>
+                                            <div class="description ellipsis">+54 others...</div>
                                         </div>
                                     </div>
                                 </div>
