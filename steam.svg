@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="652" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="637" class="">
     <defs>
         <style/>
     </defs>
@@ -39,7 +39,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="m.427 1.927 1.215 1.215a8.002 8.002 0 1 1-1.6 5.685.75.75 0 1 1 1.493-.154 6.5 6.5 0 1 0 1.18-4.458l1.358 1.358A.25.25 0 0 1 3.896 6H.25A.25.25 0 0 1 0 5.75V2.104a.25.25 0 0 1 .427-.177ZM7.75 4a.75.75 0 0 1 .75.75v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5A.75.75 0 0 1 7.75 4Z"/>
                             </svg>
-                            3.60k hours played
+                            3.61k hours played
                         </div>
                     </section>
                 </div>
@@ -68,7 +68,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        165 hours played
+                                        167 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -76,7 +76,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M4.75 0a.75.75 0 0 1 .75.75V2h5V.75a.75.75 0 0 1 1.5 0V2h1.25c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0 1 13.25 16H2.75A1.75 1.75 0 0 1 1 14.25V3.75C1 2.784 1.784 2 2.75 2H4V.75A.75.75 0 0 1 4.75 0ZM2.5 7.5v6.75c0 .138.112.25.25.25h10.5a.25.25 0 0 0 .25-.25V7.5Zm10.75-4H2.75a.25.25 0 0 0-.25.25V6h11V3.75a.25.25 0 0 0-.25-.25Z"/>
                                         </svg>
-                                        Last played on 20 Dec 2023
+                                        Last played on 21 Dec 2023
                                     </div>
                                 </div>
                                 <div class="achievements">
@@ -85,32 +85,32 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            58 / 127 achievements unlocked
+                                            60 / 127 achievements unlocked
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABAYABwgD/8QAKRAAAQQBAwMEAgMBAAAAAAAAAQIDBBEFACExBgcSExQyQVFhFSRx8P/EABcBAAMBAAAAAAAAAAAAAAAAAAABAwT/xAAcEQADAQADAQEAAAAAAAAAAAABAgMAERIxUSH/2gAMAwEAAhEDEQA/AM9w4jEqPBAgJUVIA8WyQpyjaleRPPP6Gi870H1FhsMzlsngpMWC8qkOq3BsWDQJIFffGl5Dg9ON6hUUoqxd7XdAHbWkexPcCTkYDuIyDHuYkicxCSHPJQT6xIokn4+KFEJrkfu9Zr0eQ7KORtEZrT8Puo7p7oXP5nFPZPHYKZMgsq8FuNj4mr4sGq++Ncf4yMwJTcyKG3UtFylKIKBVijYF7bA878nV4d3+6LrfT2OhYhoRWFuvMlCFLBIZcU2UhVi0bXVb2PsbZ/kSXDHlJadcTHWorDflQ52sDa99EaUoOzDgZ2mkzwPcI42UxWlEHdFjbnc6e+w02ZB7gxVRmJTrKm3W3Vx2S6Y3k2pKX64HiTfkeBelRn2y4Uf1XmvMBKTe5Sn72H/baiM1LZwTuJiy1Mwnny88hCikumgAF18gK2B4JP51Si91K/dKbBWDHOHe+O7J6rlZqFKYnYGY+fQkRHUrZD/gkupAHwJUCaIBIo786RFt/wBNdA3XFaNbyaTgmMS2lttgSPcvqK7LzgSUp/wBJIA/KiT9ATzbcgu0+GW2klQQFkl1d15EcA1omCqhfmdCGbsN/9k=" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGwAAAQQDAAAAAAAAAAAAAAAABQMEBgcAAQj/xAArEAACAQMEAQIEBwAAAAAAAAABAgMEERIABSExQRNRBiJxgQcUIzJi8PH/xAAXAQADAQAAAAAAAAAAAAAAAAABAgME/8QAHBEAAgMAAwEAAAAAAAAAAAAAAQIAAxESIUET/9oADAMBAAIRAxEAPwDnmOKlalonmoowpjUWW6l7dtl7mx56HWmG57fLQTvBWUjU86Gzo4KkHvrSJk/RhsWuqi1yT/mrY2ehovjH8PpnrojSVm3SgNuLuzJiyBUVhzwCoBx5XINa2Ws9lhrIPk000i0EeypqdYBzJGCPa50ZgpKFoKoyQJcRFwST8vFxY3Ave1h550O3ja6rZtxlpKyIxyxmxBIIseQQRwQRyCOCORrDNKNvljE0giIv6eZxv9Ojqu6NEgQVOGJOmFPC5B5QEePfRvafiyppd2pJXjQ0cSmI0iDGNomGLpb+QJue72PgaZx/lXo6f1Z4s7Kp8lV88f3rQlljvksgBv0TyNBkDdGMljJ2JLt7miiY7ZWuaikjGdDVW+ZY2+ZfqpB5Xw17eQY7NFalkxBPHtrST+sIUmmVljGKgt0Lk2H3J+509zikoJbTiGOJcggckyPf9xHQNtBF4iNbZ9Ds/9k=" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>The Ravenous Maw</div>
-                                                <div class="unlocked">20 Dec 2023</div>
+                                                <div>Apprentice Cartographer</div>
+                                                <div class="unlocked">21 Dec 2023</div>
                                             </div>
-                                            <div class="description">Defeat The Eater of Worlds</div>
+                                            <div class="description">Have a Voidstone socketed in your Atlas.</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQABAQADAQAAAAAAAAAAAAAABwQBAgMI/8QAKhAAAQQABQMDBAMAAAAAAAAAAQIDBBEABRIhMQcTQRRRYQYiMoEVcfD/xAAXAQEBAQEAAAAAAAAAAAAAAAAAAQME/8QAHBEAAgMAAwEAAAAAAAAAAAAAAQMAESECEjET/9oADAMBAAIRAxEAPwDzwluL6SE4/CbCS2kUgEFyuTq9zvvwOMQs5c7KhyZTEVSmY2kvuJB0o1KpN+1nYYzDYemqjsRWnX3tNJbbClqPmgB+ztht6N9KY3UFc7O8wP8AGZKl7toiwySVKoEpSpZJCQCNzZ3xztaFCzN1q76fIKHLVxosaVLirDEkKUytVgOBKtJI9wCKOLmIkEsSi4wgENFYJJ+3a9jYF8UPOGLrF0oidPxBzzLbzLJy92nIswkFKiCQCpFEpNHcUQR84FcwRMhMyIkn1DBT+UdzUjSrblJ80fIwU36jJWKHDRonCMt2KI7zTjjS9AKVoJSRyDRH7w39F+qkP6COZ5RMD+ZZCXe63KjtFCkKoJ1aVVQUANibBGBlv0q4cfuvt66Sk+SlPmh/uMRtTHWIz7DEtaGJFd1oLICwk2nUODR3/vBqgwUZFN6Cj5HnrN1WgfXbOXZPCTIy3JC93nZclrUpagCAQhN2kWdgbs/GA2et2Q08664464R9ylkqJPyTzxjQTHJDMaPIlFbEew02twlKATqUEjxZs7ecU62nIDtPhltpOoICyS6u/wAiOAawUoKFCGtHMUBk/9k=" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAABAUIAQMG/8QAKRAAAQQBAgUEAgMAAAAAAAAAAQIDBBEFACEGEhMxQQciUWEUcZHR8P/EABcBAAMBAAAAAAAAAAAAAAAAAAIDBAX/xAAeEQACAgICAwAAAAAAAAAAAAABAgADBBEhQRIxcf/aAAwDAQACEQMRAD8AnppmKuNBU7CRSkJFIBBcrueb5NH6HbTpr01zsrhtWbYxpMNKS5fNSlIBorSi+YpB2KgK0N6eY2LmuIsZDnyBHilQ6zy1bNtD3LO/akhR1ZXqlnMRw3wIhZcYRFdSiLGQ1Sipoij06I7JHe9Z+RkNW3istpqUgFhvcg9tplpxQfbsjxZ02YiQSxKLjDdhorBJI5dr2NgX8Dzpi9wjmspjp+fgY95zFRl8rr6E+1va9/qv4sXrn1OvIgutdZwN9+nznlv9eTqpHDjgxFtRqYg+pr97EdpxBIJQCPHz/WstTpEh9lD7y1ITsATsB9aMb/FXDj9V9vnpKT5KU+aH+7aVU2lQWhwA32J7aIqD1BSwp3xL+zELHRvRuZFaShvHIwh5OYAbdGwT9k0f3qEJrdtvlIJ+q86bSOMczkcZFxmQy8h+DG2aZdeUpKBVUB422GgS407BePXDSG0lQQFklxd9yOwNanxqGqJLRttisND7P//Z" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Decimation</div>
-                                                <div class="unlocked">18 Dec 2023</div>
+                                                <div>New World Order</div>
+                                                <div class="unlocked">21 Dec 2023</div>
                                             </div>
-                                            <div class="description">Complete a map area that is affected by 10 or more mods. This can include mods from Sextants and other mods that are not on the map item.</div>
+                                            <div class="description">Apply an Awakened Sextant to a Voidstone.</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
                                         <div>
-                                            <div class="description ellipsis">+56 others...</div>
+                                            <div class="description ellipsis">+58 others...</div>
                                         </div>
                                     </div>
                                 </div>
