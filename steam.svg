@@ -68,7 +68,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        179 hours played
+                                        183 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -85,7 +85,17 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            65 / 127 achievements unlocked
+                                            66 / 127 achievements unlocked
+                                        </div>
+                                    </div>
+                                    <div class="achievement">
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABQcIAwT/xAAuEAACAQIFAgQEBwAAAAAAAAABAgMEEQAFEiExBxMGFEFRI1JhkRYiQnKBkvD/xAAYAQACAwAAAAAAAAAAAAAAAAACBAABA//EAB0RAAICAgMBAAAAAAAAAAAAAAEDABECBBITIWH/2gAMAwEAAhEDEQA/AJ5EdJ5ShknokCGNRZLgyW5bV7nf6DHFDldRV5VVZjT0ZajpZI4p5QTpRpL6R/Ok/bHNK2umiF2uqgC5J+3thtdNbp+F8kajWoyzN4amqrVkBKSyLIQmq3ydlf7t74Xcwqx5RhCg3LiYq4aMIuuaC6/uOCdNR0DR1PdgQERGQEsw07X2NwL+wPOK46h5TRL0+zsyUlAQsNQqRQU6p2ihsJB8ukqosOAx5JxHU00qU1REs0ghNz2w503HuODjLW2S+/KqE9AUAQZgIwsdOzg6SoI9L84rTphJ4fHg7Inoqqm+DTLHVap1jaKS5ZyNRAX9K/W999OJYjNK9HTd2eLXZVPqVX1sP9xgd3rD8k4AJ4PIxezr94AupNd4Tfkf3W/qfRTUNXkHhtoezPIPNT05ujoqqFjVvUXBJPBNueSiHQtSSMASbb7epxjCY3kBklQ776id8Eg8MlFL8cQxxKWCByTK99iw4Btg0ICcaEBzi0/J/9k=" alt="" />
+                                        <div>
+                                            <div class="name">
+                                                <div>Virtue Corruption</div>
+                                                <div class="unlocked">22 Dec 2023</div>
+                                            </div>
+                                            <div class="description">Corrupt a skill gem into a Vaal skill gem.</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
@@ -99,18 +109,8 @@
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAwYHBQj/xAArEAACAQIFAwMDBQAAAAAAAAABAgMEEQAFBiExBxJREyJBFGHRFiNScZH/xAAWAQEBAQAAAAAAAAAAAAAAAAACAwH/xAAeEQACAgICAwAAAAAAAAAAAAABAgADESESEwQxQf/aAAwDAQACEQMRAD8A58CUf0WXyVFBGEMaiyAqZLHdu7ybHfgcDGC7QsPbEob+zvglQ4alhBLXVQBck/54xUumfTOmq8n/AFjq2rWm0pShpJe0/uTurWEKD+TG2/388TZggyZWus2HAiM+m6mh0/S51mFL6dFVSNHTl2sZSo9zKOSo2Bbi5tglJSZe1PWGWnjuITIGJb2bXFjcC9wLA874bcxGbdVs6zHNX9HK9OZPT7E7QUNOuyRKByxOwA3Ym+w4n7TTJQTwJUSiDn0u89t/uL2JwVYnRO47qwhyBqCdBFDTSSKWUoCBxfn8YsGj6rMeqecx6SySZsg07HTlo6NHLxDtt3vIeXZrse4/JA2AxMEFHJQ03q1EXfZVN9yi23sB8/jBqLVFXQaYqsloJYYaermWWZ1TtlcKNkZxuUB93bxffGWJy9RePd1nZ1HPrHqKjy1Y9D6Sjlp9P5a95XcWkrZ/maTz4X7b+LTcxEUEhAJNt9vm+BU6o8ytNKhN97nGqGimy6a1QIIoULCMSEmZ727mHANsNV4DEnbZ2Nn5P//Z" alt="" />
                                         <div>
-                                            <div class="name">
-                                                <div>Two of a Kind</div>
-                                                <div class="unlocked">22 Dec 2023</div>
-                                            </div>
-                                            <div class="description">Equip two unique items with the same name.</div>
-                                        </div>
-                                    </div>
-                                    <div class="achievement">
-                                        <div>
-                                            <div class="description ellipsis">+63 others...</div>
+                                            <div class="description ellipsis">+64 others...</div>
                                         </div>
                                     </div>
                                 </div>
