@@ -39,7 +39,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="m.427 1.927 1.215 1.215a8.002 8.002 0 1 1-1.6 5.685.75.75 0 1 1 1.493-.154 6.5 6.5 0 1 0 1.18-4.458l1.358 1.358A.25.25 0 0 1 3.896 6H.25A.25.25 0 0 1 0 5.75V2.104a.25.25 0 0 1 .427-.177ZM7.75 4a.75.75 0 0 1 .75.75v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5A.75.75 0 0 1 7.75 4Z"/>
                             </svg>
-                            3.86k hours played
+                            3.87k hours played
                         </div>
                     </section>
                 </div>
@@ -68,7 +68,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        421 hours played
+                                        425 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -85,7 +85,17 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            81 / 127 achievements unlocked
+                                            82 / 127 achievements unlocked
+                                        </div>
+                                    </div>
+                                    <div class="achievement">
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAACAcEAwX/xAAtEAABAwIEBQMDBQAAAAAAAAABAgMEBREABhIhBxMxQVEiYYEIFEIWkaHR8P/EABgBAQADAQAAAAAAAAAAAAAAAAIAAQME/8QAHhEAAgICAgMAAAAAAAAAAAAAAgMAAQQREhMhMUH/2gAMAwEAAhEDEQA/ADu23EMKEt6GgJKADouFOb7nV5O/sMZqNSJNfqbNPo8Jcma6TpaauSe5+AMZFr1RWkkq9KbC5J/bxhG8AMqTa2wxmtiaxAaKVwZDLCdK3ykJClXAsi4CR6bHqb7453N6hspuldMLVyN50yHU8jzIzOYIyNMhGttxpzUgn8kXH5JuLj3x50eHBUzJLjKAoNFwEqI07X2NwL+x679cJT6j8iu1OhPVuJPiwoFMQ9MeilrSXn1kBS9Q6qICRv4wXDIeFOcaDzgaIuW9R0k+bdCcHHdbg39kcFAXj1OC2imK0og2KBbbruf6wwOAYdg5DynBhRwlEhl+fUFE2IC1rQ0RfupSO3ZOCcz9suFH5j7WuyUm+5Snvt/umKlkLjX+n5FJFSpwfiU6mKpqExnAhbg5iVpWvVtcAEfJItfAzFkwNDUeMYjd8ohuLUZNSydU6S/HU4zNiO8tSFDVzmxzUpAPlLa7HsR74Dz6EGMssFZQUggKTuL9vjFs4icdUZjjUxOXokilzIclT3PecQu6VNKbKRYdws/xiPamlwXdL4abaSVBGskurvYKI6A2wcJRqG+UvIMS1Qz/2Q==" alt="" />
+                                        <div>
+                                            <div class="name">
+                                                <div>Sirus, Awakener of Worlds</div>
+                                                <div class="unlocked">7 Jan 2024</div>
+                                            </div>
+                                            <div class="description">Defeat Sirus, Awakener of Worlds.</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
@@ -99,18 +109,8 @@
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABggDBAcF/8QAKxAAAQMCBQMDBAMAAAAAAAAAAQIDEQQFAAYHEiETMUEUUWEVIjLwcYGx/8QAFwEBAQEBAAAAAAAAAAAAAAAAAQQAAv/EACMRAAICAgAFBQAAAAAAAAAAAAECAwQA8BEhQVGREjFxofH/2gAMAwEAAhEDEQA/AF52U3pqVb1KkApAhMgrg8mfc8/AxZRk2+1FkF3ZtdQaEmOsAraTjguq3NNiTKRxycMLlfMuolHplSptlkacoG1ANVGwKURumIPcT8YhtzvCAU4c+/7ltSBJiQ2/RzGqjJ15t9obutwtdQigc4S6rdtP94gpqWjLVQXGkyGysEqV9vHgyBPx5wwGqN0zI/otQrr6ZSVOrPqZaCYA/H/VeB2wtqXnU0S2w6sNmDs3GJn284Kdh7Ckt3zXIEgYBd55E82Ustqg8pkeJ5OGey2vOSdD6U2YP+sDo6PTien8R935fsYXFIp1UzPUdRvEA8SUp8wP3tgio9TMz0OX0WejujjVGhUpSOFJ5nvgu13nChOm+MaU6Q8fX13z2zRdQl6lL01aOYQ19MKgXDx1fMb/AD7xOMMLZ9MSAfHEfOC+56kZivdhastyr+pQoM7T3P8AJ74HkltyjXDvSQ2JCAokuKnuR4OOqcLwqQ4A+MLcqSsCh3ffP//Z" alt="" />
                                         <div>
-                                            <div class="name">
-                                                <div>Well-Connected</div>
-                                                <div class="unlocked">3 Jan 2024</div>
-                                            </div>
-                                            <div class="description">Create an item with six linked sockets using an Orb of Fusing.</div>
-                                        </div>
-                                    </div>
-                                    <div class="achievement">
-                                        <div>
-                                            <div class="description ellipsis">+79 others...</div>
+                                            <div class="description ellipsis">+80 others...</div>
                                         </div>
                                     </div>
                                 </div>
