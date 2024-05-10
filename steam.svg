@@ -39,7 +39,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="m.427 1.927 1.215 1.215a8.002 8.002 0 1 1-1.6 5.685.75.75 0 1 1 1.493-.154 6.5 6.5 0 1 0 1.18-4.458l1.358 1.358A.25.25 0 0 1 3.896 6H.25A.25.25 0 0 1 0 5.75V2.104a.25.25 0 0 1 .427-.177ZM7.75 4a.75.75 0 0 1 .75.75v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5A.75.75 0 0 1 7.75 4Z"/>
                             </svg>
-                            4.95k hours played
+                            4.96k hours played
                         </div>
                     </section>
                 </div>
@@ -68,7 +68,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        51 hours played
+                                        52 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -85,32 +85,32 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            200 / 211 achievements unlocked
+                                            205 / 211 achievements unlocked
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABwUGBP/EAC0QAAEDAwMCAgsBAAAAAAAAAAECAwQFBhEAEiEHMVFhExQiM0FScYSywtKx/8QAGQEAAgMBAAAAAAAAAAAAAAAAAQQAAgMF/8QAIxEBAAEEAgICAwEAAAAAAAAAAQIDBBFBADESQgVRExQhkf/aAAwDAQACEQMRAD8AnVWp25X7IoVXrlCbdWpJDEYEN7toAUNwA3EhIIB74POs6ldlq7dP3j9wP713UKJ6505strGffH8tFrEWpSLhlJlyZseGHlcl0oyCrjGfh257aUsbH8ouZOZT95ABJNPXOtf31SFXBjo0bOIhXZY79P3h9wP71o6XU7coFj1+q0OhNsqCAJEZRDmNwISNxB2kZyQO2RzoJ9JUoV0IhvSpmxEz0OHHD7QS5tPxwdMdfiepdOr0axj3B/HVLq1iQJRZGJQ95IjINvDY3tWVXxljp0aOV+nLYcsmztw4Dcg/lrGUOlw6pLkJuN59uIlbiQgNcAc4+p8+w1t1Itu17KtuHNuMMSWgdjpTuKCeVeyM4wCBk+J48Jc+tWjNJLt7tpz8sTH66d+P+Sp0aLFJZ8p+kkSU1EQT/d65Luzq/seXiP8ADtDCGN8KHKS+uuRWmo7m2NKAS4RhJQCDzxjPmODpn6jpCbJvHaMAtRz/AJqbBq9ow1At3w2rHzRc/rqslu27osm44cC5EvyXAkOO7dpWRkpO04B4GCR5ceOV7fUp0sBLLKHpIAjIcqn0Y+844LKyqlfODp2PZjn/2Q==" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABQQGAgP/xAAuEAABAgUCAwYHAQAAAAAAAAABAgMEBQYREgAhBzFBFCIzUWGEFTJSsbLC0qH/xAAXAQEBAQEAAAAAAAAAAAAAAAABAwIF/8QAJREAAQQBAwMFAQAAAAAAAAAAAQIDBBEAEiFBMUJhBRMiMlFx/9oADAMBAAIRAxEAPwA6azOnJ/REim88kTbq1JIYhgQ3liAFDIAZEhIIB52O+s6HKKPKgHT7gf3q6RwhjOHNFtAX8c/lpFyWFlt5uEYbfiW0ZlDjgbSPQq33tyAB/wB1CBBbW0t1xaq1L71AClEUKPjOzKkyFv8Atsps0OAeLwAuUUOdAOj3A/vWjlczpyQUPP5rI5E2yoIAiIZRDlsgQkZEHEi9yByuN9ASuVxtQxkWrNluChXWwcGgVFwXVglRN07KSFHkoG22rJ/Cdi4dVo0RbwD+OidBShpLqFKrUjvUbBUB0J84Q5jhe0Gro8AUQDi/DhsOUVRuQuA3EH765msfUEscmcvgWId5mOUVdrcWAlCbkhJBuoKA7oIBHI7dPZSKbpaiqbg42owxEtA4OlORQTurui9rAgAnzO3kXHzuko0ku1w2L/TCkfrpjSoy4pZeQo0tR+iiD8yoEUCOf6CM2+1KZkFbNCwBvXFfvkbZRwpmjXw2KlymCl5h9Rddt861KN0k9VJsE9dgnfewp4kICaKrHEWBbhz9tGQM3pCCUC1XDZ696Fv+ulkt03VFE1HBwFSJfiXAkOO44lZFyk4mwOwsSPTbzrN9RaXFS0Aq9SOqFAABYNkkDgV+k5GFCeEjWqt75B3IrP/Z" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>EXTRA: Bat Robbert</div>
+                                                <div>EXTRA: Phas3r</div>
                                                 <div class="unlocked">10 May 2024</div>
                                             </div>
-                                            <div class="description">Evolve the Pako Battiliar.</div>
+                                            <div class="description">Get Phas3r to level 7.</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABwUGBP/EAC8QAAEDAwMCAwYHAAAAAAAAAAECAwQFBhEAEiEHEzFRsjNBYYTC0hQiMlJiobH/xAAZAQACAwEAAAAAAAAAAAAAAAAAAgEDBAX/xAAjEQEAAQMDBAMBAAAAAAAAAAABAgMEEQAxQRITIUIiUYFh/9oADAMBAAIRAxEAPwCdVanblfsihVeuUJt1akkMRgQ3u2gBQ3ADcSEggHxwedZ1Lllq8On7x+YH367qFEMzpzZbQGfbH1aI6hPlRavIEhcrtd5W0d5SAU7vdrDaW0WDKcpeZTx85ABJMGHXXvryrGriOPAcHJpOK7LHj0/eHzA+/WjpdTtygWPX6rQ6E2yoIAkRlEOY3AhI3EHaRnJA8MjnRfRa3GdShPcWhZcSEJU4pZRk4xz+rP8AWt7X4n4LpzejWMewPp0XVqECUWRiUPeSIyDl09pdT7kRRyL4NsZ/mq/TlsOWTZwUMgNyD6tB9xsSZVSkEQZbmFFKVltQxz8BgjTopFt2vZVtw5txhiS0DsdKdxQTyr8ozjAIGT5njymT63aU0ku3w2nP7YuPp1Zb3NJo9L1CSn6SRGaiIfn3nOkvLSt3lA2N04Mc6GLdhTG6kwh+NIbZLqFKUWCcYOR7uNO3UdITZN4bRgFqOf8ANTYNYtGGoFu+G1H+UXP06rJbtu6LJuOHAuRL8lwJDju3aVkZKTtOAeBgkfDjzLi6pFHpCSsoekgAkKqn595xqLKyrFYXGzyO5jX/2Q==" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABQQG/8QALRAAAQIFAwMCBQUAAAAAAAAAAQIDBAUGERIAITEHIkEzUYSxssLSE1JTYZH/xAAXAQEBAQEAAAAAAAAAAAAAAAAEAwIF/8QAJhEBAAEDAwMDBQAAAAAAAAAAAQIDBBEABTESIVETQWEiMkKR8P/aAAwDAQACEQMRAD8AOmszpyf0RIpvPJE26tSSGIYEN5YgBQyAGRISCAebHfWdDlFHigHT8QPz1dI4QxnTii2gP5z9WmIGTB5t1TCEYMoDjjr120BJ4INu6/i3P+altu2xrU5TlKX3T/KXYJJgB+NdDdN1bap9SBg5D3DzrMldFjnp+6PiB+etHK5nTkgoefzWRyJtlQQBEQyiHLZAhIyIOJF7kDi431ZN5dLH4tqAkTK4kwwtGRxUQhRIuAE+/FgOE7nkXAn8IYLp1WjRFvQP06NXtoVLeFxTZh1xMMpdxmHCvZ/ek2l3VK/pyw9l7B4zpfpy2HKJo4KGwbiD89DzuAm8CymUwN3IdLn6oii6G0uAXxDtu7IcdotxwCRpxSKbpaiqbg42owxEtA4OlORQTurtF7WBABPudvYuPndJRpJdrhsX/bCkfbp+27pToW7DEs9U+IScjNciD5+ER0Tddplc1xmDjHKHcMf3tqnpVNW1S6Kl62VB9h9ReeI9RalG4J8qTYJ87BO+9hR1IQE0VWOIsC3Dn5aMgZvSEEoFquGz57oW/wBulkt03VFE1HBwFSJfiXAkOO44lZFyk4mwOwsSP6298325U6ltGkEs9UOYSMBMVVD2MeV1awsKsa/Vg4eEeTGv/9k=" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>EXTRA: Space 54</div>
+                                                <div>EXTRA: Photonstorm</div>
                                                 <div class="unlocked">10 May 2024</div>
                                             </div>
-                                            <div class="description">Find 5 Gold Fingers.</div>
+                                            <div class="description">Evolve the Phas3r.</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
                                         <div>
-                                            <div class="description ellipsis">+198 others...</div>
+                                            <div class="description ellipsis">+203 others...</div>
                                         </div>
                                     </div>
                                 </div>
