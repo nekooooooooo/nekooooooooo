@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="575" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="581" class="">
     <defs>
         <style/>
     </defs>
@@ -68,7 +68,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        4 hours played
+                                        5 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -85,32 +85,32 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            10 / 78 achievements unlocked
+                                            12 / 78 achievements unlocked
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAQIBQYH/8QAJxAAAQMCBQMFAQAAAAAAAAAAAQIDBAURAAYHEkEhcYETFDFSoZH/xAAXAQEBAQEAAAAAAAAAAAAAAAAAAwIE/8QAHBEAAgIDAQEAAAAAAAAAAAAAAQMAAgQRQRKR/9oADAMBAAIRAxEAPwDitM8hTs81VbLC/bU+PYyZRTfZf4SkcqPA8nFK0DSzJ9GYQ23RmJjoHV6aPWWr+9B2AwaMUZqjab0ZDaQHZTQmPK+y3Ov4naPGMXXCrVKBGpseE67Hiv7y640opKlC1k3HFje3PjEntCaG55OfLyRiqLbDeptV/SzJ9ZYW25RmIbpHR6EPRWn+dD2IxNWpmQp2Rqqhl9fuafIuY0oJtvt8pUOFDkeRj3vQ+rVKfGqUea67IisbC046oqKVG903PFhe3HnG1rPRmqzpvWUOJBditGYyr6rb6/qdw84IaHUFx2MTJGUoNqNbhovWGqzpvRltqBditCG8n6rb6fqdp84c1RiOTcjVJphhT7wCFpSlO5QssXIHa/xiXtM8+zsjVVbzCPc0+RYSYpVbfb4Uk8KHB8HFK0DVPJ9ZjocbrLEN0i5Zmn0VpPnoe4ONMp7qanso5Qauyz0EfY5pdEchZGprT7CmHiFrUlSdqjdZsSO1sJ60Vhqjab1lbigHZTRhsp+y3On4ncfGCv6p5Po0dbjlZYmOgXDMI+stR8dB3JxNWpmfZ2eaqh59HtqfHuI0UKvsv8qUeVHk+BgunioqOQlYUuqxwAfJ/9k=" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQABAAMBAQAAAAAAAAAAAAAABQIEBwMG/8QAKxAAAQMCBQQBAwUAAAAAAAAAAwECBAUGABESITETQVFhsQdSkRQiQkNi/8QAFwEBAQEBAAAAAAAAAAAAAAAAAgABA//EABoRAQEAAwEBAAAAAAAAAAAAAAECAAMRMRL/2gAMAwEAAhEDEQA/AMYw7aVtyLjnEYwo4sGMzrTJpthRhd3OXuvZG8quI2nbkq46g8IHjjxAM60uYbYUYScvcvwnKrhe4q2CeEFtWsx8a3wP1aibEmFRNzl/H7W9k94xSTrhqiBqvDLoKlajJjadQrLPXG56f1EuUVJBv9NYPZnpN8u+ELttykWvbtTa+lukVyQ5ikGhVKKiDeubGOJtqK7JU3+OQrJuuo/TutHmQAxJT5EfpKhUdp06s0VFTJeU3Tvxi7ALIF9OLtqtVcuddkgBG1f3FaVSke1PDU2z95Ypoo6ZRc7JKl6Od7cMK6bHbaNOIym1kRnSWC1aR1dezHuXgjf4oq6V8Z48dDkupZSxpsYrTCLmrHJpeN6bKiov4wW1zmORzHK1zVRUVFyVF8ouNEj1y27rAOVfL5EerwGor5MVmbqqJuyDf9peE190zz3TB2a52T815g3aY3wxfmF21Q48mIS4rpIQFvR36GMYuRJpE3QAvX3O4anvgi67ilXHUWnkMGCMFnRixApkKMJOGMT5XlV3xK7Ljk3HPYQoxxoUdnRhwg7CjCThrU8+V5VcB4QAcM6TJJwz/9k=" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Open Sesame</div>
+                                                <div>Trade Company</div>
                                                 <div class="unlocked">17 May 2024</div>
                                             </div>
-                                            <div class="description">Perform 10 successful Lockpicks</div>
+                                            <div class="description">Sell items worth 10,000 dollars</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABgcCCP/EACoQAAIBAwQBAwIHAAAAAAAAAAECAwQFEQAGEiExBxNhFCMVIjJBQlGB/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAP/xAAeEQEAAQMFAQAAAAAAAAAAAAABAAIDIhESMUGBIf/aAAwDAQACEQMRAD8AjlPE08yRJxDOcDkcDW46djWpTygoxcIcjsd6pm2fRm77h2VBfKSsghqqgl4KSZSoeMdBuf7E4OMjGMd6OXDa+66WpjSt25cTUUjZaUQMwZR32wyCPnOp179cZC63Rw4T0emFnpn+seniBdw5QYHZwdYniaCZ4nKlkODxORpnYtm7uutQyW+wVcT1v3BVTRmNFjbvPNugO/PnSvdnolV2DZM12S4mtuVN92op4o8RiL+RUnslfPyM9aUb9cuItN1c/gHq9sRenHrhQxUNLa900ppfYjWKOrpkLIwUYHJB2DgeRkfA0wv+75Ky21VuudA1BzkRHYylonQBZZIJGA5Rv7ZwzcSi5wW1yXpZtzfFztHCCpP4hb/0yU8zHJjMgkdA/kB2VeXnIGNUl50RLuatsvu181xpqynfMsyGZGo42PawxTLkxMF4ge4OLnsEE6lO9vXG73unmo7HSpaqKVCjuxEk7KRgjPhf8GfnQrc27p7vSingT6eKTlJUEKqvI7sXdMoBmLl+ZVYHj/ei2kT/2Q==" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAABAAMBAAAAAAAAAAAAAAAABQEDBAf/xAAjEAACAQQCAgIDAAAAAAAAAAABAgMABBESITFCYSJBUmKh/8QAGQEAAgMBAAAAAAAAAAAAAAAAAgMBBAUG/8QAJhEAAQIFAwQDAQAAAAAAAAAAAQIRAAMEEiEGMUEFE2FxMlHh8P/aAAwDAQACEQMRAD8A45DGZZVRez/KVjit4GVDqXP5cmjrBtbqP2cUjKkjzglMxjB4IHPusquWozAglks/1Hf6Up5SaRVUiXfMvtyCpgwL428nPqIeK2uMqmocfa0VIjRyMjdilbaKRJF3AAVSuc95NG3bbXMh/bFFQrN5QC6WhOqadCqWXVLlhE0qYsGcM+QeQcPzvs0RalRcRlzgBu6VjNyJSH0MXe3qha12swEbRS/JCeicUytkFYuGeP0RR011VFKrsLJTm4EFgS3xUGLgtwHHEb2NwZ/BYQcls9iiZ9TM5Q5XY4NXXcwdUjThF8Qc1lqaOQUC44/ufMBqTqiKpfZQSoAu5L5IGE4DJHpzy0f/2Q==" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>My left or your left?</div>
+                                                <div>Can't Touch This</div>
                                                 <div class="unlocked">17 May 2024</div>
                                             </div>
-                                            <div class="description"></div>
+                                            <div class="description">Kill 20 enemies in a row without taking damage.</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
                                         <div>
-                                            <div class="description ellipsis">+8 others...</div>
+                                            <div class="description ellipsis">+10 others...</div>
                                         </div>
                                     </div>
                                 </div>
