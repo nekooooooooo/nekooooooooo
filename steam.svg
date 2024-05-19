@@ -68,7 +68,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        6 hours played
+                                        8 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -85,32 +85,32 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            12 / 78 achievements unlocked
+                                            15 / 78 achievements unlocked
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQABAAMBAQAAAAAAAAAAAAAABQIEBwMG/8QAKxAAAQMCBQQBAwUAAAAAAAAAAwECBAUGABESITETQVFhsQdSkRQiQkNi/8QAFwEBAQEBAAAAAAAAAAAAAAAAAgABA//EABoRAQEAAwEBAAAAAAAAAAAAAAECAAMRMRL/2gAMAwEAAhEDEQA/AMYw7aVtyLjnEYwo4sGMzrTJpthRhd3OXuvZG8quI2nbkq46g8IHjjxAM60uYbYUYScvcvwnKrhe4q2CeEFtWsx8a3wP1aibEmFRNzl/H7W9k94xSTrhqiBqvDLoKlajJjadQrLPXG56f1EuUVJBv9NYPZnpN8u+ELttykWvbtTa+lukVyQ5ikGhVKKiDeubGOJtqK7JU3+OQrJuuo/TutHmQAxJT5EfpKhUdp06s0VFTJeU3Tvxi7ALIF9OLtqtVcuddkgBG1f3FaVSke1PDU2z95Ypoo6ZRc7JKl6Od7cMK6bHbaNOIym1kRnSWC1aR1dezHuXgjf4oq6V8Z48dDkupZSxpsYrTCLmrHJpeN6bKiov4wW1zmORzHK1zVRUVFyVF8ouNEj1y27rAOVfL5EerwGor5MVmbqqJuyDf9peE190zz3TB2a52T815g3aY3wxfmF21Q48mIS4rpIQFvR36GMYuRJpE3QAvX3O4anvgi67ilXHUWnkMGCMFnRixApkKMJOGMT5XlV3xK7Ljk3HPYQoxxoUdnRhwg7CjCThrU8+V5VcB4QAcM6TJJwz/9k=" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAABAUABwEDBv/EACcQAAEDAwQCAgMBAQAAAAAAAAECAwQFBhEABxIhFDETQSIyUSOB/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AGlqNFjbG3pkGIw5UU02quNHxkuqU4lY49EHkR9A50z2arM2oP1YX0xBjoQhvxvMgMxQokq5ccoTy6x/cazt1VG6HYNo1R9tbjUODVX1IbIClBLgOBn70DX3078IZj0MGmqo5Lrpn/mHA50Anhn1wOc/3QC1qv11vdMxIEWMq2PPaQHUUtlTPwEp5H5eHr9sqz1/dddvbGt6ZtrV3qe3SnZMVTLiFxQ2Vt5dSnOUd4IJGkUa8ItAo42ufjSHamlo0jy2yAxzdyArB/LiOYz1no6Q1bbKfYW3d3yZ06FJTKjxmUiOhSSCmQg5OR60GpVfTb20llPOQGagxKRUYjrDrimwpC199p7HrSm1d1ItqLkqoFoU6IqSEpdPmvr5BOcfsTj2dCXa+0vZyxGUOtqebemFaAsFScrOMj2P+6rvQWLL3Fpsu4zXpFmU5dVLyZHz+dIH+icYPHOPofWi773iql3W6/R3KZChsPqSXVtrWtSglQUAM+uwO9VfqaD/2Q==" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Trade Company</div>
-                                                <div class="unlocked">17 May 2024</div>
+                                                <div>Pheidippides</div>
+                                                <div class="unlocked">19 May 2024</div>
                                             </div>
-                                            <div class="description">Sell items worth 10,000 dollars</div>
+                                            <div class="description">Run (move or sprint) at least 42,195 m</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAABAAMBAAAAAAAAAAAAAAAABQEDBAf/xAAjEAACAQQCAgIDAAAAAAAAAAABAgMABBESITFCYSJBUmKh/8QAGQEAAgMBAAAAAAAAAAAAAAAAAgMBBAUG/8QAJhEAAQIFAwQDAQAAAAAAAAAAAQIRAAMEEiEGMUEFE2FxMlHh8P/aAAwDAQACEQMRAD8A45DGZZVRez/KVjit4GVDqXP5cmjrBtbqP2cUjKkjzglMxjB4IHPusquWozAglks/1Hf6Up5SaRVUiXfMvtyCpgwL428nPqIeK2uMqmocfa0VIjRyMjdilbaKRJF3AAVSuc95NG3bbXMh/bFFQrN5QC6WhOqadCqWXVLlhE0qYsGcM+QeQcPzvs0RalRcRlzgBu6VjNyJSH0MXe3qha12swEbRS/JCeicUytkFYuGeP0RR011VFKrsLJTm4EFgS3xUGLgtwHHEb2NwZ/BYQcls9iiZ9TM5Q5XY4NXXcwdUjThF8Qc1lqaOQUC44/ufMBqTqiKpfZQSoAu5L5IGE4DJHpzy0f/2Q==" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAAAgMEAQUH/8QALhAAAgECBQMCAwkAAAAAAAAAAQIDBBEAEiExQRNRYTJCM1JxBSIjYoGRocHh/8QAFwEAAwEAAAAAAAAAAAAAAAAAAgQFA//EACgRAAEDAwIDCQAAAAAAAAAAAAECAxEEITEAEiJBYRNRcZGSobHB8f/aAAwDAQACEQMRAD8A5DRJmcsrAOhDAMuYEeRiyqp6RHWZVZYH0liU3eAnlb+pe37HWxMOSSm6Uyn7j3yuNj3H1HIxU6idSkimORN1I1X/ADCri1tL3G6fjV2jpaavpuyRwvjHcoZ8J8sSZEkIqqZ6KePqBJYmGeNxfJKncHfweQdN8HW0saxLU0bF6VzYhvXE3yN/R2I83A2dKnWpHpXTMwvIYV1JsPixfmA9Se4a8aQVMMMtO09E4BUWnhU6W4de6Htup8WOGUqChKcajPMrYWW3QQoZB1j7Pl6ETddVlo5fiRFrE29ynhhwf0Ohw+okkjiRLdfotkgmIs+Q+xhyNdBwdtMQxTqkJQlybEZdMpvgpaiNleyEl7XB4sOMKkuqVtIt9fmrraKFpkPtuQ4ACL4UATPqgRaATyvp8TLMqshaKpjbMrKSCpvuPp/GE18oml6roIqon8UKLK5+YdieRtyO2GTVUdVCssh6dfHvINpx57OO/uG+u81RP1ljGRVKi2mCQ2tpcJuk+2sKqrp66n3u8LyYFhZY6xggc+cdbf/Z" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Can't Touch This</div>
-                                                <div class="unlocked">17 May 2024</div>
+                                                <div>A Game of Catch</div>
+                                                <div class="unlocked">19 May 2024</div>
                                             </div>
-                                            <div class="description">Kill 20 enemies in a row without taking damage.</div>
+                                            <div class="description">Kill 50 enemies with throwing weapons</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
                                         <div>
-                                            <div class="description ellipsis">+10 others...</div>
+                                            <div class="description ellipsis">+13 others...</div>
                                         </div>
                                     </div>
                                 </div>
