@@ -39,7 +39,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="m.427 1.927 1.215 1.215a8.002 8.002 0 1 1-1.6 5.685.75.75 0 1 1 1.493-.154 6.5 6.5 0 1 0 1.18-4.458l1.358 1.358A.25.25 0 0 1 3.896 6H.25A.25.25 0 0 1 0 5.75V2.104a.25.25 0 0 1 .427-.177ZM7.75 4a.75.75 0 0 1 .75.75v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5A.75.75 0 0 1 7.75 4Z"/>
                             </svg>
-                            5.01k hours played
+                            5.02k hours played
                         </div>
                     </section>
                 </div>
@@ -68,7 +68,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        18 hours played
+                                        21 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -85,32 +85,32 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            5 / 63 achievements unlocked
+                                            7 / 63 achievements unlocked
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAACAcGBf/EACwQAAIBAwMBBwQDAQAAAAAAAAECAwQFEQAGEiEiMUFCUWGBBwgjcRMUFqH/xAAWAQEBAQAAAAAAAAAAAAAAAAAAAgP/xAAbEQACAgMBAAAAAAAAAAAAAAABAgADERIxYf/aAAwDAQACEQMRAD8AOGyrBLufctFaopRCs7/kmYZEUYGWc/oA/s4GlBsz6VWSwVbVtLTJOkQHCWvhWeViPPg9lM+gBx6k6wv2p2+zzS7grq1w1zgWFIoivVYiSWYeuWCj2+dIc1VSaCoa3mClLSRRM04JBQk5PZ6g4+P+6xtfWb0pucSVbi2VsDdbVjTRtBdInCTPb0EMiMwyGZccWz7gHv66NO+dvPtbc9daXmFRHC+YpwuBLGRlWx4ZB7vA5GlBsSglrNw3W4NLDOJkUTlE4jnk8R3nOO2QfEHUv+52joqe9WloxxrjCwkA8yZyp+CWHz7aVuTKvqCHAmV+iVVXWzdD3O3vE6U6BKmlLflmhc4ZkXzcCFYgde7AOkem6kuV+p2oplS1LF/HNTN2GZ265YNg9khcA4720MaaeWmmSankeKVDlXRiCD7Eas1p3+sMNDJe6mmu1VCnFv7DDHh07OD7Zz66WKx9EmplXvZRp6f/ACd/nqoLuwZleQQQR55sccU4DPLPXIwT49NRD60T3S47ggul6lplmqYykVIhxJBGhwC6eXkSzAZJ78412q3flTHHVTWeshoayVWAkikDMASTjLZPjj1wBqU1dTNWVDz1Usk00h5PJIxZmPuTpWrDsWurHIn/2Q==" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAACAcGBf/EAC0QAAIBAwIEBAYDAQAAAAAAAAECAwQFEQAGEiExYQdBUYEIEyIjQnEUFXKh/8QAFgEBAQEAAAAAAAAAAAAAAAAAAAED/8QAGBEAAwEBAAAAAAAAAAAAAAAAAQIRABL/2gAMAwEAAhEDEQA/ADhsqwS7n3LRWqKUQrO/3JmGRFGBlnP6AP7OBpQbK8KrNY7iKmho1qQmAktwhWaRiPzwRwoT6AEjlzzrCfCpQWaV9xXCukDXKnSJY4yvNYiSWYeuSqjt76udbeVmpJ2oqoUkMa4dyBxEnoBnoT2/5qcljBtFgF2R3z4Y7NupeS40701fJ1mtyLE4J82XHC3uAe+ivvnbz7W3RXWl5hUJC+YpwuBLGRlWx5ZB6eRyNJuS6z1Usv8AWCvuTR5+mnDMo/0fX31M/ibpKSnvFnYKI7iYCJVHPK5yOfZiw99COTLcYUXZbwSqq627okuVA8MiQIEqqUt9yaFzhii/lwkKxA5+gOlJS0G1N2xNUoX+ax+4nz3idGIA+pSeXQdQM40HKaeWmmSankeKVDlXRiCD2I1Z7N4g/wAWOgnu9XT3SsgThJmYD05ZTB7Zz66zfoGjVCshyUqq2y7XtcMJmSKGMcMUKnjeRuwGSzHzIB0R/HSetuG61ulfLCq1CslPSBsTQRIcAyJj6eIlmAPPrnGutX7/AKpVqp7VXRUdbKrASxyBmAJJxlsnzx+gNSerqZqyoeeqlkmmkPE8kjFmY9ydEDWnHKyDf//Z" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Heroes and Villains</div>
+                                                <div>Fight on the Sidewalk!</div>
                                                 <div class="unlocked">3 Jun 2024</div>
                                             </div>
-                                            <div class="description">Completed Chapter 3.</div>
+                                            <div class="description">Someone got run over by a car in battle.</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAACAcGBf/EAC0QAAEEAQQAAwcFAQAAAAAAAAECAwQRBQAGEiExUWEHCBMiI0FCFDKBkbHR/8QAFwEAAwEAAAAAAAAAAAAAAAAAAQIEAP/EABsRAAIDAQEBAAAAAAAAAAAAAAECAAMRIQQy/9oADAMBAAIRAxEAPwA47J2+9ujc0HEsuBkPr+o8RYabAtSyPQA/5pK7N9m2Jw852Tt/DryqYtIMma0l5RWLNgGkpJ+wAJHXd96wnu0YjFzoW6pLr1ZhtltuOgJ7SgkkqT52pKRX/dU7I5mFB2njGMQiQ26+jg+Uyy3MHNQU7dGh+IBr9p61NfYVOSvzVB+zk5rZ+wd3plLkx3IWWQsod/QpS04hV+Kk1xX35gH10bt87eXtbdE7EreEhDK7afCaDrZFpVX2sHw+xsaR+x9r5HH7tyU+aOUR9KXGlB9LvxgtHJNG/nPBJUQLOsB7zkSCxmcStmhNUyoLrvm3dpP8En+/TRpcnhi31qDqzH+x57JQs9In4mQhKmWuD7CV/WcaWaKm0/lwISojx8gdITc0LEbxVCycJbCn4vBC0LRweV2LC7o9AdAiuydEKM+7GeQ9HcW06g2laFEEH0I1ZsRv8R2YLuakx8tKZb4n46gB3Vp+Wj6Xfno2oWIM1NqoMMscLPRsW2GslUUthLUdpkl+kpb+Gnjx7Urj49EWAaFdnf24OzJu528jNcZQ28gtRofL6zDLZpJcTXy8iSoX343WutM35Iaaku4aYzBluJUEraWlSgLJq1A+dedAalMuS9MkLflOuPPOHktxxRUpR9SdMitukZBc6N8z/9k=" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAACAcGBf/EACsQAAICAQIEBQQDAQAAAAAAAAECAwQRBQYAEiExByJBUWEIQnGBFCMyQ//EABcBAAMBAAAAAAAAAAAAAAAAAAABAwL/xAAdEQADAQACAwEAAAAAAAAAAAABAgMAEmERITFR/9oADAMBAAIRAxEAPwA4bK0CXc+5aWlRSiFZ3/smYZEUYGWc/gA/k4HCZ2r4Z6Ftm2blWkbSxgFJLlb+TKcf9OXBVOvoAce+eMZ9Ken6PNLuG9dcNqcCwpFGV6rESSzD3ywUfH74Qv8AMuxK1jTrUNJWkSNxLEZCyDmJ7ds59O2OIWfhrxTmdKdwbO2Duue2tqtPS1ZMM7U4hBIA3ZyhAVhn3APz68GzfO3pNrbnvaS8wsJC+YpwuBLGRlWx6ZB7ehyOFnoOmW7+vtrNuwll56xV2EZUeYqyjB7YPNxHPqdp0q+taS0Y5bxhYSAfcmcqf0Sw/fxwSoW2ryCHwNlvBC1d03dL6lRkieOBAlqrzf2ywucMyL93IQrEDr7Z4U0Wr0Nb0GRqVsG48hQQtCSF8o8rocMpznBPAZrTy1pkmryPFKhyroxBB+COLRoviEaiUJ9WuQancgTlLTOF9umUwfjv78FULdjKNAnv4dX61+ztkIbOp1mRnPNWSs3nOP8AKL/rp8de/Ttwe/HSe7qG611O/NCFsKyV6gJE0ESHAMifbzEswB6984462ob/ALYSzPpd6OndlVgJElDsASTy5fJx1x+AOJPbszXLDz2pZJppDzPJIxZmPyTw5qQfwZVdW7O//9k=" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Awakening Dragon</div>
+                                                <div>Soap on a Rope</div>
                                                 <div class="unlocked">3 Jun 2024</div>
                                             </div>
-                                            <div class="description">Reached level 10 with Kasuga.</div>
+                                            <div class="description">Completed Chapter 4.</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
                                         <div>
-                                            <div class="description ellipsis">+3 others...</div>
+                                            <div class="description ellipsis">+5 others...</div>
                                         </div>
                                     </div>
                                 </div>
