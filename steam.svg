@@ -68,7 +68,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        11 hours played
+                                        14 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -85,32 +85,32 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            3 / 63 achievements unlocked
+                                            5 / 63 achievements unlocked
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABgcIBQP/xAAsEAABAwIEBQMEAwAAAAAAAAABAgMEBREABhIhBxMxQWEiUXEII0KBFYKR/8QAFwEAAwEAAAAAAAAAAAAAAAAAAAEDAv/EABkRAAMBAQEAAAAAAAAAAAAAAAECEQADMf/aAAwDAQACEQMRAD8AnDJVAdzPmWFSmnQyl9f3HlC4abAupZ+AD8mwxVHD/hLQaPUVSo8YPpaSOW5OZS84si/rsRpQfABI23vvhe/SnT6O87mGdMWF1NhLKGmindLZJKlD3JUEjx+8H7+bJVez1WKAw6qLDhBHKXFe5bjoABdCldD6jaw7YmxNg1eYB93DOWQ8h1yc+zNZVFqqgV8ynpS0vqASU20qsSL3AO/XEx55y8vK2aJ1JW8JDbK7tPhNg62RdKrdrg9OxuMOlVYbpGdKG88laY5dXzyTr0trsk39x3/rjG+p2HCjVukluyZxZUHLb60Xuk/olX++MCkgw5uolGE+CsmoU3MrtSprrZDDeiTG1fddZWbKUhP5aCEqIG/sDihct0XL9WkqcizExUhAIbSnlqSu5uFA2I697X3xHsZ92M8h6O4tp1BulaFWIPg4c9H4gCO1AerMqPVZbCNJL6gB229Nj4vf3xlw1oxzZZDj/NGVKXCmc2VVFPJQqyEJFy6euwFyT8A4SXGD+SkVqNOq8tLrjzZbZjuLu+y0g7FxP46iVEAm9utsb83PsltuU9SJrUKY6lQDjbgUoAkm11XPe3wBhUS5L0yQt+U64884dS3HFFSlHyThoGtOOjLIN//Z" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAACAcGBf/EACwQAAIBAwMBBwQDAQAAAAAAAAECAwQFEQAGEiEiMUFCUWGBBwgjcRMUFqH/xAAWAQEBAQAAAAAAAAAAAAAAAAAAAgP/xAAbEQACAgMBAAAAAAAAAAAAAAABAgADERIxYf/aAAwDAQACEQMRAD8AOGyrBLufctFaopRCs7/kmYZEUYGWc/oA/s4GlBsz6VWSwVbVtLTJOkQHCWvhWeViPPg9lM+gBx6k6wv2p2+zzS7grq1w1zgWFIoivVYiSWYeuWCj2+dIc1VSaCoa3mClLSRRM04JBQk5PZ6g4+P+6xtfWb0pucSVbi2VsDdbVjTRtBdInCTPb0EMiMwyGZccWz7gHv66NO+dvPtbc9daXmFRHC+YpwuBLGRlWx4ZB7vA5GlBsSglrNw3W4NLDOJkUTlE4jnk8R3nOO2QfEHUv+52joqe9WloxxrjCwkA8yZyp+CWHz7aVuTKvqCHAmV+iVVXWzdD3O3vE6U6BKmlLflmhc4ZkXzcCFYgde7AOkem6kuV+p2oplS1LF/HNTN2GZ265YNg9khcA4720MaaeWmmSankeKVDlXRiCD7Eas1p3+sMNDJe6mmu1VCnFv7DDHh07OD7Zz66WKx9EmplXvZRp6f/ACd/nqoLuwZleQQQR55sccU4DPLPXIwT49NRD60T3S47ggul6lplmqYykVIhxJBGhwC6eXkSzAZJ78412q3flTHHVTWeshoayVWAkikDMASTjLZPjj1wBqU1dTNWVDz1Usk00h5PJIxZmPuTpWrDsWurHIn/2Q==" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Can Quest Hero</div>
+                                                <div>Heroes and Villains</div>
                                                 <div class="unlocked">3 Jun 2024</div>
                                             </div>
-                                            <div class="description">Beat all the can-collecting courses.</div>
+                                            <div class="description">Completed Chapter 3.</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABwgGBf/EACsQAAEEAQMBBwUBAQAAAAAAAAECAwQRBQAGIRIHIjFBQlFhCBMjcYFDkf/EABcBAAMBAAAAAAAAAAAAAAAAAAABAgP/xAAbEQACAwADAAAAAAAAAAAAAAABAgADERIxQf/aAAwDAQACEQMRAD8AnDZWAd3PuWFimnQyl9f5HlCw02Baln9AH9mhqm9o9l+I2/PEjGYx3ILSB9tUqMJDpr/Q2Ohu74AFj3Js6xX0p4/DvO7gnTVpVk2EsoaaKeUtEkqUPe1BI+P7pu3Tm5UHCvvxJb0GPRStLSEFa+OFdSuE0Oo8AnWNr8ZvRXzOQ2y+2dhbunT4mSgScTuJg263GQhl0A+spA6Fi6uwDz483qdt87eXtbdE7EreEhtldtPhNB1si0qrysHw8jY1SOzsHFl79cy7LqnnFQ1pK11bo6q6lD35T/zR99TsOFHzWJU2OmcWVBwD1Iu0n+EqH9+NFb7KvqCEiZXsSlTsZuheTx62lojoCJMUq/K8ys0pSE+roISogc+wOqPz2dj7igNxsK6hlK7DpcTTqFcCglQ7viTZF8cajGM+7GeQ9HcW06g2laFUQfg6ZsR2gCO1AdzMqPlZbCOk/fUAPLju0fi799DqSetEmtlHuGIG0pMjaOcfkZGU3JjKCmVto7y3VXY6ABdivAX56HO3N+bkd1Jyk91lKZCVIjxOqnmGkGgXEenqJUoA8+N1rqTN+SGmpLuHmMwZjqVALaWFKAJJq1WfOvegNFMuS9MkLflOuPPLNrccUVKUfknTQHesEVjg+6Z//9k=" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAACAcGBf/EAC0QAAEEAQQAAwcFAQAAAAAAAAECAwQRBQAGEiExUWEHCBMiI0FCFDKBkbHR/8QAFwEAAwEAAAAAAAAAAAAAAAAAAQIEAP/EABsRAAIDAQEBAAAAAAAAAAAAAAECAAMRIQQy/9oADAMBAAIRAxEAPwA47J2+9ujc0HEsuBkPr+o8RYabAtSyPQA/5pK7N9m2Jw852Tt/DryqYtIMma0l5RWLNgGkpJ+wAJHXd96wnu0YjFzoW6pLr1ZhtltuOgJ7SgkkqT52pKRX/dU7I5mFB2njGMQiQ26+jg+Uyy3MHNQU7dGh+IBr9p61NfYVOSvzVB+zk5rZ+wd3plLkx3IWWQsod/QpS04hV+Kk1xX35gH10bt87eXtbdE7EreEhDK7afCaDrZFpVX2sHw+xsaR+x9r5HH7tyU+aOUR9KXGlB9LvxgtHJNG/nPBJUQLOsB7zkSCxmcStmhNUyoLrvm3dpP8En+/TRpcnhi31qDqzH+x57JQs9In4mQhKmWuD7CV/WcaWaKm0/lwISojx8gdITc0LEbxVCycJbCn4vBC0LRweV2LC7o9AdAiuydEKM+7GeQ9HcW06g2laFEEH0I1ZsRv8R2YLuakx8tKZb4n46gB3Vp+Wj6Xfno2oWIM1NqoMMscLPRsW2GslUUthLUdpkl+kpb+Gnjx7Urj49EWAaFdnf24OzJu528jNcZQ28gtRofL6zDLZpJcTXy8iSoX343WutM35Iaaku4aYzBluJUEraWlSgLJq1A+dedAalMuS9MkLflOuPPOHktxxRUpR9SdMitukZBc6N8z/9k=" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Rock Bottom</div>
-                                                <div class="unlocked">2 Jun 2024</div>
+                                                <div>Awakening Dragon</div>
+                                                <div class="unlocked">3 Jun 2024</div>
                                             </div>
-                                            <div class="description">Completed Chapter 2.</div>
+                                            <div class="description">Reached level 10 with Kasuga.</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
                                         <div>
-                                            <div class="description ellipsis">+1 other...</div>
+                                            <div class="description ellipsis">+3 others...</div>
                                         </div>
                                     </div>
                                 </div>
