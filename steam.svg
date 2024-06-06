@@ -76,7 +76,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M4.75 0a.75.75 0 0 1 .75.75V2h5V.75a.75.75 0 0 1 1.5 0V2h1.25c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0 1 13.25 16H2.75A1.75 1.75 0 0 1 1 14.25V3.75C1 2.784 1.784 2 2.75 2H4V.75A.75.75 0 0 1 4.75 0ZM2.5 7.5v6.75c0 .138.112.25.25.25h10.5a.25.25 0 0 0 .25-.25V7.5Zm10.75-4H2.75a.25.25 0 0 0-.25.25V6h11V3.75a.25.25 0 0 0-.25-.25Z"/>
                                         </svg>
-                                        Last played on 5 Jun 2024
+                                        Last played on 6 Jun 2024
                                     </div>
                                 </div>
                                 <div class="achievements">
@@ -85,7 +85,17 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            22 / 63 achievements unlocked
+                                            23 / 63 achievements unlocked
+                                        </div>
+                                    </div>
+                                    <div class="achievement">
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABwYIBP/EAC4QAAEDAwIEBAUFAAAAAAAAAAECAwQFBhEAEhMhMVEHIkFhCBQjcZEkMjNCgf/EABcBAAMBAAAAAAAAAAAAAAAAAAIDBAH/xAAbEQACAwEBAQAAAAAAAAAAAAABAgADESEEMf/aAAwDAQACEQMRAD8AzhZVAdue5YVKadDKX1/UeUMhpsDKln7AH7nA1om3bCo1rXGyIMBmS2GeJ8zUm0urCgrAVgjajPM4AJHLnnUR8O8y2qJT7lrtdeBnxgy1HjgDetKiSdmepJSAewGT1123JctTq9WkzEp/RTNqVMI5bUYACQcdOWpvQ7jiSzy1I3bPks7qsW1riqDa5lNTH4zbvGmU5SWnWngobQpA8is+bORnl1Gs33zby7WuidSVvCQ2yvLT4TgOtkZSrHpkHp6HI05WjWY1vz0tS4qTGUlW95shRIP8Z/AJPuodtSPxEP0abPo0ulvIXJWwd+3qUZJGexCtwwe+mITgirVGnBJLwsjPrrbktgR30RkjjRVnLjjajgqQn+2w4JA5476ZqVR4lQmOyIjrexRJ4LieEptXbHLH4Gs0xn3YzyHo7i2nUHKVoVgg+x0zUi/wwzAdrUmPVpTKNp+YUAPTl5cH2znvobVY/JtNiqOxCqts0wQWlT5rUVwnogFanSB+0Acz/gOgDxEpD9NqLL0l1nMnfsj7zxmkJOApxOPLuJJA64641XTb9kttyXaPMagzHEqCXG3ApQBJOMqyfXHfAGimXJemSFvynXHnnDuW44oqUo+5OiQNzRkGxgd7s//Z" alt="" />
+                                        <div>
+                                            <div class="name">
+                                                <div>Stories to Live</div>
+                                                <div class="unlocked">6 Jun 2024</div>
+                                            </div>
+                                            <div class="description">Completed 20 substories.</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
@@ -99,18 +109,8 @@
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAACAYHBf/EACsQAAIBAwMCBAYDAAAAAAAAAAECAwQFEQAGEiExB0FRYQgUI0JxgSIygv/EABcBAQEBAQAAAAAAAAAAAAAAAAABAwT/xAAaEQACAwEBAAAAAAAAAAAAAAABAgADETEh/9oADAMBAAIRAxEAPwA4bKsEu59y0VqilEKzv9SZhkRRgZZz+AD+TgaSNh2DtjZlT86Y4nCr9GS4wrNI5Gf59Rwj8+wOPUnUp8Kdvs80u4K6tdWucCwpFGV6rESSzD1ywUe371p+5qJN37kntNRcJLfQ0lJFLJCijnNG0h5nl2XGFH+tYWsRydFCBj7Ji4bY8PN9Q1lQYZKW4pJxdqFUilHLqshUDgwPuAfcaOe+dvPtbdFdaXmFRHC+YpwuBLGRlWx5ZB7eRyNIKqpoLR4t2CejkiMFzjMEyRxhVC/0TPXqRhevnj11G/E7R0VPerS0Y41xhYSAfcmcqf0Sw/ftpWxPYurCk5JbwQqq627pa5UEkTxwIEqqXl9WWBzhmRfu4EKxA69sZ0ooF25fLxS36graqKtpYniMacRyDDBV1YAjue+M9PPQdpp5aaZJqeR4pUOVdGwQfY62ezeIPy0dBNeKqnutXAnEmdgPQ4yuD7Zz66rqSdzRJUyjvk129Wmw0F+oL5dKmpmniYNHAGBLuuCoAGScHyHpo/eOc9bcd1LdK+WFVqVZKek5YmgiQ4BkT7eRLMBnPfONdWu37VJHUzWitioqyRWAkjkDMASTjLZPnj8AayirqZqyoeeqlkmmkPJ5JGLMx9ydVFIPMEWurcn/2Q==" alt="" />
                                         <div>
-                                            <div class="name">
-                                                <div>Certified Genius</div>
-                                                <div class="unlocked">5 Jun 2024</div>
-                                            </div>
-                                            <div class="description">Obtained over 10 certificates from the vocational school.</div>
-                                        </div>
-                                    </div>
-                                    <div class="achievement">
-                                        <div>
-                                            <div class="description ellipsis">+20 others...</div>
+                                            <div class="description ellipsis">+21 others...</div>
                                         </div>
                                     </div>
                                 </div>
