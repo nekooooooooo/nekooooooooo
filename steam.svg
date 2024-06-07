@@ -68,7 +68,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        71 hours played
+                                        74 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -85,32 +85,32 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            32 / 63 achievements unlocked
+                                            34 / 63 achievements unlocked
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABwgGBf/EACwQAAICAQIEBAcAAwAAAAAAAAECAwQRBQYAEiExByJBYQgTI0JRcYEUFTL/xAAXAQADAQAAAAAAAAAAAAAAAAABAgMA/8QAHREAAgMAAwEBAAAAAAAAAAAAAQIAAxESMWEEIf/aAAwDAQACEQMRAD8AnDZWgS7n3LS0qKUQrO/1JmGRFGBlnP6AP7OBxT+zPCzRtAvizQ083nAxCbkCzyyFRkvg+VO/YAkdBnPXjDfCnp+jzS7hvXXDanAsKRRFeqxEksw/OWVR7f3igJrTTQWTVnelPFFmOSNVZ1UsMnzeXHQA8RtfiNl6U5HIV7n2VsvXdTmq6xTsUdVmVpYpqcAruwBAYsmOViCQeoBIPf14m/fO3pNrbovaS8wsRwvmKcLgSxkZVsemQe3ocjirdIqf7vdB1Frclpa7yiP5sSoVUhkx0/6yOU5/I4Ividp0q2taS0YC3jCwkA+5M5U/wlh/fbgU2Fh+x/oqCMQJlfBK1f0zc8mp6c8Ui10CWapb6s0LnDMi/dyEKxA69sZ4frszbin/AM7RtVepYGBjJVoemMcrdv6OueJCrTy1pkmryPFKhyro2CD7Hhm0fxAFeKhLrNqvqtuFOU/PYAenTy4PtnP54Zwd60RKnCjvDEig17bV6DULmrhnXmSaso+YbGSCFwBk5A7qMjv+eBTxznu6jupdUvywotlWSvT5vrQRIcAyL9vMSzD175xx1Lu/LMcdmXR7kVG5IrASRSBmAJJxlsn1x+gOCm3ZmuWHntSyTTSHmeSRizMfcngVqR5Na4b0z//Z" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAACAcGBf/EACkQAAIBAwMCBQUBAAAAAAAAAAECAwQFEQAGIRJRBxQxQWEIE0JxgSP/xAAWAQEBAQAAAAAAAAAAAAAAAAABAwT/xAAdEQADAQABBQAAAAAAAAAAAAABAgMAERIhMUFh/9oADAMBAAIRAxEAPwA4bKsEu59y0VqilEKzv/pMwyIowMs5/QB/ZwNJKweHdk2nO1ZQW17jIgURGrp/MSs3s2OkqhPsAOB+WdZP6U7fZ5pdwV1a4a5wLCkUZXlYiSWYd8sqj4/urrf7xcqOzVU1tqKaipvtyBzJC0jl+kdJGD2zxz7ajVyu0Qn1njTa6bM2TvCmq5blb5rZeoJvsVS0SpHJDKQGyQB0OCOc4yeedG/fO3n2tuiutLzCojhfMU4XAljIyrY9sg+nscjSv2PZistdVpIJ0qiqzylAokkjyFbHfoYZx2GpB9TtHRU96tLRjprjCwkA56kzlT/CWH9+NEnJzeYQkDZXwSqq62boe5294nSnQJU0pb/WaFzhmRfy6CFYgc9gdJiv3DFfaYQWFIZCw6GSoXBDn16lbGAPnBOdCimnlpp0mp5HilQ5V0bBB+Dqz2bxB8tHQTXirp7pWQJ0kzuB24yuD8Zz300VifHIxGip396wWiCTar+ZvN/zJnijp1zE59cBcFnJ45HIxxjR78c5664bqS53CWBRUKyU9IGxNBEhwDIn49RLMATn1zjXVrt+1SJVT2mtioq2VWAkjkDMASTjLAn3x+gNSirqZqyoeeqlkmmkPU8kjFmY/JOiasDycVdW+nf/2Q==" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Illuminations</div>
+                                                <div>The Dragon Stirs</div>
                                                 <div class="unlocked">7 Jun 2024</div>
                                             </div>
-                                            <div class="description">Completed Chapter 10.</div>
+                                            <div class="description">Completed Chapter 11.</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABwYIBf/EACsQAAEEAQIEBAcBAAAAAAAAAAECAwQRBQAGEiExYQciQVEIExQjQnGB4f/EABcBAQEBAQAAAAAAAAAAAAAAAAABAwT/xAAdEQACAwACAwAAAAAAAAAAAAABAgADERJBITFh/9oADAMBAAIRAxEAPwDOGytvu7n3LCxTToZS+v7jyhYabAtSz+gD+zQ1ozA7D29tHIoeiREy1ig25OaS+4VAWVcNcKD2A5cud6mfhTx2Hfd3DOmrSrJsJZQ02U80tEkqUPe1BI7f3SlnNvZLKTZ8n5rqsc4+gtNtPpZW0kinLJBv0qq5d+mNj8Z0UIHMhM1ifD3dmYMOfGch5V8K4JGOQlslQ62B5FG76gHvoE3zt5e1t0TsSt4SG2V20+E0HWyLSqvSwenobGm7ae2HIW+oE3J5GKxBQFKbS+6kKcUQCgDkAokEX/o1wfidhwo2bxJbHDPLKg4B+SLtJ/hKh/e2qj7F1fEkdyV8EpU7GboXk8etpxEdARKi8X3XmVmlFCfy4CEqIHP2vT+1OTmMtmZ8CShxt9pEcxH1KbSgJQCiwaKaUp6/cq59NZBjPuxnkPR3FtOoNpWhVEHsdM2J3+llmA5mpMbLSmUcJ+oUAPTl5aPa799SxSetElTqvn0RK9zBRYb0Z/cUhC3mQr6aKxbhBNcx1JPIV1odB7EnjCclIzUSblpLKluNFliNxfeZabNJLia8pVZI9et1rvTd+yW25T2ImNQpjqVAONOBSuZJq1WfWvegNFEuS9MkLflOuPPOHiW44oqUo9ydK1bdMWuD9M//2Q==" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAABAAMBAAAAAAAAAAAAAAAACAQGBwX/xAAsEAACAQMCBAUDBQAAAAAAAAABAgMEBREABgcSIUExUWFxgQgUIyIyQlLx/8QAFwEAAwEAAAAAAAAAAAAAAAAAAAEDBP/EAB0RAAIDAQADAQAAAAAAAAAAAAECAAMRIQQSMVH/2gAMAwEAAhEDEQA/ADhsqwS7n3LRWqKUQrO/5JmGRFGBlnPsAenc4Gk7s7hfYdvV5qqanimWIKFluMSzSE/3wRypnPYHHTrnVI+lO32eaXcFdWuGucCwpFEV6rESSzDzywUenzq97ju9/g4gotkpnpoyFYzyMzRyJgZBGOUDAIwOpPcaha5X5Nfi1LYT7fkk754ZbMupeS4wGmuEh6y25VidSe7Ljlb5APror7529JtbdFdaXmFQkL5inC4EsZGVbHbIPh2ORp0CkttwxOqvTlurIAGUH2Ojp9VFnt1DX2Sro6qKWpmSSNlUEMUUggkdsFiP806305JWJglI4JVVdbN0Pc7e8TpToEqaUt+WaFzhmRf5chCsQOvkDpcWy72m90aTUU6EIf1xPlXQkYwVOCPkaBFNPLTTJNTyPFKhyro2CD6HWz2biD9rHQTXiqp7pWQJykzMB446ZTB9M589FisTzsK2UDvDERdrlabXGGnqhC3ggQlmc9lCjJYdugJGNFDjbJW1e5Iq+vmiCzqyQUnOTNDGh6NIp/bzkswBOfPGNdiu39VIlVNaa2KirZFYCSOQMwBJOMtk98ewGsoq6masqHnqpZJppDl5JGLMx9SdFaEHTHY4IwGf/9k=" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Friends in Low Places</div>
+                                                <div>Make That Money</div>
                                                 <div class="unlocked">7 Jun 2024</div>
                                             </div>
-                                            <div class="description">Maxed Nanba's Bond Level.</div>
+                                            <div class="description">Exceed 10 billion yen in capital for Kasuga's company.</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
                                         <div>
-                                            <div class="description ellipsis">+30 others...</div>
+                                            <div class="description ellipsis">+32 others...</div>
                                         </div>
                                     </div>
                                 </div>
