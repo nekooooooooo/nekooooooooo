@@ -39,7 +39,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="m.427 1.927 1.215 1.215a8.002 8.002 0 1 1-1.6 5.685.75.75 0 1 1 1.493-.154 6.5 6.5 0 1 0 1.18-4.458l1.358 1.358A.25.25 0 0 1 3.896 6H.25A.25.25 0 0 1 0 5.75V2.104a.25.25 0 0 1 .427-.177ZM7.75 4a.75.75 0 0 1 .75.75v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5A.75.75 0 0 1 7.75 4Z"/>
                             </svg>
-                            5.08k hours played
+                            5.09k hours played
                         </div>
                     </section>
                 </div>
@@ -68,7 +68,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        85 hours played
+                                        89 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -85,32 +85,32 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            36 / 63 achievements unlocked
+                                            38 / 63 achievements unlocked
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABwgGBf/EACoQAAIBAwMCBAcBAAAAAAAAAAEDAgQFEQAGEiExQVFhgQcIExQiI0Jx/8QAFwEAAwEAAAAAAAAAAAAAAAAAAAECA//EABsRAAMBAQADAAAAAAAAAAAAAAACAwExBCFx/9oADAMBAAIRAxEAPwCcNlWBu59y0VqU0Ji+f7HSGQpYGZTP+AHp4nA1S22fhvaNsVk6q12V13cpX1IfdLgxmInqw8hxgST0jEE9O+RnWP8AlTt9nc3cNdWzjK5oimClmPWKiSZSHnmUYj099PN9rnKsL6mieq3zD0pk5kOeVmRPEj1Oe2CMd9Y1bcN4pjaEdy25s/dtXJd+sVZZLpULk1D6QRUW4I5HjgAkZBxIAkE9dT9vnb09rborrTNwqFpnlTxHAasjMZY8Mg9vA5Gqj2fSzvF7fWOaqq+1YwrZ9PjxEwYGPfrkAHr7d9FnzO0dFT3q0yWBGuKZBgH9QzmJ9iZD39NKT7vS/Ikqb6Mt8Eaqutm6Z3Ogmua6eAhVUvL9rkzOJShH+uBEZEDr2xnVGN3NDcdO6mp2rpVS6QgI4ks4IPPmMiREiOox5Y1GdM9tM6Dqdk1NgcxnCWCD6HTNad/xSmhZe6mmu9SlfGX3Ehjrjp+OD6Zz56KozExoq/RUt9VPZlPLjUxkxzQZQKgyTRGJAiBHrkHB/HPjnQJ8an3K4bjTc7u6nDKiBWqlj+LULgcAzh/HImUgM575xrsVm/KhSallmrFUNWyMoxmpgkQMk8cyyfHHngDRTV1Lqyom+qaxzmHlNjJGUpH1J05q2dC1Fbh//9k=" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABwgGBf/EAC0QAAICAQMBBwMEAwAAAAAAAAECAwQRAAUGIQcSEyJBUWEIMXEUI0KBMsHx/8QAFgEBAQEAAAAAAAAAAAAAAAAAAQMA/8QAHREAAQQDAQEAAAAAAAAAAAAAAQACAxESITETQf/aAAwDAQACEQMRAD8AnDhWwS8n5LS2qKUQLM2ZJmGRFGBlnP4AP56DVWcZ7I+NcSmr3AqzTMFKG/FHI49Q3m8qsc5wB5enUnro5+lPbtnml5DeuurblAsKRRleqxEksw98sqj4/vTTzzdLUmy+HSp1ofFKQm1O/Ukk9MAZH+K/HXUpJMNlXhi9DQWZ5t2Z8K3qOSzcgavbkcoZ9uCRurHrllA7jf2AT76ljnPHn4tyi9tLzCxHC+YpwuBLGRlWx6ZB+3ocjVW8blq7XsMljdL1aDbpJco9hguJADlR6npg/wDDoW+oaxsu4W9lv7RMssskLqzKCO8gORkHBBBJGCPXS11nXFpY8dHoXB7ErV7bOUPue3vE6V0CWapb92aFzhmRf5dwhWIHX2B068o3i5v1xk2a3DLts0AjXb5E8MLJ0JklJwwZT9h0GPzqS608taZJq8jxSocq6Ngg/BGmbaO0AV4qEu9Wa+7WoE7p/UMAPTp5cH4zn30PDr5YRG5oHaK0l7jMhsvLyDccV0AWGGN/EaQgfZVH+gTof7Rtst0b9ee9PGWsB/DrM/78SKejSL/HvEkgZzj741rrvPbMcdmbaLsVK5KrASRyBmAJJxlsn1x74A0UW7M1yw89qWSaaQ955JGLMx+SdLMvugh5aeGyv//Z" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>End of an Era</div>
+                                                <div>Friends With Familiar Faces</div>
                                                 <div class="unlocked">8 Jun 2024</div>
                                             </div>
-                                            <div class="description">Completed Chapter 12.</div>
+                                            <div class="description">Maxed Joon-gi Han's Bond Level.</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAACAYHBf/EAC0QAAEDAgQEBgEFAAAAAAAAAAECAwQFEQAGEiEHMVFhEyIjQUJxCBQygZGx/8QAGAEAAgMAAAAAAAAAAAAAAAAAAAECAwT/xAAZEQADAQEBAAAAAAAAAAAAAAABAgMAMVH/2gAMAwEAAhEDEQA/ADhkqgO5nzLCpTToZS+v1HlC4abAupZ+gD9mwwlcscOcvZWqbDzEdp9a9mXKkhtxZ07qcOryNj6BtsLk4jfxZh0O2ZKnUnkCdEba0JWP2M3JUsH3uUpB6fzisredWp+f6JJRG8LLyQ5FdfUjzOpUN9VgdIva3TfFNWI5tEUB7urnXhxkqsuumoRzHqCxqEimFtJN/kQnyK353AJvz3vgu55y8vK2aJ1JW8JDbK7tPhNg62RdKre1weXsbjCXqNcy/SM+ao7C/wBHIiguvtKSoBwq5qSANVkhI23He+M2/JhinpqtGeilJlORySpO4caJ1JN/sn++2CbE9xVAOaN4TCa3V5kiE40toMeDKi6vVdYWbKUhPy0EJUQN+gOEllOTTRSWGKYUgNkBxpxOlQ6ggi4v3wOIz7sZ5D0dxbTqDdK0GxB7HGz0jiAI7UB2syo9WlsI0nx1AD228tj2vfrhVQsfc41CDX2aqNSEz0uvrDIvdLTI1KWroAP8AOMP4rszhUoT9QkNFKmizHilXrstIVsXE/HUVKIHO3O2KObn2S23Keo81qDMdSoBxpwKUASTa6rn3t1sBjKJcl6ZIW/KdceecOpbjiipSj3Jw5qw7o1oG5v/2Q==" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABwgGBf/EACsQAAICAQIEBQQDAQAAAAAAAAECAwQRBQYAEiExBxQjQWEIQlGBEyJxMv/EABcBAAMBAAAAAAAAAAAAAAAAAAECAwD/xAAeEQACAgICAwAAAAAAAAAAAAABAgADERIhQRMxYf/aAAwDAQACEQMRAD8AnDZWgS7n3LS0qKUQrO/qTMMiKMDLOf8AAD/pwOKL0vZG2diTLf8AKNa6eibcCTzOV7vhsJHkn2Bx06k8Zr6U9P0eaXcN664bU4FhSKMr1WIklmH5yyqPj98P+qalPDo0k9OWtUjSQrYM6Fi8fISoBBHKeYfI4ja+vMvSmxxCOzt/w58QI70wr2KWqwsP5hVjSGZeY9JCoyjrkYJ757nrxPG+dvPtbdF7SXmFiOF8xThcCWMjKtj2yD29jkcUxt6qlrfFWzbtxnUpK88TJXXlinQcrgEHP/JYnOfxwb/U7TpVta0loxy3jCwkA+5M5U/olh+/jgVWFo19XjJEyvglavaZuh9T094pEroEs1eb1ZoXOGKL93KQrEDr2xniohe0/dOh2PI2Ery2HWuUdPUhABP9lPXqxPcdhxD1aeWtOk1eR4pUOVdGIIPwRw0aL4heUTT59XtwapdgTlLTOBjt0ymD8Zz+eDYrH6ItTqvPoxVim0raWuxeaBuy1ubE0bn+RpHUBgqL0IA6Y69zwC+Oc93Ud1Jql+WFFsqyV6fNiaCJDgGRPt5iWYdc98446l3flmOO1No9yKjclDYkikDN1JbGWBPvj84A4Kbdma5Yee1LJNNIeZ5JGLMx+SeNWpHWILHDd5M//9k=" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Stories of the Streets</div>
+                                                <div>Fate of Our Fathers</div>
                                                 <div class="unlocked">8 Jun 2024</div>
                                             </div>
-                                            <div class="description">Completed 40 substories.</div>
+                                            <div class="description">Completed Chapter 13.</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
                                         <div>
-                                            <div class="description ellipsis">+34 others...</div>
+                                            <div class="description ellipsis">+36 others...</div>
                                         </div>
                                     </div>
                                 </div>
