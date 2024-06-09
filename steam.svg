@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="630" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="661" class="">
     <defs>
         <style/>
     </defs>
@@ -68,7 +68,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        89 hours played
+                                        91 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -85,32 +85,32 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            38 / 63 achievements unlocked
+                                            43 / 63 achievements unlocked
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABwgGBf/EAC0QAAICAQMBBwMEAwAAAAAAAAECAwQRAAUGIQcSEyJBUWEIMXEUI0KBMsHx/8QAFgEBAQEAAAAAAAAAAAAAAAAAAQMA/8QAHREAAQQDAQEAAAAAAAAAAAAAAQACAxESITETQf/aAAwDAQACEQMRAD8AnDhWwS8n5LS2qKUQLM2ZJmGRFGBlnP4AP56DVWcZ7I+NcSmr3AqzTMFKG/FHI49Q3m8qsc5wB5enUnro5+lPbtnml5DeuurblAsKRRleqxEksw98sqj4/vTTzzdLUmy+HSp1ofFKQm1O/Ukk9MAZH+K/HXUpJMNlXhi9DQWZ5t2Z8K3qOSzcgavbkcoZ9uCRurHrllA7jf2AT76ljnPHn4tyi9tLzCxHC+YpwuBLGRlWx6ZB+3ocjVW8blq7XsMljdL1aDbpJco9hguJADlR6npg/wDDoW+oaxsu4W9lv7RMssskLqzKCO8gORkHBBBJGCPXS11nXFpY8dHoXB7ErV7bOUPue3vE6V0CWapb92aFzhmRf5dwhWIHX2B068o3i5v1xk2a3DLts0AjXb5E8MLJ0JklJwwZT9h0GPzqS608taZJq8jxSocq6Ngg/BGmbaO0AV4qEu9Wa+7WoE7p/UMAPTp5cH4zn30PDr5YRG5oHaK0l7jMhsvLyDccV0AWGGN/EaQgfZVH+gTof7Rtst0b9ee9PGWsB/DrM/78SKejSL/HvEkgZzj741rrvPbMcdmbaLsVK5KrASRyBmAJJxlsn1x74A0UW7M1yw89qWSaaQ955JGLMx+SdLMvugh5aeGyv//Z" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAACAcGBf/EACoQAAIBAwMCBAcBAAAAAAAAAAECAwQFEQAGIRIxB0FRYQgUIiNCcYFy/8QAGAEAAgMAAAAAAAAAAAAAAAAAAAECAwT/xAAbEQACAwEBAQAAAAAAAAAAAAABAgADMRFRIf/aAAwDAQACEQMRAD8AOGytvy7n3LRWqKUQrO/3JmGRFGBlnP6APHmcDSMsWxNvbPuSzU1IlU6oHWSviWaQKM/dII6UyewUEjHfz1mfhTt9nml3DXVrhrnAsKRRleViJJZh65YKPb+6rdZYqm7bmuNVV1S09lemjiVGUsecq447EDkf69tU2sRNFCBj9mNuu0djbxFRLV0T0VefqWe3hY2YE4LFQOlucZyM899HLfO3n2tueutLzCeOF8xThcCWMjKtjyyD28jkaVDbEqrHvS2yW2sNZb5jNJJ1LxBGOFHV2bqyAB3+nPlqT/E7R0VPerS0YC1xhYSAfkmcqf4Sw/vtorcmFyKMmV8Eqqutm6HudveJ0p0CVNL1fdmhc4ZkX8ughWIHPoDpcWi523cNI5oKoRR4CygnpkU5BwVYcdj3HOgRTTy00yTU8jxSocq6Ngg+x1Z7N4g/LR0E14qqe6VkCdJM7genGUwfbOfXRYrHIqnVd2Ja9bht1sAeqkVUACRoG6ncj0AGSf0DjRG8dJ624brW5100IWoVo6ekziaCJDgGRPx6iWYA898411a/f1UEqp7VXR0dbKrASRyBmAJJxlsnzx+gNSerqZqyoeeqlkmmkPU8kjFmY+5OmgPnBIuR70z/2Q==" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Friends With Familiar Faces</div>
-                                                <div class="unlocked">8 Jun 2024</div>
+                                                <div>Life Experiences</div>
+                                                <div class="unlocked">9 Jun 2024</div>
                                             </div>
-                                            <div class="description">Maxed Joon-gi Han's Bond Level.</div>
+                                            <div class="description">Changed Kasuga to eight different jobs other than his starting job.</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABwgGBf/EACsQAAICAQIEBQQDAQAAAAAAAAECAwQRBQYAEiExBxQjQWEIQlGBEyJxMv/EABcBAAMBAAAAAAAAAAAAAAAAAAECAwD/xAAeEQACAgICAwAAAAAAAAAAAAABAgADERIhQRMxYf/aAAwDAQACEQMRAD8AnDZWgS7n3LS0qKUQrO/qTMMiKMDLOf8AAD/pwOKL0vZG2diTLf8AKNa6eibcCTzOV7vhsJHkn2Bx06k8Zr6U9P0eaXcN664bU4FhSKMr1WIklmH5yyqPj98P+qalPDo0k9OWtUjSQrYM6Fi8fISoBBHKeYfI4ja+vMvSmxxCOzt/w58QI70wr2KWqwsP5hVjSGZeY9JCoyjrkYJ757nrxPG+dvPtbdF7SXmFiOF8xThcCWMjKtj2yD29jkcUxt6qlrfFWzbtxnUpK88TJXXlinQcrgEHP/JYnOfxwb/U7TpVta0loxy3jCwkA+5M5U/olh+/jgVWFo19XjJEyvglavaZuh9T094pEroEs1eb1ZoXOGKL93KQrEDr2xniohe0/dOh2PI2Ery2HWuUdPUhABP9lPXqxPcdhxD1aeWtOk1eR4pUOVdGIIPwRw0aL4heUTT59XtwapdgTlLTOBjt0ymD8Zz+eDYrH6ItTqvPoxVim0raWuxeaBuy1ubE0bn+RpHUBgqL0IA6Y69zwC+Oc93Ud1Jql+WFFsqyV6fNiaCJDgGRPt5iWYdc98446l3flmOO1No9yKjclDYkikDN1JbGWBPvj84A4Kbdma5Yee1LJNNIeZ5JGLMx+SeNWpHWILHDd5M//9k=" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAACAcGBf/EACsQAAICAQMCBAYDAQAAAAAAAAECAwQRAAUGEiEHMVFhEzJBQnGBCBQjIv/EABcBAAMBAAAAAAAAAAAAAAAAAAECAwD/xAAaEQEAAgMBAAAAAAAAAAAAAAABAAMCEUES/9oADAMBAAIRAxEAPwA4cK2CXk/JaW1RSiFZ3/0mYZEUYGWc/gA/k4Gk7wzwx4/x/eIpK9YWGIHwXvQLPK5H34I6UyT5AEj1zrEfxT2/Z5peQ3rrhtzgWFIoyvdYiSWYeuWVR7fvVu3S7PDaaxVnaiJESMSCMMzKrEkZz289Qus8G5emv26JkOdeHHCt0tyR7pUmpbpICwkoxrC+CfmK46H7+oB99FznPHn4tyi9tLzCdIXzFOFwJYyMq2PpkHy+hyNMGpUl3PeIbU1s2/66yrl4wuFb5R+e2dQ7+TtOlW3vamjAW8YWEgH3JnKn9EsP37aFNrmbhuq8KTKeClu/tnJ5Nz25oZFrxhbNQv8A6TQucMUX7ukhWIHfywDpEx7mORJPZgtIrIwVK7p0iPt8pVvU+efPt6AaHFaeWtMk1eR4pUOVdGwQfY6s20c/EEVCXerNbdrUKdJ+OwA747f84PtnPrp8xebIteWJ3SSv2NwPHLkE7XVWQg9UEadXxs4wvQvpjtjuNHvxvsbhuXJo903OSCM2UKQU1Y/FrxIcAyL9vUSzAE58841173PbKR2ptouxUrkqsBJHIGYDJOMtk/XH4A1KLdma5Yee1LJNNIep5JGLMx9ydbATmiDNHu2f/9k=" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Fate of Our Fathers</div>
-                                                <div class="unlocked">8 Jun 2024</div>
+                                                <div>Job Hopper</div>
+                                                <div class="unlocked">9 Jun 2024</div>
                                             </div>
-                                            <div class="description">Completed Chapter 13.</div>
+                                            <div class="description">Changed Kasuga to three different jobs other than his starting job.</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
                                         <div>
-                                            <div class="description ellipsis">+36 others...</div>
+                                            <div class="description ellipsis">+41 others...</div>
                                         </div>
                                     </div>
                                 </div>
