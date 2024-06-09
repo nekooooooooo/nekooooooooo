@@ -39,7 +39,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="m.427 1.927 1.215 1.215a8.002 8.002 0 1 1-1.6 5.685.75.75 0 1 1 1.493-.154 6.5 6.5 0 1 0 1.18-4.458l1.358 1.358A.25.25 0 0 1 3.896 6H.25A.25.25 0 0 1 0 5.75V2.104a.25.25 0 0 1 .427-.177ZM7.75 4a.75.75 0 0 1 .75.75v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5A.75.75 0 0 1 7.75 4Z"/>
                             </svg>
-                            5.09k hours played
+                            5.10k hours played
                         </div>
                     </section>
                 </div>
@@ -68,7 +68,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        95 hours played
+                                        99 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -85,32 +85,32 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            45 / 63 achievements unlocked
+                                            49 / 63 achievements unlocked
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABwgGBf/EACsQAAIBAwMCAwkBAAAAAAAAAAECAwQFEQAGIRIxE0FhBwgUIiNCUXGB0f/EABcBAQEBAQAAAAAAAAAAAAAAAAIDAAH/xAAcEQACAwADAQAAAAAAAAAAAAABAgADERIhMVH/2gAMAwEAAhEDEQA/AJw2VYJdz7lorVFKIVnf6kzDIijAyzn9AH9nA1TG2/ZrYNqTG4Q0qzqg+nLXwLPISO74I6UznsASOOSdY33U7fZ5pdw11a6tc4FhWKIrysRJLMPzllUen90u7hW436a4UdurIqGWmgDxRYOZY2OCzkdgDkDHn59tSsbjL0oGMym5NkbH3LLOK+klorqUWXxKBFiYq/KyFcdLcjnIB9ec6mnfO3n2tuiutLzCojhfMU4XAljIyrY8sg9vI5GqossHi75mWorYJz8M8FPGkPhjoQpxz3xjI8++if3naOipr1amjHTXGFhIB9yZyp/hLD++mjU5PsV9YUnJlfYlVV1s3Q9zt7xSJToEqaXq+rNC5wzIv3dBCsQOe2M6oc3anud2Nys0vhSSJ8PLE56HVeCAQcYOR5/7qOaaeWmmSankeKVDlXRsEH0Oma07/EENBLeqmmu1VCnSfiGAHOOPlwfTOfzpOD80Q1Oq9+GJ0BisG6kut1nNR4XV4UKH52ZlxhVUc4yewOe50G+3KeuuO6kulfJCi1KslPR9WJoIkOAZE+3qJZhznvnGutW79qY46ma0VsVFWSqwEkcgZgCScZbJ88fnAGiirqZqyoeeqlkmmkPU8kjFmY+pOuVqwzZrnVuxP//Z" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABwgGBf/EAC0QAAIBAwIEAwgDAAAAAAAAAAECAwQFEQAGEiExYRNRgQcIFCIjQUJxMlKh/8QAFwEAAwEAAAAAAAAAAAAAAAAAAAEEAv/EAB0RAAICAwADAAAAAAAAAAAAAAECABEDBBITQaH/2gAMAwEAAhEDEQA/AJx2Rt6bdO56G0QSCL4h/qSlciJAMsxHYA/vkNUVt/Yu3dpXdWpqRaiVVUxyXGFZXbr84BHCpPPkAcY6k6zPuq26z1D7ira2QNcoEiSKPh5rESSzL5ksFHb10u3yFbmtLcpqYssSISqkt48PGfnxjock45nprBYBqMu0lw9XmFiZjcexdh7nieeqj+HuTE8b24LHIhJ/kygcDeoBPnqZt87efa26K60vMKiOF8xThcCWMjKtj7ZB6fY5GqcmuNvs9yZ7dQ+HAy+HIr8uIhiQRnoQCM9cn/SX3g5rbW1VmrKRDHWPE6SKcHKg5HPsSw9e2kGpuY9rWoHKi0s4fsRqq+2bpe5294nSnQJU0vF9WWFzhmRfy4CFYgc/LOq6sV6oLjt6tj289Ms4VmhhmHh+FKefzAgEc89RzzqBqaeWmnSankeKVDlXRsEHsdNFl9oRpEoJ7tVwXSsgThLTOB5cspg9s589DdA2BclQrVGIFdb4qKqaov8AUlpweEQoON2b+oA6+mdBPtVpKqK8Q1dXJCgqQ4ipOP60KKcBpF/HiJJA64641p7hv+rC1VRaq6OjrplYeLHIGbBJOMtk/fH6A0T1dTNWVDz1Usk00hy8kjFmY9ydJAbsiV7W62ZPH6+T/9k=" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>The Torch is Passed</div>
+                                                <div>Master of Trades</div>
                                                 <div class="unlocked">9 Jun 2024</div>
                                             </div>
-                                            <div class="description">Completed Chapter 14.</div>
+                                            <div class="description">Raised 3 jobs' ranks to max.</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAABAQADAAAAAAAAAAAAAAAACAcCBQb/xAApEAACAQMDAgYCAwAAAAAAAAABAgMEBREAEiEGMQcTQUJRYSJxI4Gx/8QAGAEBAAMBAAAAAAAAAAAAAAAAAAECAwT/xAAaEQADAQEBAQAAAAAAAAAAAAABAgMAESEx/9oADAMBAAIRAxEAPwA0dNWwXi9UtE8pghkcebMEL+WnubA74HppR9F+GNjslcKm1UaXBlKpG9XGk8hbvvOfwiz3wASBjknUZ8HKS3TwXCSaTFySeBowVJHlqSzLgEE7yAO/G371am6oo4rGFo55KeWKsEU6RVBgebbkBiwB4AIX5AB+OcqMR83RGYb7serugeib3HVzXijltt0jcrM1EqRSIcbtxUfg4I55AJ550UrtSpR3CeGF2khDExOwwXT2kj9aS4vdGbLdaeUVpFRGtKjLI07BmyPMyRnI5Oe4A9dQDrEo88LPIXqRlJCTknHyf3/ukmJHuXmFPm2vhNHUpfZa2lMUqU6AT02/EskTHBaNfdsIDEDn4zpCWy22q/WaameVJI2k8wKTsmibHCndyox6YGe550R6aeWmmSankeKVDlXQ4IP0dWez+IAp4qCW81VPdauFNpM7ADnHH44P1nPzqtVYno0xqqDh1nvFHaLF05HHBMKScSAqKc7pZjjlfVm/rRf8TbfUUt1iqqp4UNWXZKXd/NGoON8q+0uSSPXjnGuqruvalI6ma0VsVFWSKwEkcgZgCScZbJ9cfoDUoq6masqHnqpZJppDueSRizMfsnSSMPTlqhhwb//Z" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAACAcGBf/EACsQAAEEAQMBBwQDAAAAAAAAAAECAwQRBQAGIRIHIjFBQlFhCCNxgRQVMv/EABcBAAMBAAAAAAAAAAAAAAAAAAECAwD/xAAcEQACAgMBAQAAAAAAAAAAAAACAwABEiExEWH/2gAMAwEAAhEDEQA/ADhsrAO7n3LCxTToZS+v7jyhYabAtSz+AD+TQ0k9rdm2L29lerC4dzKvtthxJlsJfcqyAuj3UEm6AFgDxvnWS+lPH4d53cM6asKybCWUNNFPKWiSVKHvagkfH71fMpMl/wBa45j5QxiW3m1PPhAWtTQJtPtz4cX46i08ZdIZ35JXmtnbR3LPyMTcGGlYbOsBLilwwhsrSskBdDuK5SbBF/Ojnvnby9rbonYlbwkNsrtp8JoOtkWlVeVg+HkbGlXsdmXlZMvIy3jLLpUkuuthJoEdKRXkOTyL1JPqdiQo+axKmx0ziyoOAepF2k/olQ/fxoKO77GeugvUyvYlKnYzdC8nj1tOIjoCJMXq+68ys0ooT6ukhKiBz4Vek2zuWPmXEGEotRP8PI6yh5vqoXR8x7EcgnQljPuxnkPR3FtOoNpWhVEH4OrNiN/hhmA7mpMfLSmUdJ/kKAHNcd2j8XfvotEi+1FUYjvlyx42QrY0hxGRyLMyNKpaG0ArccXXpAFiuBQvR57cn52R3SjKT3GUJkpUiPD6vvMNINAuJ9PUSpQ5vxutdWbv6U23JdxE1qFMcSoBxtwKUBZNWq/evwNSiXJemSFvynXHnnD1LccUVKUfknQUJV2ZxiXJ/9k=" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Pound It</div>
+                                                <div>Friends in the Gang</div>
                                                 <div class="unlocked">9 Jun 2024</div>
                                             </div>
-                                            <div class="description">Called for Poundmates 30 times.</div>
+                                            <div class="description">Maxed Zhao's Bond Level.</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
                                         <div>
-                                            <div class="description ellipsis">+43 others...</div>
+                                            <div class="description ellipsis">+47 others...</div>
                                         </div>
                                     </div>
                                 </div>
