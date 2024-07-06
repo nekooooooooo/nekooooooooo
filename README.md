@@ -1,6 +1,12 @@
 ### 💻 What am I up to?
 
-- 🤓 Currently learning web development and various javascript frameworks like React.js, Vue, and Svelte
+- 🤓 Currently learning
+  - Web Dev
+    - JavaScript Frameworks
+      - React.js
+      - Vue
+      - Svelte
+  - Visual C# and C# WPF
 
 [<img align="left" width="390" src="/general.svg">](#)
 [<img align="right" width="390" src="/icons.svg">](#)
