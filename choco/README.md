@@ -2,37 +2,60 @@
 
 My choco packages for fresh windows install
 
+## 📚 Table of Contents
+
+- [📦 Packages Included](#-packages-included)
+  - [🌐 Web Browsers](#-web-browsers)
+  - [🖥 Terminals and Shells](#-terminals-and-shells)
+  - [💬 Communication](#-communication)
+  - [📦 Archiving Tools](#-archiving-tools)
+  - [🎮 Gaming](#-gaming)
+  - [👨‍💻 Development Tools](#-development-tools)
+  - [🔐 Password Managers](#-password-managers)
+  - [📁 File Management](#-file-management)
+  - [🎥 Media](#-media)
+  - [⚙️ Utilities](#️-utilities)
+- [🚀 Installation Instructions](#installation-instructions)
+
 ## 📦 Packages Included
 
 ### 🌐 Web Browsers
+
 - **[Google Chrome](https://community.chocolatey.org/packages/googlechrome)**: A fast, secure, and free web browser.
 - **[Firefox](https://community.chocolatey.org/packages/firefox)**: A free and open-source web browser developed by Mozilla.
 
 ### 🖥 Terminals and Shells
+
 - **[Windows Terminal](https://community.chocolatey.org/packages/microsoft-windows-terminal)**: A modern, feature-rich terminal application.
 - **[Oh My Posh](https://community.chocolatey.org/packages/oh-my-posh)**: A prompt theme engine for any shell.
 
 ### 💬 Communication
+
 - **[Discord](https://community.chocolatey.org/packages/discord)**: A free voice, video, and text chat app for gamers.
 
 ### 📦 Archiving Tools
+
 - **[7-Zip](https://community.chocolatey.org/packages/7zip)**: A file archiver with a high compression ratio.
 
 ### 🎮 Gaming
+
 - **[Steam](https://community.chocolatey.org/packages/steam)**: A digital distribution platform for video games.
 - **[Prism Launcher](https://community.chocolatey.org/packages/prismlauncher)**: A custom Minecraft launcher with mod support.
 - **[Epic Games Launcher](https://community.chocolatey.org/packages/epicgameslauncher)**: A digital storefront and game launcher.
 
 ### 👨‍💻 Development Tools
+
 - **[Visual Studio Code](https://community.chocolatey.org/packages/vscode)**: A source-code editor made by Microsoft.
 - **[Git](https://community.chocolatey.org/packages/git.install)**: A distributed version-control system for tracking changes in source code.
 - **[Python 3](https://community.chocolatey.org/packages/python3)**: A high-level programming language for general-purpose programming.
 - **[Node.js](https://community.chocolatey.org/packages/nodejs.install)**: A JavaScript runtime built on Chrome's V8 JavaScript engine.
 
 ### 🔐 Password Managers
+
 - **[Bitwarden](https://community.chocolatey.org/packages/bitwarden)**: An open-source password manager.
 
 ### 📁 File Management
+
 - **[WizTree](https://community.chocolatey.org/packages/wiztree)**: A disk space analyzer.
 - **[WinSCP](https://community.chocolatey.org/packages/winscp.install)**: A free SFTP, SCP, and FTP client for Windows.
 - **[Everything](https://community.chocolatey.org/packages/everything)**: A desktop search utility for Windows.
@@ -41,6 +64,7 @@ My choco packages for fresh windows install
 - **[TeraCopy](https://community.chocolatey.org/packages/teracopy)**: A utility designed to copy and move files faster and more securely.
 
 ### 🎥 Media
+
 - **[OBS Studio](https://community.chocolatey.org/packages/obs-studio.install)**: Open source software for video recording and live streaming.
 - **[MusicBee](https://community.chocolatey.org/packages/musicbee)**: A freeware media player for playback and organization of audio files.
 - **[FFmpeg](https://community.chocolatey.org/packages/ffmpeg)**: A complete, cross-platform solution to record, convert, and stream audio and video.
@@ -51,6 +75,7 @@ My choco packages for fresh windows install
 - **[HandBrake](https://community.chocolatey.org/packages/handbrake.install)**: An open-source video transcoder.
 
 ### ⚙️ Utilities
+
 - **[EarTrumpet](https://community.chocolatey.org/packages/eartrumpet)**: A powerful volume control app for Windows.
 - **[qBittorrent](https://community.chocolatey.org/packages/qbittorrent)**: An open-source BitTorrent client.
 - **[Java Runtime](https://community.chocolatey.org/packages/javaruntime)**: The Java Runtime Environment (JRE) for running Java applications.
