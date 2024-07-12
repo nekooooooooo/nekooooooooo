@@ -82,13 +82,13 @@ To install all the packages listed in `packages.config`:
 
 2. Download the `packages.config` file from this repository or use the raw URL:
 
-```powershell
+```
 https://raw.githubusercontent.com/nekooooooooo/nekooooooooo/master/choco/packages.config
 ```
 
 3. Run the following command in your command line
 
-```cmd
+```powershell
 choco install packages.config -y
 ```
 
