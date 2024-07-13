@@ -124,3 +124,14 @@ Invoke-WebRequest -Uri $url -OutFile $configPath
 # Install the packages listed in the .config file using Chocolatey
 choco install $configPath -y
 ```
+
+## Optional
+
+Remove packages from choco but keep the programs.
+
+Why would I do this?
+> This seems to make Chocolatey forget about the install so I still get the benefit of setting up a machine via a script but don't carry the mental overhead of seeing it in the outdated list going forward.
+
+```powershell
+choco uninstall -y --skip-powershell --skip-autouninstaller
+```
