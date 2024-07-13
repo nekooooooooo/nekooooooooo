@@ -9,19 +9,19 @@ version = 2.0
   type = "prompt"
 
   [[blocks.segments]]
-    foreground = "#ff2b60"
+    foreground = "p:sesh1"
     style = "plain"
     template = "󰄛 {{ .UserName }}@{{ .HostName }}"
     type = "session"
 
   [[blocks.segments]]
-    foreground = "#4e2fc4"
+    foreground = "p:sesh2"
     style = "plain"
     template = " on"
     type = "session"
 
   [[blocks.segments]]
-    foreground = "#00ebff"
+    foreground = "p:path"
     style = "plain"
     template = " \uf07b {{ path .Path .Location }} "
     type = "path"
@@ -30,7 +30,7 @@ version = 2.0
       style = "full"
 
   [[blocks.segments]]
-    foreground = "#14A5AE"
+    foreground = "p:git"
     powerline_symbol = "\ue0b0"
     style = "plain"
     template = "{{ .UpstreamIcon }}{{ .HEAD }}{{ if gt .StashCount 0 }} \uf692 {{ .StashCount }}{{ end }} "
@@ -47,18 +47,26 @@ version = 2.0
   [[blocks.segments]]
     type = "python"
     style = "plain"
-    foreground = "#cbff00"
+    foreground = "p:python"
     template = " {{ .Full }} ({{ .Venv }}) "
 
   [[blocks.segments]]
-    foreground = "#cd5e42"
+    foreground = "p:root"
     style = "plain"
     template = "\ue3bf "
     type = "root"
 
   [[blocks.segments]]
-    foreground = "#ff8702"
+    foreground = "p:text"
     style = "plain"
     template = "# "
     type = "text"
 
+[palette]
+  sesh1 = "#ff2b60"
+  sesh2 = "#4e2fc4"
+  path = "#00ebff"
+  git = "#14A5AE"
+  python = "#cbff00"
+  root = "#cd5e42"
+  text = "#ff8702"
