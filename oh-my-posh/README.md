@@ -4,6 +4,12 @@ My personal config and oh-my-posh theme modified from [amro](https://github.com/
 
 ![alt text](image-1.png)
 
+## Colors
+
+Based from [laser-theme](https://github.com/j0hnm4r5/laser-theme/blob/master/README.md)
+
+![alt text](swatch.png)
+
 ## Config
 
 ### Powershell
