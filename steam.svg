@@ -68,7 +68,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        1.33k hours played
+                                        1.34k hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -117,15 +117,15 @@
                             </div>
                         </div>
                         <div class="media largeable-width-half">
-                            <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCABAAEADASIAAhEBAxEB/8QAGwAAAwEAAwEAAAAAAAAAAAAABAUGBwECAwj/xAArEAACAQMCBQQCAgMAAAAAAAABAgMABBEFIQYSMUFRBxMiYTJSFCNCcYH/xAAaAQABBQEAAAAAAAAAAAAAAAADAAEEBQYC/8QAIhEAAQQCAwEAAwEAAAAAAAAAAgABAwQFERITITEiJEFx/9oADAMBAAIRAxEAPwD58QZPyoqz0+a6Wc26FvbXmOKEh+I+VXfplOFu7lHjDCVOXcVNjDl8VHbnKISkUOYiAcAgDqD5rgxMUz/j4rTuLuEFkBu9NGw3ZR5qDa2dZSHGHXblpzEgQ4bzStzb6lYiPJlfx8V5Mh5csPh4pw1qzOGAwf1qu4U4NNxIt3qAxD15T3pgEjNElvxxtzJ/VA3OmXNvZLeTIVSTZc0ufsR1G9a36rxRw6HYQwoFRZD08YrJZcbMvQ7VzKHE/UejY7xaRFqf7Dy9MVYenTEahKWbAwKiixyxXxVZ6fTQLczGZ8bUSuXB/VGyIF0H4tshjBAUDmGASP2qe4k4RTUla4sUC3S74HQ/VLta19bHSJHt5wbhRkDPQVScB8X6brGmMl1MsV2q+e/mrLnGfjrItBarD36fSScN8HPasLrU1AmH4qRsPs1RXLxxR8iOiE7cuOn3XpxfxPpul6cJf5sUk5GAo71BaDri6raSz30yoxYhD0z9UuyMS0ycq9i4Pd7pks9VGIs7cB+b5GswZsD5dK0D1Gmgns7cRSZIY96z05Gx3FVdp+cni2WFj/XFnRK5GKZ6CqmWT5EbdjStTuM010CD3ZZMHtQXJaTFQ8rQiTbZO76AT2BSDmaQ7HJpxwjolrYQe9clxMewbFBWsTxr1Gc0Rf6sLSFRkGTxQX2/9W+DD1I27bTMj+KtIstTsmEZb3V3XepjR7QQWzpdBxyfiAcU0sNYS8iMbMFnrvOc4OxI60zM/wB2k+IoTl2V2b/FLcSqohTDE77ZNT53z/qn/EigRqT5pE3fHiis6xWWhELZMza0u2eZDjqKoeFAZZZHOwVanCwGSvei7O9ktFlSPqy0tKNjbL1bYmfxU+qatHApWIgtU887TOZJCf8AtA85clmOTXIkJ27UlY3MtJakfsf8UYZCjiSM4I8U90vWEkURz7fdS4kIyBXXmwc5waW01PIvVPlG/ipuKlC20cyYKmpfoCfIom4v5Z7RYJDnB2oTO5z0ArnaBkrI3JnkH6v/2Q==" alt="" />
+                            <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCABAAEADASIAAhEBAxEB/8QAHAABAAIDAQEBAAAAAAAAAAAABwYIAAMFBAEC/8QAMhAAAQMDAgQEBAUFAAAAAAAAAQIDBAUGEQASBxMhQRQxUWEyQlJxIiNigaEIFRYkM//EABgBAAMBAQAAAAAAAAAAAAAAAAIDBAAB/8QAHBEAAwEBAAMBAAAAAAAAAAAAAAIRAQMSEyEE/9oADAMBAAIRAxEAPwAJHRWFfB3/AFew1nckfD6dz7aw7d2xSsI+U++mHhnYUJilKuq8fyITP4m21dN2O+id/HAVWkJtXh/Xbl2qixVoac6c5Q/CBqdO8GYtLjhys1uM262Nwawcq0s0Hn3XBTJiONQbeB2IabTtcVjuFDXZVb1PgU14tIcecAykyFbz/OpN6zR6oAtL4U0+sQSqBWo7M1ainlLBJx21H7r4VXHbyVKaa8dEQNy3Gh0GrHWzRoUuhr3NBve4oFxAwf2OskUeZQ2XnqTI5kNKcuxpJ5ilj2zoW63TuoU06pz0Las7dqvPOvp2jDZBBPb6fc6dr2tCj3vS5FetUJRPj5D8dPcjzAHroKcQtC3GnU/nIJC/0/fViv5KIZYSnhfbxuO7IUdxPOhNL3vFI8k6sxHpsavylNPp3UKKOWw2noFLHQg+uiHgA4zSoVeqycJKWAEJV1yc6craMKl0PKn0pQomQsk/Du66j/S/2DkU5jMddlOAxkKdoDiuvfwx7qV7a7NarlNi0hx12aygPI/CSfMe2iniZxohw0OwLdSiTJVlClqG5tPuRqEWvSYCLYXdl9Spb7D7qksRG3inKx54HljXN51aNZoPNhVylTKWhhia0pwOqJRnqdbKjMcuN9ym00kQgdr8gfOPpSexGgx+lUC7LeqFRsdc2l1OC3zHozjxKtnY9PXXp4XcYTSA1SLhbHhkq2iQkbdqu5Ue+h9UymVqL86hxLVbaqNMQW4zR/3WvqR66DOO1tIpNZYq0FAbhVBIKRjuRnVkf7hSq5R1LbkIfZkJ2hST0V7aHeKZbqnDplxxYdchyXAnHYDoNFwfbBbqR7gpAZrNCrsJZWqYGcoCFYHn6aaqTbtIqlESguPqRs5Lu1w+YHUarpwWuP8Ax+9Y/MUG4UshpxSuw1Y6gPooU5+nPuJRFdUZEdxXksqOca36V+0yaB3ErgxNo6l1G3zz45UVKZ81ge51qtmTSbxsJu1K1MRT6rCeW40+5kIyemMadZ81y43l06kkmEo7X3ux9QD2147h4bWzMglbsVaVtJ/6snac++t7YsGMtCCNGpHDK2Kw4mqsT6xPZ5CeVnAAPQka4XD/AIU1S7nUTainwlPcVvK1jo7nsPTTZY3Dq3WYyJ3h3X3g4pKPEK3hWO2Drs8p20JBUwhTtCcUS4kdfCk+aj7a57rkOKkNtMsyi0KkoYaW+htkZJU4cD30VcQadFpfDlZJcS6/Jd2lSuihnppYuWrNVOI3TaY6h5U8BBWj5E+edCP9QddbclU634y0riwkhRKfmXjBGtwz7QHB8b+WkpJAbO5IHnnTxY11U+9rcRbdxyDGqCRtYkBW0n0AProHUBzQpJwkfCPpPqdfpDjjbnMbUWnvlcBxj3GrXTywQrQt9bkpNpxEUqpJDMVJymWR0V++pM5MjTaS+uG4lYUnCTnorVZ7S4vValREQq0w3UoSPNJQCvH3Opk7xDs+sR+a8iXBURhKEvbQD9hqTeV0erivaj6GKGsvkI5bildT5e+tNQuOPMbdg0RCZ7ro2uEDKU/cHRHS70tKlwAtTkx2SHFEoL5IUO3TXKubjQ+827GteA3T2lJwSpAK1fYjQ7wmnd6krrFUpnC2iSmYcjxddlFSsKVu5eeuAO2q9zpT06a9KkKUpx5RUvcc4z6aybLkTZCn5byn3lHJWo5wdaDkAg/Ef51avLxWk7PT/9k=" alt="" />
                             <div class="about">
-                                <div class="name">Once Human</div>
+                                <div class="name">Deadlock</div>
                                 <div class="infos">
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z"/>
                                         </svg>
-                                        Action, Adventure, RPG, Simulation, Strategy, Free To Play
+                                        Action
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -133,7 +133,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        273 hours played
+                                        10 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -157,15 +157,15 @@
                             </div>
                         </div>
                         <div class="media largeable-width-half">
-                            <img src="data:image/jpg;base64,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" alt="" />
+                            <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCABAAEADASIAAhEBAxEB/8QAGwAAAwEAAwEAAAAAAAAAAAAABAUGBwECAwj/xAArEAACAQMCBQQCAgMAAAAAAAABAgMABBEFIQYSMUFRBxMiYTJSFCNCcYH/xAAaAQABBQEAAAAAAAAAAAAAAAADAAEEBQYC/8QAIhEAAQQCAwEAAwEAAAAAAAAAAgABAwQFERITITEiJEFx/9oADAMBAAIRAxEAPwD58QZPyoqz0+a6Wc26FvbXmOKEh+I+VXfplOFu7lHjDCVOXcVNjDl8VHbnKISkUOYiAcAgDqD5rgxMUz/j4rTuLuEFkBu9NGw3ZR5qDa2dZSHGHXblpzEgQ4bzStzb6lYiPJlfx8V5Mh5csPh4pw1qzOGAwf1qu4U4NNxIt3qAxD15T3pgEjNElvxxtzJ/VA3OmXNvZLeTIVSTZc0ufsR1G9a36rxRw6HYQwoFRZD08YrJZcbMvQ7VzKHE/UejY7xaRFqf7Dy9MVYenTEahKWbAwKiixyxXxVZ6fTQLczGZ8bUSuXB/VGyIF0H4tshjBAUDmGASP2qe4k4RTUla4sUC3S74HQ/VLta19bHSJHt5wbhRkDPQVScB8X6brGmMl1MsV2q+e/mrLnGfjrItBarD36fSScN8HPasLrU1AmH4qRsPs1RXLxxR8iOiE7cuOn3XpxfxPpul6cJf5sUk5GAo71BaDri6raSz30yoxYhD0z9UuyMS0ycq9i4Pd7pks9VGIs7cB+b5GswZsD5dK0D1Gmgns7cRSZIY96z05Gx3FVdp+cni2WFj/XFnRK5GKZ6CqmWT5EbdjStTuM010CD3ZZMHtQXJaTFQ8rQiTbZO76AT2BSDmaQ7HJpxwjolrYQe9clxMewbFBWsTxr1Gc0Rf6sLSFRkGTxQX2/9W+DD1I27bTMj+KtIstTsmEZb3V3XepjR7QQWzpdBxyfiAcU0sNYS8iMbMFnrvOc4OxI60zM/wB2k+IoTl2V2b/FLcSqohTDE77ZNT53z/qn/EigRqT5pE3fHiis6xWWhELZMza0u2eZDjqKoeFAZZZHOwVanCwGSvei7O9ktFlSPqy0tKNjbL1bYmfxU+qatHApWIgtU887TOZJCf8AtA85clmOTXIkJ27UlY3MtJakfsf8UYZCjiSM4I8U90vWEkURz7fdS4kIyBXXmwc5waW01PIvVPlG/ipuKlC20cyYKmpfoCfIom4v5Z7RYJDnB2oTO5z0ArnaBkrI3JnkH6v/2Q==" alt="" />
                             <div class="about">
-                                <div class="name">Deadlock</div>
+                                <div class="name">Once Human</div>
                                 <div class="infos">
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z"/>
                                         </svg>
-                                        Action
+                                        Action, Adventure, RPG, Simulation, Strategy, Free To Play
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -173,7 +173,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        10 hours played
+                                        273 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
