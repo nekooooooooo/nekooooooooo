@@ -30,7 +30,7 @@ if (Test-Path($ChocolateyProfile)) {
 $env:VIRTUAL_ENV_DISABLE_PROMPT=1
 ```
 
-### Lua
+### Clink
 
 <div style="text-align: right; font-size: 0.75em;"> oh-my-posh.lua </div>
 
