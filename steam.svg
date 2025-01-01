@@ -68,7 +68,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        2 hours played
+                                        5 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -85,32 +85,32 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            39 / 160 achievements unlocked
+                                            68 / 160 achievements unlocked
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAABAAMBAAAAAAAAAAAAAAAABgMEBwX/xAArEAABBAEDAgMJAQAAAAAAAAABAgMEEQUGByEAEjFBUQgTFDI2QlN0tDP/xAAWAQEBAQAAAAAAAAAAAAAAAAAAAgX/xAAWEQEBAQAAAAAAAAAAAAAAAAABABH/2gAMAwEAAhEDEQA/AL2yu1WCzmk3HXnH2VtOoQShtlZWVMtuFRK0KN2sjihQHF2Smy22+gsRkosDJ55caZKoMtONRQVc1+Hjn16qbazMzB2iy7+nI6XpqZDVnxU2j4RjuWlP3KHkOPXmqOUZPJSDk5j+ZXJlS5fapxUmkLUAKHchfbQr0FHyA6y1d2u2LE7b6Cy+SlQMZnlyZkX/AGabaikp5r8PPPp0Z3q2qwWD0m26y4+8t11aAVtsoKCllxwKBQhJu0Ac2KJ4uiAeMyUgZOG/hlyYkuJ3KbVHpa0pIo9qEd1ivUUPMHrV9ypmZnbRYh/UcdLM1Uh2j4KcR8I/2rUn7VHzHPrxdALuySezn9GS/wBlr+RjotuBI1dprVmSmPOJkY2U5cZyTETIjtIJHai6HYsHjk83xfXJ2V3VwWC0m4083IeW66hZCHGUFBSy22UkLWk3aCeLFEc3YDidvLpWfDeizcdIfjPJKHG3HopSpJ8QR77oiMi+h5ustQarxM2KgpxzEhIluQ4qI0dTVkLBJ+dV8EJNiuR0u9oz6Mh/sO/yP9Qwd5dKwIbMWFjpDEZlIQ2229FCUpHgAPfdB96t1cFndJttMtyGVtOrWAtxlZWVMuNhICFqN2sHmhQPN0CBWX//2Q==" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABQYHAAT/xAAoEAACAQMDBAEEAwAAAAAAAAABAwIEBREGByEAEzFhQRIiM6EUMnH/xAAWAQEBAQAAAAAAAAAAAAAAAAAAAgX/xAAXEQEBAQEAAAAAAAAAAAAAAAABABEx/9oADAMBAAIRAxEAPwD3bK7VWK+6TY1zKhM1NhAmC0zMzJK2GRM4SOczI4wMAcZyS9rHb/QWkLfOrvl5qE4iZQSE0ha3zxCPayTwfXSOyF0p7Ntvc66ralS1PVguYFxlI0iBGJkfGTgdL2yw2ewfxb7rntXHUt1mFTqHLDIrlMcIUP6iIHAI88n56y9V1ribNtNo+80aqm33OpatioOA7FKJCMhmJMezkZ99R+9W1VisWk1tSyodNrZwBmtMDAxSxgkDCETnMAOcjBPGcEaLq2lpb/bq/UekM0OpbHKYVUyX2g4QH3LZ8TWYggZ8fBHUxuhqek1ftHZrxRTge85gbCJ/E0Uj/qgfYP6x0FHSXbX6YpNX7R3mz1sIHvOWVTkPxNFIj6Zj2D+s9Wmg70m5Whel9WqTTahtsILqKRn2xcF4MHK+JRxESyPB8gdZbsrurYrFpNinLqHTa2EyIMTAwMUrWYkTnE5zAnjIwRznIFhed2dH3mjbTXC2VLVsVNJPfpRIRkMSAkHZGfXRHjJq86js1kNRYtCrp67Ut1kWwp6efcjCUxy9pJMYwiOcfPAxz0Jvfa6ezbb2yhpFJUtT25CVhcZSNI8ykIjxk5PR2jtwNBaQt8KSx2aoTiIjNxdSFrfc5d3JPH+dA71bq2K+6TWpK6hM1NnMCbEzMzJLFiIEJyOczB5wMA85wCBXCX//2Q==" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Shotty</div>
+                                                <div>Ascension</div>
                                                 <div class="unlocked">1 Jan 2025</div>
                                             </div>
-                                            <div class="description">Unlock the Bandit</div>
+                                            <div class="description">Survive Night 40 in Endless Mode</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAABAAMBAAAAAAAAAAAAAAAABgMEBQL/xAA0EAACAQIFAAUJCQAAAAAAAAABAgMEEQAFBgchExdUk9MSFBhRUlZylKEWIjE0QUJh0dL/xAAWAQEBAQAAAAAAAAAAAAAAAAABAgX/xAAXEQEBAQEAAAAAAAAAAAAAAAABABES/9oADAMBAAIRAxEAPwC9srtVkWe6TklmkqIXilRCUjhcuWhjkLEujG93I4sLAcXuS/6j9O9rrO4pfBwe2n1E2m9vXqEpEqnmrUjCPOIgPJoI5DyQebIQB+pIwmi3TqJJY41yWlu7IoJzNbffhMw/Z6hb4uMZSq10XUfp3tdZ3FL4OAG9W1WRZFpOOWGSomeWV0BeOFChWGSQMCiKb3QDm4sTxexGj6S1H7sVXza/5xxrrXEevtrI80hoJKFYsynpujeQOTaila9wB7X0wnQ7FZ2z0p9r9tpKHz+ShMVfHN0iRhyQaGJCtj/DnGwuyJV1YaoqrqVP5OP8QnR+v2cENld1ciyLSckU0dRM8sqOQkkKFCsMcZUh3U3uhPFxYjm9wH/Xhp3slZ39L42BEcmKejVl/vLXfLJ/eIteaHh0DtbHldPXS1qS5lPUmSRAhBNFKtrD4frhh14ad7JWd/S+NgBvVurkWe6TjihjqIXildwHkhcuWhkjCgI7G93B5sLA83sDR0uRf//Z" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAABQYABwECBP/EACoQAAIBBAEDAwIHAAAAAAAAAAECAwQFBhEHACExEhNhInEUFSQyQVGC/8QAFgEBAQEAAAAAAAAAAAAAAAAAAQIF/8QAFxEBAQEBAAAAAAAAAAAAAAAAAQARIf/aAAwDAQACEQMRAD8A7uFeKrFfMTklmknheKVEJSOFy5aGOQsS6Md7cjtoaA7b2SWy/CsBxUiKvuddNXsB7dFT01K80mzoAD2tD/RHW3HOSpi3ElzrV21ZLUxU9HGFLF5mo4fSND+gCx+FPSVi0/4u23mprKBrhfGJaQTSrHKh9W2YO50pXuSfg9Za91rnTDMJwHLqZXtl1rEqfqD0c8FIsyEEg7X2u/jyCR0I5q4qsVjxOOWGSeZ5ZXQF44UKFYZJAwKIp3tAO+xontvRCdaZ7TUUMN1oqiWgvMjO0CQSeopIkhAG1/cWK9iN72OrJ5HyZMq4ktddpkrI6mWCriYaaOZaObYI+QQ32YdIo6RY47xaHLuIbrb3X9SlRFNSOHKmOZaOH0nY8b2VPwT0hw5HXUEjWiGiFruaFaeacwK8i6P1AI4Ict3BBBJ30y8K8q2Kx4nJFNHPM8sqOQkkKFCsMcZUh3U72hPbY0R33sAxl+c4FlUQ/MLZWRViMHiraeekSaJh4IPu6P2YEdCdxmryrtdlhpKez2czXW4SbNPLFGEk915Cx2q6CkFjoDWteOrC5FxaDEOIrVbogTUNUyzVUjMWaSY0k3qJP860FHwo6mF5vgOIUojtdqrHqCS0lXPPSNNIxJ2S3u9vPgADoRzVyrYr5iccUMc8LxSu4DyQuXLQyRhQEdjvbg99DQPfegUFcIv/2Q==" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Logician</div>
+                                                <div>Shift + F5</div>
                                                 <div class="unlocked">1 Jan 2025</div>
                                             </div>
-                                            <div class="description">Reach Level 200 in a run</div>
+                                            <div class="description">Enter 3 Portals in a single Run</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
                                         <div>
-                                            <div class="description ellipsis">+37 others...</div>
+                                            <div class="description ellipsis">+66 others...</div>
                                         </div>
                                     </div>
                                 </div>
