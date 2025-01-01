@@ -85,32 +85,32 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            30 / 160 achievements unlocked
+                                            39 / 160 achievements unlocked
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABgcEBf/EACkQAAIBAwMEAgICAwAAAAAAAAECAwQFEQYHIQASEzEyQRRRM2E0cZH/xAAWAQEBAQAAAAAAAAAAAAAAAAAAAgX/xAAXEQEBAQEAAAAAAAAAAAAAAAABABEh/9oADAMBAAIRAxEAPwDdsrtVYr7pOSWaSoheKVEJSOFy5aGOQsS6Mc5cjjAwBxnJK7UG1GkLBa5a+5XCsjgj4AFNSszsfSqPDksT6A6zbO3l7Pt9KaeJJauqr4aanEjdsYc0cJy7fSgKf7PAHJHTZ6al3H0tUUdzjalraOpMRmgORDUKv8kTH5DD/f7KnkHrLV3WuI6e2p0fqC1Q3C13Grlp5OP8elDIw9qw8PDA8EdEt6tqrFYtJxywyVEzyyugLxwoUKwySBgURTnKAc5GCeM4IrtHQUe3Wl6agtMYmq6yoEfnqD2rLUMvMkrD4jCeh+lUckdBd372b5t5FJLEI6mlr56WcJkxtItJMSUb7U5H9g5B5B6C7pLpbC0VLcdvrlSV8KTUss8auj+iPxYP+f7+ul+l9RWxZqG10NEaK2VCEWubI7KoKCxwPYyAWBblgC3Ub2W3UsVi0nJFPHPM0squQkkKFO2GOMgh3U5yhPGRgjnOQENr3G0TbLxPcaW3V4mkz2I1XTNHBn5eNfNhO48nHRHoyomq9R2xDWW+40Rq7TDiO51BI8dN3KGAYezgEMcfEEHohv3RU1v2+ttJQQpDSxTSLHGgwAPxJ+uVddxtE3S7wXGrt1eZY8d6LV0wjnxyvkXzYbtPIz0e3p3UsV90nHFBHPC0UrOA8kLl+6GSMABHY5y4POBgHnOAQPAl/9k=" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAABAAMBAAAAAAAAAAAAAAAABgMEBwX/xAArEAABBAEDAgMJAQAAAAAAAAABAgMEEQUGByEAEjFBUQgTFDI2QlN0tDP/xAAWAQEBAQAAAAAAAAAAAAAAAAAAAgX/xAAWEQEBAQAAAAAAAAAAAAAAAAABABH/2gAMAwEAAhEDEQA/AL2yu1WCzmk3HXnH2VtOoQShtlZWVMtuFRK0KN2sjihQHF2Smy22+gsRkosDJ55caZKoMtONRQVc1+Hjn16qbazMzB2iy7+nI6XpqZDVnxU2j4RjuWlP3KHkOPXmqOUZPJSDk5j+ZXJlS5fapxUmkLUAKHchfbQr0FHyA6y1d2u2LE7b6Cy+SlQMZnlyZkX/AGabaikp5r8PPPp0Z3q2qwWD0m26y4+8t11aAVtsoKCllxwKBQhJu0Ac2KJ4uiAeMyUgZOG/hlyYkuJ3KbVHpa0pIo9qEd1ivUUPMHrV9ypmZnbRYh/UcdLM1Uh2j4KcR8I/2rUn7VHzHPrxdALuySezn9GS/wBlr+RjotuBI1dprVmSmPOJkY2U5cZyTETIjtIJHai6HYsHjk83xfXJ2V3VwWC0m4083IeW66hZCHGUFBSy22UkLWk3aCeLFEc3YDidvLpWfDeizcdIfjPJKHG3HopSpJ8QR77oiMi+h5ustQarxM2KgpxzEhIluQ4qI0dTVkLBJ+dV8EJNiuR0u9oz6Mh/sO/yP9Qwd5dKwIbMWFjpDEZlIQ2229FCUpHgAPfdB96t1cFndJttMtyGVtOrWAtxlZWVMuNhICFqN2sHmhQPN0CBWX//2Q==" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Green Belt</div>
+                                                <div>Shotty</div>
                                                 <div class="unlocked">1 Jan 2025</div>
                                             </div>
-                                            <div class="description">Complete a run on Mastery 5 or higher</div>
+                                            <div class="description">Unlock the Bandit</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAABQYDBwgE/8QAJhAAAgEDBAICAgMAAAAAAAAAAQIDBAURAAYHIRJBIjETMlFhYv/EABcBAQADAAAAAAAAAAAAAAAAAAABAgX/xAAZEQEBAQEBAQAAAAAAAAAAAAABABExAiH/2gAMAwEAAhEDEQA/AO7hXiqxX3acks0lRC8UqISkcLly0MchYl0Y5y5HWBgDrOSTe89ibA2bTwzX671kAmfwREpaZ3PROfEQ5x0e/rRThG7Uti4zvF0uDMtJSSRyysiliFFJB9Afeszbv3Hcd1Xye53eoM87nC4BCovoKufiPeB7ydZoPp1rWhdmbE2BvKmmmsN3rJxC/g6PS0yOOgc+Jhzjsd/WgnNXFVisW045YZKiZ5ZXQF44UKFYZJAwKIpzlAO8jBPWcEUrtDcdx2rfILnaKgwTocNkEq6+wy5+Q94PvB1pnm67Ut94zs90t7M1JVySSxM6lSVNJP8AYP1oj5dJIdNZLzfeDK6CwCV5obhDNPDEzBpohRRAoFH75JX4+8aTNlbJorzZhV1FR5yMxBSM5Mf+WwejqwOFeVLFY9pyRTR1Ezyyq5CSQoUKwxxlSHdTnKE9ZGCO85Alul74wuVyqa6oslySoqG85PwXKKFScAZ8UqAB0P41DvOSQtz8ex0tFGbT+Waud/GKnVSzznGfFF+ycZOB6B011NkvNi4MoYL+JUmmuE00EMrMWhiNFKAhU/pghvj6zph2xvDjzbNe1ZarTcVqGXw8prhDN4jPoPOcH+x3oXzVyrYr7tOOKGOoheKV3AeSFy5aGSMKAjsc5cHvAwD3nAI1+dl//9k=" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAABAAMBAAAAAAAAAAAAAAAABgMEBQL/xAA0EAACAQIFAAUJCQAAAAAAAAABAgMEEQAFBgchExdUk9MSFBhRUlZylKEWIjE0QUJh0dL/xAAWAQEBAQAAAAAAAAAAAAAAAAABAgX/xAAXEQEBAQEAAAAAAAAAAAAAAAABABES/9oADAMBAAIRAxEAPwC9srtVkWe6TklmkqIXilRCUjhcuWhjkLEujG93I4sLAcXuS/6j9O9rrO4pfBwe2n1E2m9vXqEpEqnmrUjCPOIgPJoI5DyQebIQB+pIwmi3TqJJY41yWlu7IoJzNbffhMw/Z6hb4uMZSq10XUfp3tdZ3FL4OAG9W1WRZFpOOWGSomeWV0BeOFChWGSQMCiKb3QDm4sTxexGj6S1H7sVXza/5xxrrXEevtrI80hoJKFYsynpujeQOTaila9wB7X0wnQ7FZ2z0p9r9tpKHz+ShMVfHN0iRhyQaGJCtj/DnGwuyJV1YaoqrqVP5OP8QnR+v2cENld1ciyLSckU0dRM8sqOQkkKFCsMcZUh3U3uhPFxYjm9wH/Xhp3slZ39L42BEcmKejVl/vLXfLJ/eIteaHh0DtbHldPXS1qS5lPUmSRAhBNFKtrD4frhh14ad7JWd/S+NgBvVurkWe6TjihjqIXildwHkhcuWhkjCgI7G93B5sLA83sDR0uRf//Z" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Role Reversal</div>
+                                                <div>Logician</div>
                                                 <div class="unlocked">1 Jan 2025</div>
                                             </div>
-                                            <div class="description">Unlock the Summoner Class</div>
+                                            <div class="description">Reach Level 200 in a run</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
                                         <div>
-                                            <div class="description ellipsis">+28 others...</div>
+                                            <div class="description ellipsis">+37 others...</div>
                                         </div>
                                     </div>
                                 </div>
