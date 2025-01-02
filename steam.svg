@@ -68,7 +68,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        5 hours played
+                                        7 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -76,7 +76,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M4.75 0a.75.75 0 0 1 .75.75V2h5V.75a.75.75 0 0 1 1.5 0V2h1.25c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0 1 13.25 16H2.75A1.75 1.75 0 0 1 1 14.25V3.75C1 2.784 1.784 2 2.75 2H4V.75A.75.75 0 0 1 4.75 0ZM2.5 7.5v6.75c0 .138.112.25.25.25h10.5a.25.25 0 0 0 .25-.25V7.5Zm10.75-4H2.75a.25.25 0 0 0-.25.25V6h11V3.75a.25.25 0 0 0-.25-.25Z"/>
                                         </svg>
-                                        Last played on 1 Jan 2025
+                                        Last played on 2 Jan 2025
                                     </div>
                                 </div>
                                 <div class="achievements">
@@ -85,32 +85,32 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            68 / 160 achievements unlocked
+                                            72 / 160 achievements unlocked
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABQYHAAT/xAAoEAACAQMDBAEEAwAAAAAAAAABAwIEBREGByEAEzFhQRIiM6EUMnH/xAAWAQEBAQAAAAAAAAAAAAAAAAAAAgX/xAAXEQEBAQEAAAAAAAAAAAAAAAABABEx/9oADAMBAAIRAxEAPwD3bK7VWK+6TY1zKhM1NhAmC0zMzJK2GRM4SOczI4wMAcZyS9rHb/QWkLfOrvl5qE4iZQSE0ha3zxCPayTwfXSOyF0p7Ntvc66ralS1PVguYFxlI0iBGJkfGTgdL2yw2ewfxb7rntXHUt1mFTqHLDIrlMcIUP6iIHAI88n56y9V1ribNtNo+80aqm33OpatioOA7FKJCMhmJMezkZ99R+9W1VisWk1tSyodNrZwBmtMDAxSxgkDCETnMAOcjBPGcEaLq2lpb/bq/UekM0OpbHKYVUyX2g4QH3LZ8TWYggZ8fBHUxuhqek1ftHZrxRTge85gbCJ/E0Uj/qgfYP6x0FHSXbX6YpNX7R3mz1sIHvOWVTkPxNFIj6Zj2D+s9Wmg70m5Whel9WqTTahtsILqKRn2xcF4MHK+JRxESyPB8gdZbsrurYrFpNinLqHTa2EyIMTAwMUrWYkTnE5zAnjIwRznIFhed2dH3mjbTXC2VLVsVNJPfpRIRkMSAkHZGfXRHjJq86js1kNRYtCrp67Ut1kWwp6efcjCUxy9pJMYwiOcfPAxz0Jvfa6ezbb2yhpFJUtT25CVhcZSNI8ykIjxk5PR2jtwNBaQt8KSx2aoTiIjNxdSFrfc5d3JPH+dA71bq2K+6TWpK6hM1NnMCbEzMzJLFiIEJyOczB5wMA85wCBXCX//2Q==" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQABAAIDAAAAAAAAAAAAAAAABgQFAAMH/8QAMhAAAQMCBQAGCQUAAAAAAAAAAQIDBAURAAYHEiEIFCIxNnQTFRdCVHGTtNMjM0FRYf/EABcBAQEBAQAAAAAAAAAAAAAAAAABAgX/xAAYEQEBAQEBAAAAAAAAAAAAAAABABECIf/aAAwDAQACEQMRAD8AnaK6VUKu5TcdeckMradQglDbKysqZbcKiVoUb3WRxYWA4vclenSXKwldXkSKjGcUvY36aNEAd/1Nmjx87YsOjn4Nl+Za+0Yw9msmGl52S+Hqc5cyBKcAS0n+wTYBIHePljlddO24F7D8u/GTPoRfw4Aa1aV0Kh5TbdZcfeW66tAK22UFBSy44FAoQk3ugDm4sTxexC/M+YpdUpifV9Rq0Bm/oqciMSmXMcPvrBH7fNtu0EbSom2NesjU9jSfLzVZWV1NtO2UoqCiXRCeCzcd/avziijsrTo5+DZfmWvtWMA8+aiylZyqNOrTzcrL8VatsWAN4UtBsN6jYqA53oPAPHOImkupWX4GRZlPlplOCadqyy6y2psdXbaI/UWk37BIIBFiP5uMWuVc06d5cprMRilTZim30SOsS5ERbqnEX2KJDoHZBIHGGY+y6nkfKi4bqazW1Nv1h1FkBBJaioPut3A577qsDzbuwe6RngyJ5l37R/Ge3DLvwkz68X82AGtWqtCruU22mW5DK2nVrAW4ysrKmXGwkBC1G91g82Fgeb2BgKy//9k=" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Ascension</div>
-                                                <div class="unlocked">1 Jan 2025</div>
+                                                <div>Exterminator</div>
+                                                <div class="unlocked">2 Jan 2025</div>
                                             </div>
-                                            <div class="description">Survive Night 40 in Endless Mode</div>
+                                            <div class="description">Kill 100,000 enemies</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAABQYABwECBP/EACoQAAIBBAEDAwIHAAAAAAAAAAECAwQFBhEHACExEhNhInEUFSQyQVGC/8QAFgEBAQEAAAAAAAAAAAAAAAAAAQIF/8QAFxEBAQEBAAAAAAAAAAAAAAAAAQARIf/aAAwDAQACEQMRAD8A7uFeKrFfMTklmknheKVEJSOFy5aGOQsS6Md7cjtoaA7b2SWy/CsBxUiKvuddNXsB7dFT01K80mzoAD2tD/RHW3HOSpi3ElzrV21ZLUxU9HGFLF5mo4fSND+gCx+FPSVi0/4u23mprKBrhfGJaQTSrHKh9W2YO50pXuSfg9Za91rnTDMJwHLqZXtl1rEqfqD0c8FIsyEEg7X2u/jyCR0I5q4qsVjxOOWGSeZ5ZXQF44UKFYZJAwKIp3tAO+xontvRCdaZ7TUUMN1oqiWgvMjO0CQSeopIkhAG1/cWK9iN72OrJ5HyZMq4ktddpkrI6mWCriYaaOZaObYI+QQ32YdIo6RY47xaHLuIbrb3X9SlRFNSOHKmOZaOH0nY8b2VPwT0hw5HXUEjWiGiFruaFaeacwK8i6P1AI4Ict3BBBJ30y8K8q2Kx4nJFNHPM8sqOQkkKFCsMcZUh3U72hPbY0R33sAxl+c4FlUQ/MLZWRViMHiraeekSaJh4IPu6P2YEdCdxmryrtdlhpKez2czXW4SbNPLFGEk915Cx2q6CkFjoDWteOrC5FxaDEOIrVbogTUNUyzVUjMWaSY0k3qJP860FHwo6mF5vgOIUojtdqrHqCS0lXPPSNNIxJ2S3u9vPgADoRzVyrYr5iccUMc8LxSu4DyQuXLQyRhQEdjvbg99DQPfegUFcIv/2Q==" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAABAAMBAAAAAAAAAAAAAAAABgEEBQL/xAAyEAACAQMDAgMFBwUAAAAAAAABAgMEBREGByEAEhMUMQgiMkFCFRc2UVRhcXSTlLTT/8QAFwEAAwEAAAAAAAAAAAAAAAAAAAECBf/EABgRAQEBAQEAAAAAAAAAAAAAAAEAEQIh/9oADAMBAAIRAxEAPwC9srtVYr5pOSWaSoheKVEJSOFy5aGOQsS6Mc5cjjAwBxnJKS67a6LtpkWa4V8jR5DrDS0rlSMcHEPrz1b2LMo0LOyNIkQrIjM0fxBPJw8j+G7T/Gehu4KyU19uK01bUsEqX7jHKUUAqpB7Vwozz6DnrJ66d2sJpZ9pdIXmk8zbbnUzxA9rFYKXKtjOCPB4PPQ7eraqxWLSccsMlRM8sroC8cKFCsMkgYFEU5ygHORgnjOCE+yMjjTFXOtwbzslcyrG7LlgoT3mY+8VAY8E4561/aLIOjKMg5BqJcf4k/TFGKfZz/BtX/Uxf6kHVPfGwvU2ll01Zqtrrgs01JTkiRT9DY+IkjP7Y/foZsrurYrFpOSKaOomeWVHISSFChWGOMqQ7qc5QnjIwRznID/78NO/pKz+/S/9uh5diO2m2WqPSt4kpdBU1w+y6OnMU01P4klwlbPjhW9T2nK/mCCD6dZGrq6or9qu9/H8hHdJ46Dxj3MIPIykL3fV2sXXPy7cfLrsao0OglWE6mhikeRzFFeIVQF27mwPG4BPWHuPrvS0e3VHZrPFWQQUcsroJ54pnkMkcq4ykjEnulzk4GAefQGs18lf/9k=" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Shift + F5</div>
-                                                <div class="unlocked">1 Jan 2025</div>
+                                                <div>Game Over</div>
+                                                <div class="unlocked">2 Jan 2025</div>
                                             </div>
-                                            <div class="description">Enter 3 Portals in a single Run</div>
+                                            <div class="description">Die to a Boss in a Boss Challenge</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
                                         <div>
-                                            <div class="description ellipsis">+66 others...</div>
+                                            <div class="description ellipsis">+70 others...</div>
                                         </div>
                                     </div>
                                 </div>
