@@ -47,15 +47,15 @@ jobs:
           plugin_activity_days: 0
           plugin_activity_filter: all
           
-      - name: Achievements
-        if: ${{ success() || failure() }}
-        uses: stalomeow/metrics@projects-v2
-        with:
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
-          filename: achievements.svg
-          plugin_achievements: yes
-          plugin_achievements_display: compact
+      # - name: Achievements
+      #   if: ${{ success() || failure() }}
+      #   uses: stalomeow/metrics@projects-v2
+      #   with:
+      #     token: ${{ secrets.METRICS_TOKEN }}
+      #     base: ""
+      #     filename: achievements.svg
+      #     plugin_achievements: yes
+      #     plugin_achievements_display: compact
           
       - name: Icons
         if: ${{ success() || failure() }}
