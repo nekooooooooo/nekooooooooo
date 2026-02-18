@@ -39,7 +39,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="m.427 1.927 1.215 1.215a8.002 8.002 0 1 1-1.6 5.685.75.75 0 1 1 1.493-.154 6.5 6.5 0 1 0 1.18-4.458l1.358 1.358A.25.25 0 0 1 3.896 6H.25A.25.25 0 0 1 0 5.75V2.104a.25.25 0 0 1 .427-.177ZM7.75 4a.75.75 0 0 1 .75.75v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5A.75.75 0 0 1 7.75 4Z"/>
                             </svg>
-                            2.93k hours played
+                            2.94k hours played
                         </div>
                     </section>
                 </div>
@@ -68,7 +68,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        13 hours played
+                                        16 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -85,32 +85,32 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            59 / 177 achievements unlocked
+                                            62 / 177 achievements unlocked
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABQYHBAP/xAArEAABAwMDAgUEAwAAAAAAAAABAgMEBREhAAYSMUEHIjJRcRMlYaGBkbH/xAAXAQADAQAAAAAAAAAAAAAAAAAAAgME/8QAHhEAAgMAAQUAAAAAAAAAAAAAAQIAAxEhEhMiUWH/2gAMAwEAAhEDEQA/AOm76+3t+iqmrHJZdQ2hAFyolQvYd7JCj/GisWYxMityYjqHY7qQttxJwpJ6HSlvWi1KqS6fLpTkVS4qXEFmSVBN12HMEA+YAEfB0h1iryKXTkbPo8pFmEKTPlpAytZJU22CemSMZ1QuQx0cTIKUatSreRJ0ehxh2ONY8SYzT77FEiGeWcLkqdDbKT0uDkqAPUgW/wB1t8P93v7hEiPOjIalxx5y2RbFgeQvgkkkdiAdSWSUNwktAltqMmwSFk8MZulQCk39xg6cPBWJJ+rU6i+0ppt0JZAWkg3Ta9v6z8jSo7MY1tKIn2UKpVGPTID82Y4GmGUlalH9Afk9hqHRQlqnNFSyXniXXwVepaiTYg3TytbBAv76et9bcqlaqMeTEdZfjNIsIrzhQlK7+sYIJ+dCY+xKpMX9xmR4jBwtLBLrih7ciAB+9DgscEKGSsaTBW2aeNxV6LFbQVQIig9JUQeKQDcNi/S5HTtnVr55voPRqZDo0BEOnMhplOT3Kj3Uo9zrfzOqIvSJG2zuHZ//2Q==" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABQYHCAL/xAAsEAACAgECBQIFBQEAAAAAAAABAgMEEQUGABITITEHQSJSYYGRFCQyUXGx/8QAGAEAAgMAAAAAAAAAAAAAAAAAAQIAAwT/xAAdEQACAgIDAQAAAAAAAAAAAAABAgADERIEISJB/9oADAMBAAIRAxEAPwBk6n+fnhf01d1b5ntR7FWnXoQB1GoW1LCd1z2jHgLkY5j5PjxwM3/csNpdbStPdku6vYWkjL5VW/m32X/vFqqbj2x6Y6ZpmgT9UWBSNyWOvHzGCugAMr9xhR9Mk4OAe/FrtjoTHRUD6aZu1TaHqBtG3Fq+u1r7VAYLVrU1kLGsrFeojorkEL8SkYxjDDtxWUnSVFkiZWjccyspyCD3BB4vtgVLmnyCfoy0poiH58FHjI759sEH8cZV2jbpRNqGm6XYNjS69iR9LlbOZaZdlQjPfCsrpk/KP74CN8jcivrYQfrthKu+dmX7RC04rUsTsfCu6YTP34vXqV6bbX3mse4NUjZbtOm4jnErIjR8rMFkA8p3OcEHBIzxE9XoVtW0+aleTqQSjBHgg+xB9iOCW1t+b52fRGmiGjufS415YTal6FhF+VmwQw4jKc5hpsAGpiNL6s7slsQ2orth7c+OXSIx+3CnIFcQfLyhR4LHn5gwxwQ2RT02vqev29Gq/ptOeyIa0XVaQRqqguqs3cr1Ce/04O7j3NuvdlzrPU0fbClOm9igglvsmMFBORlBjt8ODxxp1Wvp1GGpTQRwRLyqvn7k+5PnPC1oVOTG5FysNVn/2Q==" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Blood Drinker</div>
+                                                <div>Baby - Crash Zone</div>
                                                 <div class="unlocked">17 Feb 2026</div>
                                             </div>
-                                            <div class="description">Reach 40 % Life Steal</div>
+                                            <div class="description">Win a run with Baby in Crash Zone</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAABAUGAwL/xAAuEAACAgEDAgQFAwUAAAAAAAABAgMEBQAGERIxISJRYRQVIzJBE3GBQlVioeH/xAAYAQACAwAAAAAAAAAAAAAAAAACBAABA//EACARAAICAQQDAQAAAAAAAAAAAAECAAMREhQhMQQyQfD/2gAMAwEAAhEDEQA/AOc1uqLHZmDExUp7WQnQPGv6kcMZBJA+pIwHPI7aMEG8LDcfAYbGj1nsvYYfwgA/3pJdyUNffKQJVxeYNvHvXtY67IF4RXDqEbxCyN1EjqBB6dbwXvl8zx7WuTwPHGXfAZgElOO4ifkkD0Kl19hoL3tHoYntnasOgm9zOZLAtxubFstb+4UOZoP3ZfvT+QR76c4/JVMlWWxj7MNmBuzxOGH/ADU1Y3DfyuOgs2MnQx8UsQmWCqytIFI5HXLJ5VPj2CHSLakEdPeqvRjcRXKcsk8nU7rKVZOlixAUnkkcqOPHV0WueH7gbewKWcYhk2NwFjP5pd1mxjXvtCMfkI0DReROCr/gkn+luOw4POl+98NuLb+MHzWGLM4UA/C5KBiwhbjy+c+aM88eDn9mPbVlOkdiF4Z40licdLo69SsPQg6VV1zO3a1uLbNhZqFiF4ZMZbclOllI+m5547/a3I9ONasp7EZo8nRx1++yW2pbtLBCMDtyOzYhRV+ImAdEIHBZmbkDx/yXTSvHmam+8bb3Bbrz2L8M8Qjr8ARcANySPuB49+PDx0NitvZqShVgyF6OpHDEkfSjGxJ5QB3byL2/Cnj11Q4rBUMbObMSSTXWHS1qxIZJSPTk9h7DgaBKzqzJbchUrnM//9k=" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABQcGBAj/xAAqEAABAwMDBAEDBQAAAAAAAAABAgMEBQYRABIxBxMhQWEUIoEyUVJxsf/EABgBAAIDAAAAAAAAAAAAAAAAAAEDAAIE/8QAHBEAAgIDAQEAAAAAAAAAAAAAAQIAAxESIQQi/9oADAMBAAIRAxEAPwDSdwaDordzX5OdZstUSFS2lFCqpKbLncUPB7aeNoPjceTxofqBMkKpcak09SkTavITCQpPKUq/Wr8J/wB1d6FUrdsFq3rWcdbjSZbG9OSlCG0JGAVqJGMnCQPJJzgckNd8cmOikN9GSy5LdvHp/FTU69Pi3BQQQJb8aN2XoeTjeUDwpAPPsc67m30ONpW2pK0KAUlSTkEHgjVffvC0psidSX63SXnENrEmOuQg/YAd4IJwcDOR685152tJ5iO7WaVCcLtOp85xuA7uKt8VRKmsE8gDIz8aCP3BhvpAGywyuvoiXzZk+UoJhtSnWlqPCVrRhGfzq79Qenr14VOPPpdUTBYmRPo6gFo7gdYwoo2D0sFavO7HwdRerwI1Wp70Kc3vYdGCOCD6IPojSdq39fVmwk05DUK5qa0NrCpLxYkNj+JV5Ch86pdUtgwwyIzz36DhwZvaf0jSqAbfq1OoDlFjgiNUmGC3UN+MpcJH27grHPggcaktt/WCt3KudVV1YNTlQ2ZikbA4hokEpTk4G5R96duS/L+u1hURx2HbFMcG11MBwuynB7HcPhP9jB0fTYkemwWYcNsNsMp2pTz+T+5POdRal2DkdEF12U0U8M//2Q==" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Fast Learner</div>
+                                                <div>Speedy - Crash Zone</div>
                                                 <div class="unlocked">17 Feb 2026</div>
                                             </div>
-                                            <div class="description">Reach level 10 before wave 6</div>
+                                            <div class="description">Win a run with Speedy in Crash Zone</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
                                         <div>
-                                            <div class="description ellipsis">+57 others...</div>
+                                            <div class="description ellipsis">+60 others...</div>
                                         </div>
                                     </div>
                                 </div>
