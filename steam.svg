@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="630" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="646" class="">
     <defs>
         <style/>
     </defs>
@@ -39,7 +39,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="m.427 1.927 1.215 1.215a8.002 8.002 0 1 1-1.6 5.685.75.75 0 1 1 1.493-.154 6.5 6.5 0 1 0 1.18-4.458l1.358 1.358A.25.25 0 0 1 3.896 6H.25A.25.25 0 0 1 0 5.75V2.104a.25.25 0 0 1 .427-.177ZM7.75 4a.75.75 0 0 1 .75.75v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5A.75.75 0 0 1 7.75 4Z"/>
                             </svg>
-                            2.94k hours played
+                            2.95k hours played
                         </div>
                     </section>
                 </div>
@@ -68,7 +68,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        59 hours played
+                                        65 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -85,32 +85,32 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            252 / 362 achievements unlocked
+                                            288 / 362 achievements unlocked
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQABAQEAAwAAAAAAAAAAAAAABgQCBQcI/8QALBAAAgEDAwIFAgcAAAAAAAAAAQIDBAURAAYhEiIHEzFBgVHBFBUyQmGS0f/EABkBAAIDAQAAAAAAAAAAAAAAAAECAAMEBf/EACARAAEEAQUBAQAAAAAAAAAAAAEAAgMEMQUREiFBE1H/2gAMAwEAAhEDEQA/ACHihuW51rztYqmRHgcfiekANhRx0jngZ599dYxbs3BJKifm1SOpgM9v+au3DdJrXvm6SRE9Hn9y/XtGqaLbkm6Lss+3Kbq6QJpohIq+/PSCRzwTj251y6FCuIGBrBgeBa5pXFxO61vO4bk2xuGptct9lqDEFZZExgqyhh7euDz/ADnVnhzvi9w7opI5at6gzsIgZmysa8lj0gYJI+3OlvjdazerHYrvQwh6gOKQKCxkkV8sgVcYwD15Pr3DQSisMu2/Em1W6eQSTL5Uj4/azxdRX4Jx8aa/Qh+MgMYwfAkilfzHa3e9uyXfd11laro6WnFRgtNOise1c4UnP20r2tY6e1zKlnucbVjEMDFVRliy85UA/Oj/AIjbHvcO6KuSKkeoM7GUiFcrGvAUdROCSPvxqLa+1KmCtM17tdwMaDsSJFbLfU9w41bp1+t8Y9nDAyR+ISxP5nor0Ztiao3BC9HugqlWcGKqXCef7qHVcYZWCkfXgHQbxPt7y7n2fdHjn8+ORqObqB6Y1ALIDx+oln+F9ONcGojVSi2m6hD2kiBMlf7+udNbDUVN+tjUFdS1czrKHo3q1USIVPU5LZJ56jznPBA9dHUrlVld7hIMHrcHxSGJ5eOl/9k=" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABgcEAQX/xAAuEAACAgEDAwMBBwUAAAAAAAABAgMEEQUGIQASQQcTMSIUFRZRcYGxYWKSocH/xAAYAQACAwAAAAAAAAAAAAAAAAACBAEDBf/EACMRAAIABgICAwEAAAAAAAAAAAECAAMEESExBWFBURKBofD/2gAMAwEAAhEDEQA/AJr6n7/1GTWbFOhYlieJwJZgoXuwOFUc4GD8+f521tub1nu6VD9+NEupwmSH3GAaNvZDj3B28Ak4yM+Oh2riA+qDi4qNWN+MShyACv05zn+nVy0vUh+L2YN316laKnAjLkxOzFmXB/MYHHHHS/C8NIm0wIQYAOh6jbpZBqWYufNtwZipWotJt7csa4x3ZI6zVrI5QkAB4M4GCMOefnKnnobsHeevUd3wVbNtrEjy/ZyZWysYBPfhQMHIB/11p3jbk0jX1mryKLFW/KgQqR7LAIyqf8SAfyB6N6K1d/UipJTbugks+4v9vcpJX9iSP26a5ziKOVSMUUYuDgeriK59kYBDkG2402tEO4/VSfSvdMKz2T3yBe4qgQMxA8nAPHVL9PtwttjXZV0jRNPu1qk5lse+SszQKWUOrtyWDA9uf04znoTvnaO49L3nNe06GZrLSGwr1xxCOAv1E4JI/wC8dIdvC/Fqcer26FiGSSNq1qqqrypCnK5OCvcoOOPPx0HBVdE9MFZ1vYbIGNH7G+4OmRbsjCxJ310eo9zekemeoG+K0upPOaMtaaxmtGIpGyCYy2B9RUYHn5x5x1HNrQxQb/pRVpHlgS0yxu69rMuGwSPBx46YmrrWmXdUFKjcdDUMFQjkAsyHjJ4+Cf1656bbE1S1r8Wo6nDMkyys8cbMAXOPqZjzxz8ef5jn6yglSH+EwE5GDfxb+9WgZ6K7gIub/gtH/9k=" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Doubling the tips</div>
+                                                <div>Rogue: Genesia</div>
                                                 <div class="unlocked">17 Mar 2026</div>
                                             </div>
-                                            <div class="description">Get 40 cards with the [Fire] tag</div>
+                                            <div class="description">Kill 1 A-Rank World Void Primordial</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAABAUGBwACA//EACkQAAIBBAEEAgIBBQAAAAAAAAECAwQFESESAAYTMSJBMlEHFGGBsdH/xAAXAQADAQAAAAAAAAAAAAAAAAACBAUD/8QAJhEAAQMDAwIHAAAAAAAAAAAAAQIDEQAEQSExYaHwEiJRgZHR8f/aAAwDAQACEQMRAD8AgvePdl2vnd5slpqJYZy5Ek4CpkrGWAGdBRrJP/ScsdD3EbVS1d3u00BNUdKol8qAAcOKjJPIH0COuNspI6fvm/1lSjTh0wkSDJPJTg/skMgbA+lPvGOi0W7VN2WuZoaGjijED3GGNigOMGNFj0oyTknJJJ/YHUC3t2mmUNoQkeUEkid/Tv2qiZUStZO8ACndK7U1Q1s/qDWTlisk0spTxO2eCByoXPregP3k56S2q7X7t7vCm51EssFXWS0sa1D8vAi4JDKB+WCQc/a6OOjKKx2mGrhaqrai43F/iCQ0EESMPxJKheJGdBfvJzodb1tO9NJaoCs6SCud5aeVgzRgPxVyM/EMu9Eglta6B5q3LakEBUg4jYEyOMfuunhXouCmCMzI0GvPeKCmrrdWXutp3HjngIpZcPxfgd5HxOQWYnPtTr9Ztixz2O1WmOCkmmWWem8kC05LNKmGLDi3xK4U6IA6pe/9u3uw9+VVWtDLVw1XIzJTj8IyQFwxOC2gfr0Rr31PJb9dTapfLAkwmSOIQcQPGgXGANsDgYYfZP8AnpV8ouGWlNrkQM5jnHTpTFssICkLEa/P2ag3f11ttroAtrppoJ2biizTmb5cgzKw4qnHjjI3jkF19I+3O65rjfrbRrR09Ossy+RkJYkBToZ9ev7nGuhe6rV3Bea5XSz1KxRghTwVSxOyeIOFGgAN4AGyc9O/4x7AuMt6p6yvp5YnicmKEsF5YG2Y7wN+vv8A3QuLphm0IWsEgHM7ikYWt4lAIBPc1//Z" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAABQYAAQIDBP/EACoQAAICAgEEAgAFBQAAAAAAAAECAwQFESEABhITMUEHIlFhcRQykbHB/8QAFwEAAwEAAAAAAAAAAAAAAAAAAQMFAv/EACQRAAEDAwMFAQEAAAAAAAAAAAECAwQAEUEhMVEFImFx8IGR/9oADAMBAAIRAxEAPwBH747xu3MveRbNmvTqOsdqzD61fzKn1qiMeRvk65IB+Pkp8NzvKzlrGPqXrM80E3od1KrGH2QB5EADZHG/nri7nx9rK9/X6OPhee1NY8UjX7PiP8AfOz8Dp4vWMtVxmCgq3MYBHUjlc14opl96FkVw5BBcKEBIPBXjqFHjRo8dHaNhuPFXIsdc5woSDccfeuc80mZnOdy4ueGOXK2ys1eKwjlQAwdA3HHOiSN/t0Y/DnvjNw90VI5bb2DOwiBmbaxryWPiBokj/nPR2Wg2S7MllzWSqiaNbBjpLCkfvKwJ4lda0UIHIG9Ej446QO0K0tLvqhVsp4Tw2THIuwdMAwI2Otvx47sZfYNjilS47sR8Ak2v9k0dnjjj79zVy5L6KQZ6by62Q88LIuhsfGyx2QNKed6BJUKVzE4fHVclG0cqxOQp1sL7H0f4J2Qf0IPW7vftnLVc5brW8S+RqTTPaArsUav5BVHjIdqSwVdgg60dAfPWOJt5uvlo8nku1rdqykDVGSOdY4p4CCAkqkMX0CBsn4Vd7I2VIdZkRkAOC1hkYFUOlzU9PeKym51GckXweBb9vV5bHWrGE91WJ/6hFnigBIHk8ixflUH+4mISfr9fZHQLGxtB3d2pBZHjeihC2VJ26t5SeIb9whQaPIAA+up3Nj+4svkY5aeDt0KcCotassgb1eKqu/LYJb8o5POgB9Do3+GnYeTsZ2G/k4ZkmSRmjjdgC5A5Zm545/k/7L8hiPFUC4Doc+PdJnykzXytCCCSPWltdgb6fyv/2Q==" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Cheap Workforces</div>
+                                                <div>You better make a defensive build with this one</div>
                                                 <div class="unlocked">17 Mar 2026</div>
                                             </div>
-                                            <div class="description">Exploi... Hire the goblins to fight for you</div>
+                                            <div class="description">Reach at least 200% Talent Charge Rate</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
                                         <div>
-                                            <div class="description ellipsis">+250 others...</div>
+                                            <div class="description ellipsis">+286 others...</div>
                                         </div>
                                     </div>
                                 </div>
