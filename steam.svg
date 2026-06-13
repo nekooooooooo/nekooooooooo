@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="646" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="639" class="">
     <defs>
         <style/>
     </defs>
@@ -39,7 +39,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="m.427 1.927 1.215 1.215a8.002 8.002 0 1 1-1.6 5.685.75.75 0 1 1 1.493-.154 6.5 6.5 0 1 0 1.18-4.458l1.358 1.358A.25.25 0 0 1 3.896 6H.25A.25.25 0 0 1 0 5.75V2.104a.25.25 0 0 1 .427-.177ZM7.75 4a.75.75 0 0 1 .75.75v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5A.75.75 0 0 1 7.75 4Z"/>
                             </svg>
-                            3.02k hours played
+                            3.03k hours played
                         </div>
                     </section>
                 </div>
@@ -68,7 +68,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        26 hours played
+                                        30 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -76,7 +76,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M4.75 0a.75.75 0 0 1 .75.75V2h5V.75a.75.75 0 0 1 1.5 0V2h1.25c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0 1 13.25 16H2.75A1.75 1.75 0 0 1 1 14.25V3.75C1 2.784 1.784 2 2.75 2H4V.75A.75.75 0 0 1 4.75 0ZM2.5 7.5v6.75c0 .138.112.25.25.25h10.5a.25.25 0 0 0 .25-.25V7.5Zm10.75-4H2.75a.25.25 0 0 0-.25.25V6h11V3.75a.25.25 0 0 0-.25-.25Z"/>
                                         </svg>
-                                        Last played on 12 Jun 2026
+                                        Last played on 13 Jun 2026
                                     </div>
                                 </div>
                                 <div class="achievements">
@@ -85,32 +85,32 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            10 / 74 achievements unlocked
+                                            12 / 74 achievements unlocked
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAACAYHCf/EAC0QAAIBAwIFAQcFAAAAAAAAAAECAwQFEQAGBxIhUWExCBMiMkFxkRUjQlKS/8QAFgEBAQEAAAAAAAAAAAAAAAAAAAIB/8QAGREBAAMBAQAAAAAAAAAAAAAAAQACERIh/9oADAMBAAIRAxEAPwA27QsE+59x0NoppEiapkw0z/LEgGWc+AATpMbN4P2OzXAVApkuSIOVZLjEH5j9WEeeVfAPMR3zqR9kiy2i4Xa91VfPGK+FYooUYdVRixZh3yVVfGfOmDQ2yjp0UxIrkejN11FhXyXVA1h13xwm2fcXeSeJrbWuM81vjCYJ/k0fykf5J76MG89vzbX3JW2meVZ/cP8ABMowsqEZVx9wR0+nprofvO8WK3wcl7WOpmIzHTKoaRu2P6/c40PfaUp6T9WtNXHSmirJom5qZiWIjzlMk/UZP58aV0fZribJrglUXO27oe6WtEnjpYwKumDfuvAxwWRPVuUhWPLkjp00xbLuiO+WCc2O5RiZ0Makvh4X8j1B+41z/oayooKqOpoppIKiM8ySRsVZT4I1udg4m1FLFQ1F9qKS61aJh/ecqZzjoSgGe2T51Nuh0m0apjN9aKx7Yia4XWtjkrCcmed8szdlByc/k6KXHipuFz3cLrXhYqaoUx0UDNiVYUPR2Q/EoZixHMAT17aorrxLuBSontFTT0VYysEcMsjJ1JwC2ceuBjtrG7jXVNxrJauvnlqKmU8zyysWZj5J0p0usXa5g7P/2Q==" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAACAcG/8QAKxAAAQMCBQMDBAMAAAAAAAAAAQIDBAURAAYSITEHE2EiQVEIMnGBFCNi/8QAFwEBAQEBAAAAAAAAAAAAAAAAAQMCBP/EABwRAQADAQADAQAAAAAAAAAAAAECAxEABCHBMf/aAAwDAQACEQMRAD8ANuT6A/mfMcGkRXENKkuWU8v7WkAXUs+AAThGZa6Y5ay1Uu6tg1VaEjSmXFMhxX++0n0tg+2q/HOMl9L8GkJOZ6xPUhydBjo7LKhvoOpSlD5uUJT4v5xWkprbEBNqcvuPgOPupSXFrWoXJ9KlWG+1thta2I2ST0d00VE/3597KZmyFkPML6u41Ko9Rd+z+PF7GpW5uEH0L4JIGk2B+MHPOeX3ssZkm0l91L/YX/W8kWS6gi6Vj8gjb24wkpgcas6+wELCx2y62pF3L+mxUiwN+MTj6kIsRFQokpA0Tno13EAco2KT+iVD9+MFc1ce35NBWEjs50UfqUDMztSprTclmO3pmxdQLjjCzZSko5WEmxNrkfGEnR+zUILS8vutS4yCE6TNcbfaN76VDfjgbDa2BjBmSIEpuTCecYkNnUhxtRSpJ8EYudA6myIrUF+uyIlVloRZfc0ovf2JQBf4384bIq7m9KqZEzc62VN5bMUrzJVVxqepIS7GffQ6XSDdIQbar7WvyPYE4MfXeTPqWbE1SalDMV9JahRydLiWEGwUpv7kBRKiNQBI/GNFVeplR0SH6RJjwpikqCFhSXFI3JsCq9ubC3xiN1GdJqMx2XPfdkSXTqW66oqUo+ScNZLdTOLJCYPf/9k=" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Sujimon Snag 'Em</div>
-                                                <div class="unlocked">12 Jun 2026</div>
+                                                <div>30 Mins or It's Free</div>
+                                                <div class="unlocked">13 Jun 2026</div>
                                             </div>
-                                            <div class="description">Recruited 10 Sujimon from battle.</div>
+                                            <div class="description">Completed all Crazy Delivery courses.</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABwYI/8QAKhAAAgIBAwIFBQADAAAAAAAAAQIDBAUGERIAIQcxUWFxCBMiMkGBkcH/xAAXAQEBAQEAAAAAAAAAAAAAAAACAAME/8QAGxEAAgMBAQEAAAAAAAAAAAAAAREAAgMEITH/2gAMAwEAAhEDEQA/AM26QwE+p9R0cRWkSJrMmzSv+sSAbs59gAT1p/QfhDpvEZBmFJc1bA2hTIAHl6yFN+KD0B5bbee/UH9KuMw81vUGRyEqG9WjiSGNh3WNiS7D17qq+2/v00RZulPmcxFWnt0ZJIISlisUJdFJH4v5KfIEHYjYHuCD1hvc1Hk6OfMXKkDrbw40pYzkeMzOPmwmYsRNJHNjypjl278gv6kDuCCFP++s6az0/NpfUl3EzyrP9h/wmUbLKhAKuPkEfHl1r6njoMxqOO8blm9JVaYoLTqWVWHABdv537+h6E/qcxtWnmsVKg43HhZXHHs6A7g7+oJYf59ujhoT9j6MhU+SX8ELWUxmqJcni0WeKvFxuV1YGV4GOzMqeb8SFJ2BI9Omi0Y8tYe/p+SI8z+cSFYnjb+jb/h2+P51lqjcsULUdmlNJBYjPJJI2Ksp9iOnHCeJUsMFKXUEtLL2Uj2kEvFN9/4SoG/pv89O9S2A4M7gVTUqajz4LKz5DIZMJ9yuarR/iSyk8uIHlyLDfsO3bog8aJsne1BDkcmEhhsKy1K5bjIsSn92jJ3TkxJG+xPft26p8h4j3YobEmCmq4+yysEZCjlO5OwLA+uw+Oh7I3rORuS2788tizKeTyysWZj7k9WdC2QpaaMENuf/2Q==" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABwYI/8QAKhAAAgICAAUDBAIDAAAAAAAAAQIDBAURAAYSITEHUWETIjKBCEEUI3H/xAAYAQADAQEAAAAAAAAAAAAAAAAAAQIDBP/EAB0RAAICAgMBAAAAAAAAAAAAAAECAAMRMQQhQXH/2gAMAwEAAhEDEQA/AM28n4CfmfmOjiK0iRNZk00z/jEgG2c/AAJ407yZ6IYum81uoIrP0dIk2Trib6h8lhH+Cf12IYj33xDfxUxmJnuZ/IXpEa/WSGOGIjuEYksw99lVX9/PCr6p51MbiUkqR5CtYkUwizVkZTHGzDfV0kbOlOvOt8Y2uVnRx6w5xDjP8icu3ecbGGzX+PXtTRNLXt4hVRlKnuJYhpD4P9Kfk8B/OfL83K/Ml3EzyrP9B/smUaWVCAVcD5BH/PHGjeQMLFd5gp24nkk0k0way3VK6EgEb8nuw8+N8Qf8m8fTqZzFyRnputCyyDX5IDtT+iWH7+OFU5O476gh6kt6J2cnjeaJMpi41sR1Y9W6yt/teBjosieW6SFJ1sjt24f7dibnDFBqeXQATuZImCgRpofZ0+d+x7E74yLRuWKFqOzSmkgsRnqSSNirKfgjhywXqZNXhozZ+anlrSJpxL0pvwdEqBvXjZ4LUZtQosCfYj4CpFytZXJ5C9HUaJTDHHKwYyRk7K6+SB2XvscBHrtayOU5sXK5FUhgsKY6cBbUiwofzZD9yhmLEdQBPf24o8p6l5D6dibD2K1K2ysEdWWRk7k6BbevOhr24G8jes5G5Lbvzy2LMp6nllYszH5J4pA3oxIsYH3Jn//Z" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Saving Lives</div>
+                                                <div>Misgivings</div>
                                                 <div class="unlocked">12 Jun 2026</div>
                                             </div>
-                                            <div class="description">Completed 20 substories.</div>
+                                            <div class="description"></div>
                                         </div>
                                     </div>
                                     <div class="achievement">
                                         <div>
-                                            <div class="description ellipsis">+8 others...</div>
+                                            <div class="description ellipsis">+10 others...</div>
                                         </div>
                                     </div>
                                 </div>
