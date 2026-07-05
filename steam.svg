@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="646" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="652" class="">
     <defs>
         <style/>
     </defs>
@@ -68,7 +68,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        3 hours played
+                                        5 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -85,32 +85,32 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            3 / 50 achievements unlocked
+                                            11 / 50 achievements unlocked
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGwAAAgEFAAAAAAAAAAAAAAAABAYHAAIDBQj/xAAsEAACAQIFAQcEAwAAAAAAAAABAgMEEQAFEiExUQYTIkFxkdEHMkOBUmGx/8QAGAEBAAMBAAAAAAAAAAAAAAAAAgABAwT/xAAaEQACAwEBAAAAAAAAAAAAAAABAgADERIx/9oADAMBAAIRAxEAPwDneCAyukcaFnYgAdTg+my/vaeVUGqp16Bv4VA+5j/mLstj/LGbzJIgVTwb3HxhnynJZq1GWnqoqOnD6WndSzzSXGrSARsLi5uLeXBxx2Wc+zausZ00Uc3oIqOnRWLSzsQWYbKg9Op/v2xqMwpGppDGw3ADfoi+JAz/ACpsuqKanzJUemfxwyxBkVj/ABZW3U8c9RvY3wv9qIriNgjat7lha/GLrs8jetSCyysulihaN5DpZJFa9+V4I/XPvh/7B5xT0UCQzSLDVU7OrF0Vg6ltQI1bA3J9dsRlDLpKsD4hxtfB1NUJLOoqNKrwGS4K9N78evGBYvQyRCCMMcPqLnK5u7SARySyOt+7UgFtIUetwOfjCvnKMYgGtdRYkcX5PxjE1TBDUO0N2kBsJGfVv528h0v7YErqwOhXVt06YCryAqjyI4ARP//Z" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGwAAAQQDAAAAAAAAAAAAAAAABQAEBgcCAwj/xAAqEAACAQIFAgUFAQAAAAAAAAABAgMEEQAFEiExQVEGInGBkRMyYbHRQ//EABcBAQEBAQAAAAAAAAAAAAAAAAIDAQT/xAAaEQEAAwEBAQAAAAAAAAAAAAABAAIDERIx/9oADAMBAAIRAxEAPwDneCAyukcaFnYgAdzh/TZf9WnlVBqqdegb+VQPuY/rGWWx/wCsZvMkiBVPBvcfzBWKCpllNLlgA0m8sp2Lt136euOW1n5L55CdYDzegio6dFYtLOxBZhsqD07n8/GBGYUjU0hjYbgBvYi+JnWQmOWOmzOnCKrXUxnyE9j+ON8DPFEVxGwRg3muWFr8Yymj0GO+RxSLLpYoXjeQ6WSRWvfleCPbn5xYPh/Ocvm8Pw5fVwfTzSjvDHKCAJE1dT7nY+2Kwhl0lWB8w42vh9TVCSToJyqKNgyXBXtvfj9YGlfRFhoVTslPi7MY1p5qSGJNclo7Ib6tx1+NsR7OUYxgNa6ixI4vyf5jU1TBDUO0F2kBsJGfVv1t29cNK6sDoV1bdu2BUTgSm2nvs//Z" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>The Hunt Is On!</div>
+                                                <div>Hunters United</div>
                                                 <div class="unlocked">5 Jul 2026</div>
                                             </div>
-                                            <div class="description">Completed your first Field Survey.</div>
+                                            <div class="description">Completed a quest via multiplayer.</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGwAAAgEFAAAAAAAAAAAAAAAABAYHAAIDBQj/xAAuEAACAQIFAQcCBwAAAAAAAAABAgMEEQAFEiExUQYHE0FxkdEigRQjMkNhseH/xAAYAQEAAwEAAAAAAAAAAAAAAAACAAEDBP/EABoRAQEAAwEBAAAAAAAAAAAAAAIBABESAzH/2gAMAwEAAhEDEQA/AOd4IDK6RxoWdiAB1OD6bL/Fp5VQaqnXoG/0qB+pj/WLstj/AHYzeZJECqeDe4+MMmVZFmmarLFkSRFImImleVULvyeSOvOOa1K6ObAGTp4qZvQRUdOisWlnYgsw2VB6dT/PtjUZhSNTSGNhuAG+xF8SJnfZ+uy2CA57SwxQeKFQxTqQWsTpKgkjjn5wt9qIriNgjat7lha/GKKRvKxIFGo/MrLpYoWjeQ6WSRWvfleCPtz74f8Au8KijmheRY5YqhmbWLq2w59f9xGUMukqwP1Dja+D6apSSZROVReAyEqR08+PXjEiou5h5jPNx27yCPwVP+b4rM4REIuzHfctx52thQzlGMQDWuosSOL8n4xiaqghncwlmcGwkZ9W/nbyHr7YErqwOhXVt06YDa9FvWMieZ53n//Z" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGgABAAMAAwAAAAAAAAAAAAAABgIEBQAHCP/EACoQAAIBAgUDAwQDAAAAAAAAAAECAwQRAAUSITEiQVEGE4EyYZHRcaGx/8QAGAEAAgMAAAAAAAAAAAAAAAAAAQIAAwT/xAAdEQADAAICAwAAAAAAAAAAAAAAAQIDQRESITFR/9oADAMBAAIRAxEAPwDzvBAZXSONCzsQAPJxfpsv92nlVBqqdegb9KgfUx/zEstjvaWI3mSRAqng3uP1hHlOUVOYVJosvcQgAu8hHVKe5Hgb8/AxlqnovxYlXvYVzegio6dFYtLOxBZhsqD+PJ+/4xkZhSNTSGNhuAG+CL47B9QZUcuqYKXMhE0dwymFukE36W8Xtzftg96oiuI2CNq3uWFr8YkW00mPkxJJv4cy6WKFo3kOlkkVr35Xgj45/OGHo/Maagy+uiqqF55g2kyhre3ubEHySf6wBhl0lWB6hxtfGjRVpFSheT2gCCGjYqVtuO/APnjC1sEcUurE/q2op5stgVADMsYjBdCDO2qxZe+xHJwdzlGMYDWuosSOL8n9YjLWxrOxR3kdCQsjya7X3OnsN77jFGurA6FdW3jxhaura8B6qJaT5P/Z" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Windward Lands</div>
-                                                <div class="unlocked">28 May 2026</div>
+                                                <div>Was It a Meal to Remember?</div>
+                                                <div class="unlocked">5 Jul 2026</div>
                                             </div>
-                                            <div class="description"></div>
+                                            <div class="description">Cooked over the BBQ Grill for the first time.</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
                                         <div>
-                                            <div class="description ellipsis">+1 other...</div>
+                                            <div class="description ellipsis">+9 others...</div>
                                         </div>
                                     </div>
                                 </div>
