@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="637" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="630" class="">
     <defs>
         <style/>
     </defs>
@@ -68,7 +68,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"/>
                                         </svg>
-                                        67 hours played
+                                        68 hours played
                                     </div>
                                 </div>
                                 <div class="infos">
@@ -76,7 +76,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path d="M4.75 0a.75.75 0 0 1 .75.75V2h5V.75a.75.75 0 0 1 1.5 0V2h1.25c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0 1 13.25 16H2.75A1.75 1.75 0 0 1 1 14.25V3.75C1 2.784 1.784 2 2.75 2H4V.75A.75.75 0 0 1 4.75 0ZM2.5 7.5v6.75c0 .138.112.25.25.25h10.5a.25.25 0 0 0 .25-.25V7.5Zm10.75-4H2.75a.25.25 0 0 0-.25.25V6h11V3.75a.25.25 0 0 0-.25-.25Z"/>
                                         </svg>
-                                        Last played on 12 Aug 2026
+                                        Last played on 13 Aug 2026
                                     </div>
                                 </div>
                                 <div class="achievements">
@@ -85,32 +85,32 @@
                                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                 <path d="M3.217 6.962A3.75 3.75 0 0 1 0 3.25v-.5C0 1.784.784 1 1.75 1h1.356c.228-.585.796-1 1.462-1h6.864c.647 0 1.227.397 1.462 1h1.356c.966 0 1.75.784 1.75 1.75v.5a3.75 3.75 0 0 1-3.217 3.712 5.014 5.014 0 0 1-2.771 3.117l.144 1.446c.005.05.03.12.114.204.086.087.217.17.373.227.283.103.618.274.89.568.285.31.467.723.467 1.226v.75h1.25a.75.75 0 0 1 0 1.5H2.75a.75.75 0 0 1 0-1.5H4v-.75c0-.503.182-.916.468-1.226.27-.294.606-.465.889-.568.139-.048.266-.126.373-.227.084-.085.109-.153.114-.204l.144-1.446a5.015 5.015 0 0 1-2.77-3.117ZM4.5 1.568V5.5a3.5 3.5 0 1 0 7 0V1.568a.068.068 0 0 0-.068-.068H4.568a.068.068 0 0 0-.068.068Zm2.957 8.902-.12 1.204c-.093.925-.858 1.47-1.467 1.691a.766.766 0 0 0-.3.176c-.037.04-.07.093-.07.21v.75h5v-.75c0-.117-.033-.17-.07-.21a.766.766 0 0 0-.3-.176c-.609-.221-1.374-.766-1.466-1.69l-.12-1.204a5.064 5.064 0 0 1-1.087 0ZM13 2.5v2.872a2.25 2.25 0 0 0 1.5-2.122v-.5a.25.25 0 0 0-.25-.25H13Zm-10 0H1.75a.25.25 0 0 0-.25.25v.5c0 .98.626 1.813 1.5 2.122Z"/>
                                             </svg>
-                                            353 / 641 achievements unlocked
+                                            357 / 641 achievements unlocked
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAwQGBQf/xAAyEAABAwMDAgIGCwAAAAAAAAABAgMEBQYRABIhMUEHIhMUUWFxsRYjN1V0gZGTwcLR/8QAGAEBAAMBAAAAAAAAAAAAAAAAAgEDBQb/xAAgEQACAwEAAQUBAAAAAAAAAAABAwIEEQAjITFhcfCB/9oADAMBAAIRAxEAPwDitnW5S63b6nJDbiJCHShTqF4PAB6HjofZpli2rSaeSpdWQ6B1QuUgA/HGDpq3W0N+GchaEhKnI76lEdz5hn9ANV8l2nUygWZQ7csyh1KfUqWidKn1KMVDcQdwCgQRgj29wO+sVMG2WNxhABzupstRSQgyTGUpRB397/PRUyg2m8pj1adEYCXMuYlZ3px05PHONDvW3qLS6A5Iixi1IK0pbV6RRySeep9mdP1KrQZ9IuKmSrXocWfDb3Im0xrCEnuklRPPXpjp7uVrnjpf8N4LqlEFhphwe8kBP9tQ1TK7Va0kE5yr2E3UWCERiRHfQfs/nDtduWLAqC33AYyo7wYbA5HCsk/nq2F40B3w6plME+OZiKV6mttwkAL2nqRzjzY454Pu1zWzrrYpFMMSUkrTvUoY7A4wPnp76S2z90Rf2R/mrFzdXazxkgnRnFyK96unHiJjHCCeqKhVLVZ8MpUGJKgt1JUcJ9BGyNzoA3KJPUY3AZJPTWRX/swb/DR/mnWaq5bb3I20iLjPm+pHAx8PhoV1XhEqlDehRm1BThSMnsAQf40Hl1livGQAQeVVNeih+vjIyiQAPrv/2Q==" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAABQQGAwf/xAAqEAACAQMDAwMDBQAAAAAAAAABAgMEBREABiESMUETUWEHInEUIzKxwf/EABkBAAIDAQAAAAAAAAAAAAAAAAECAAMFBv/EACMRAAEEAgEEAwEAAAAAAAAAAAECAwQRACFBMWGR4QUSFFH/2gAMAwEAAhEDEQA/APFdm7btd82+0lRHIlSkxQyo+Dxg9u3n20zT/T+zxyq7SVUqjujSDB/OADrFWavroqVaanaeEBC0YhcIHLNhmbP8uAVGO2AfGkEvUFnvyT2ujmoqZ2VJqUy+qGXzjJ5OckH51ivx5RUotuEX0HvjOsiSIIabLrINAWfVb73xvfTNTW7FtEpg/TxGnVZMyYdj1rg8cnjnGi967dstqsElRS0xiqC6rG3qMcknnufbOuKXyC81M8lxp3rYFlKJQvGUWKPK/uBllUmTAYYIK8/PAe4aqnltdFSW43UiKNXq0q5llRXACgx4H2rliMH3HfSx48oKQXHDo7615590MWX8hAUlxDLA2DR15rjz3y3au1Ku525Kkz00FPJkqxi9R8g4xg8Ad/OpLhb6e3X6Wjq6tWWGPmQRCL7iPGPg99XbN3ZDZ7aaSqUsPUZgR4Bxgf3pSq3fYauQSVdvinkAwGkjDHHtyNWl6W2+oqQVJ4qsCYkB6GgIcCF6uz23q8zFnoY7lfUo4ahYxKp6XMay8gZ5z8DvpHcm06q3W6pqpaimkp4ekqyRdDsSQMEDgDk+T20rTbvsdJMr0VuhhY/azRxhT0/kD3xqTdW8KS6WSejpo2Dylck54AIP+aBfmLfT9UEI1d1/d5Pw/HNRF/dxKnBdEHtoVe95/9k=" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Options?</div>
-                                                <div class="unlocked">12 Aug 2026</div>
+                                                <div>A Pound of Flesh</div>
+                                                <div class="unlocked">13 Aug 2026</div>
                                             </div>
-                                            <div class="description">Complete the final chapter with Isaac.</div>
+                                            <div class="description">Complete the final chapter with Cain.</div>
                                         </div>
                                     </div>
                                     <div class="achievement">
-                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABgQFA//EACwQAAEDAwQABQIHAAAAAAAAAAECAwQFBhEABxIhExQiMUFRgRUWFyMyUnH/xAAXAQADAQAAAAAAAAAAAAAAAAAAAQIE/8QAHhEAAgMBAAIDAAAAAAAAAAAAAQIAAxEEEiExQbH/2gAMAwEAAhEDEQA/ABG1Fg2zeVhqemxZDNQakKZclNPEKOMKGAcpxxUB7aQUXaGxnai6GKlJqS4quL8bzaCEnsYXwAUOwfke2sm2W+OztrRGFKYaqtSUzN8I8VPo5O5SVDvsISCR8DGkjdq0rzyI1Jjx6VNjPOIp9VYd4uBSE5Uh1vJ5kYwoq6IJPyM29q14CJjTntu82V89nJzuXayxoiILzxZpEdMgF1TspQD6eJ/bBWrrJwcjvAOsTd2w7Rtyxpc6nQBGnFbbcdfmFqyoqGRgqIPpCtIPy4mWtVSuCPHrFWkIBU6tl15ppJAUGmm0ghAAIwpXqzk4wc6CXfSlR7LuimOOOtxKO7Dlxo/IlLa3FLbWAVZPE5zjPv8AfSW5XJUCB5bagru5+Rona2olxfpNRp0Vnz0eJUPHjRozfJxKB4qVKI91etXsPYd/5RT9wJlFrCHK1Akw5SuTgRLaUkerorCT0CcEFQx86j2h3Mpts20KXWHHPS84tshBIQghOB0PklZ00nbuWZUIy485IksLxybejqWlWDkZBT9dU1aWDSZK9F1DlQmjfqFqnuB+Jzm2KVCenSCjg0y0gu8QE4ISnsD0jvGM/Op6q3VXtub1qNVpj9PS8mEy2l5vwyrg73hJ7wApPftpVB3YsqlIQzSYqIzC3CpxMeMWwPT/ACICR9ANYO6W6NDuCy5tKpinXJElTY7QQEhKwrPYH9cffQtSINBjfpuuYL4EDR+z/9k=" alt="" />
+                                        <img src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAgACADASIAAhEBAxEB/8QAGQAAAgMBAAAAAAAAAAAAAAAAAwUAAgQH/8QAKRAAAgEDAwQBAwUAAAAAAAAAAQIDBAURAAYhEjFBURUTYZEHFCMycf/EABgBAAIDAAAAAAAAAAAAAAAAAAIFAAED/8QAIhEAAQQBBAIDAAAAAAAAAAAAAQIDBBEAEiExQWFxkaHR/9oADAMBAAIRAxEAPwDjmyds2i/baMlTDLHVJK0bTJIQeMHgHI7HHbRZttbVoDBItRV3KSU4ipIJFkebkjgKAccHz41LXLEv6eUVuhylbdGkVCriMZDnqZ2PAUAAH2ONZbFWpZnqeu3wVq09Ss4uVBEWELAZUB8AqBgnjv57abyJDMdtCQ2FK0g3742xiyyldXQ84auoNlNFRSLK1GTJ1SxfyNJgcFGHPSc4/Bxo29dvWC3bYkrKCBUlcoIZFlZg2TnjJweM6LFa3ucY3BRXWSnudZUFuF6Y4Yg3SGcnlmIGeB5H30puEcbbNu9E8jPLbatJwyEGNg5wAo8DBPHvzoWJjb4cQW0g6TVDsDf9w34xaRqI2PBr4+t8vbLPX3DY9JN0JURQTmSKGMYkMWWEgB9k+Pt70+h3BZopKv4ym+NeeNYZqFQUB6OwZc8kEE5950h2NvCls9p/Z1xc4kZlIH9Rxgfnq00um6trXRSK+kWZiAvWUIcAHOAwGRonYseS0hQdCVAAEHJFlBgak0T5xXseShrJIvm55HpYSAKSOQxK+AcdTDnH+Y7d9CvVQKWl3BbKNY1oJI0qlVXL9L/VRThjzg/fPbvrdeL/ALVuYpxNSurRL9NJIgUMS44xj0cYHOll1vNli2vVW21CaSepZTJNNy7YYHk4HbGANYJipYWpSXQRR45NjispyQhTOjax33n/2Q==" alt="" />
                                         <div>
                                             <div class="name">
-                                                <div>Item Descriptions</div>
-                                                <div class="unlocked">12 Aug 2026</div>
+                                                <div>The Hoarder</div>
+                                                <div class="unlocked">13 Aug 2026</div>
                                             </div>
-                                            <div class="description">Read Up!</div>
+                                            <div class="description"></div>
                                         </div>
                                     </div>
                                     <div class="achievement">
                                         <div>
-                                            <div class="description ellipsis">+351 others...</div>
+                                            <div class="description ellipsis">+355 others...</div>
                                         </div>
                                     </div>
                                 </div>
